@@ -1,0 +1,1201 @@
+Name,Age,Gender,Blood Type,Medical Condition,Date of Admission,Doctor,Hospital,Billing Amount,Admission Type,Discharge Date,Medication,Test Results
+John Higgins,82,Male,B+,Hypertension,2024-05-26,Alan Cabrera,John Marcelo Clinic,8166.63,Elective,2025-03-11,Metformin,Critical
+Christopher Martinez,11,Male,AB-,Hypertension,2021-12-14,Deanna Fleming,Sam Isaac Group,42308.73,Emergency,2024-01-19,Omeprazole,Normal
+Victor Cole,18,Other,A+,Asthma,2022-01-15,Timothy Ramirez,SRK Healthcare,2667.2,Emergency,2022-04-11,Lisinopril,Abnormal
+Kristina Wallace,4,Male,A-,Hypertension,2024-04-10,Chelsea Roberson,SRK Healthcare,21387.95,Emergency,2025-06-20,Aspirin,Normal
+Emily Gilbert,95,Female,B-,Heart Disease,2024-09-11,Jonathon Black,FynnCare Hospital,20321.21,Urgent,2024-10-28,Aspirin,Critical
+David Gomez,63,Female,A-,Migraine,2024-11-30,Deanna Fleming,SRK Healthcare,13864.97,Elective,2025-11-29,Losartan,Abnormal
+Mark Charles Jr.,14,Other,A-,Arthritis,2022-03-28,Jonathon Black,John Marcelo Clinic,24080.9,Urgent,2022-10-08,Paracetamol,Normal
+Megan Velasquez,82,Other,O+,Obesity,2023-08-06,Christine Newman,Clara Vincent0,10674.71,Urgent,2023-10-22,Paracetamol,Critical
+Denise Moody,27,Female,B-,Migraine,2024-10-29,Brian Keith,FynnCare Hospital,1478.02,Urgent,2025-09-04,Paracetamol,Abnormal
+Amanda Butler,2,Other,O+,Cancer,2024-11-02,Christy Hall,Red Hills healthcare,29020.5,Emergency,2025-09-09,Aspirin,Abnormal
+Shawn Ware,100,Other,AB-,Diabetes,2023-07-13,Karen Black,Sam Isaac Group,4845.37,Elective,2023-09-06,Atorvastatin,Critical
+Stephanie Garrett,60,Male,B-,Depression,2023-08-24,Chelsea Roberson,Jacoby Stuarts ,22145.82,Emergency,2024-09-19,Paracetamol,Critical
+Debbie Wang,62,Other,AB-,Hypertension,2022-07-08,Deanna Fleming,SRK Healthcare,25495.21,Elective,2023-08-15,Omeprazole,Normal
+Craig Walker,100,Other,AB+,Arthritis,2023-06-29,Kim Peterson,SRK Healthcare,31096.36,Routine,2025-06-20,Losartan,Normal
+Megan Everett,93,Female,B+,Migraine,2024-12-03,Christy Hall,SRK Healthcare,14926.36,Elective,2025-06-22,Amoxicillin,Abnormal
+Gregory Parrish,34,Male,O+,Arthritis,2024-11-25,Eric Johnson,Red Hills healthcare,26260.05,Elective,2025-04-09,Losartan,Abnormal
+Hailey Clark,17,Male,AB+,Migraine,2022-11-16,Karen Black,Sam Isaac Group,46289.18,Urgent,2025-01-05,Aspirin,Abnormal
+Aaron Lewis,7,Other,B+,Diabetes,2023-04-22,Jonathon Black,SRK Healthcare,6515.61,Emergency,2024-04-17,Omeprazole,Critical
+Kristin Christensen,59,Female,O+,Hypertension,2024-02-26,Christy Hall,Scott Island Hospitals,31182.19,Urgent,2025-06-07,Omeprazole,Normal
+Michael Robinson,59,Male,B-,Asthma,2022-10-09,Christine Newman,Clara Vincent,15837.35,Emergency,2024-12-29,Metformin,Normal
+Victoria Farley,57,Male,A-,Obesity,2022-01-09,Rebecca Jones,Clara Vincent,46938.42,Emergency,2023-09-21,Metformin,Critical
+Lauren Copeland,82,Other,O+,Migraine,2022-07-14,Deanna Fleming,Jacoby Stuarts ,44910.92,Urgent,2024-07-17,Amoxicillin,Abnormal
+Heather Hobbs,63,Male,A-,Diabetes,2023-10-23,Kim Peterson,Sara & Sue,38614.34,Routine,2024-10-24,Omeprazole,Normal
+Walter Johnson,96,Male,A-,Anxiety,2024-04-21,Jonathon Black,John Marcelo Clinic,14782.54,Routine,2025-10-19,Aspirin,Normal
+Carol Mccormick,52,Other,AB-,Heart Disease,2021-12-11,Chelsea Roberson,Red Hills healthcare,11667.98,Urgent,2023-06-20,Metformin,Abnormal
+Benjamin Lee,4,Female,B+,Heart Disease,2023-12-31,Timothy Ramirez,Jacoby Stuarts ,7447.0,Emergency,2025-05-05,Atorvastatin,Critical
+Peter Johnston,4,Female,B-,Obesity,2024-04-05,Alan Cabrera,SRK Healthcare,38807.5,Routine,2025-09-06,Aspirin,Normal
+April James,87,Male,O+,Migraine,2022-08-11,Allison Carlson,Sam Isaac Group,6476.54,Elective,2024-05-17,Lisinopril,Abnormal
+Kathryn Allison,96,Male,A-,Obesity,2023-11-18,Chelsea Roberson,FynnCare Hospital,10594.15,Routine,2024-04-02,Aspirin,Abnormal
+Jessica Martin,77,Other,B-,Depression,2022-05-15,Christine Newman,SRK Healthcare,32274.72,Emergency,2024-10-03,Lisinopril,Abnormal
+Lisa Harvey,24,Male,B-,Obesity,2022-04-20,Christy Hall,SRK Healthcare,44241.26,Emergency,2025-04-14,Amoxicillin,Abnormal
+Dr. Jillian Benson MD,51,Male,AB+,Heart Disease,2023-01-28,Kim Peterson,Red Hills healthcare,23990.69,Elective,2023-02-27,Metformin,Abnormal
+Kathryn Pena,56,Male,B+,Heart Disease,2024-11-29,Miss Gina Nixon MD,John Marcelo Clinic,31265.23,Urgent,2025-01-12,Paracetamol,Abnormal
+Stephanie Smith,14,Female,B+,Migraine,2024-05-25,Brian Keith,Sam Isaac Group,42237.86,Elective,2024-07-01,Ibuprofen,Abnormal
+James Brown,94,Male,B+,Heart Disease,2024-07-09,Alan Cabrera,Sam Isaac Group,20249.92,Elective,2025-07-20,Losartan,Normal
+Susan Miller,94,Other,AB-,Migraine,2023-08-23,Timothy Ramirez,Jacoby Stuarts ,8887.5,Routine,2023-10-17,Metformin,Critical
+Stephanie Jackson,76,Other,AB-,Asthma,2023-10-15,Andrew Greer,Sam Isaac Group,47368.62,Urgent,2024-09-26,Amoxicillin,Normal
+Jennifer Johnson,6,Other,AB-,Cancer,2024-06-07,Calvin Martin,Sara & Sue,47712.52,Routine,2025-04-13,Lisinopril,Normal
+Jennifer Williams,31,Other,B+,Arthritis,2022-01-19,Brian Keith,Red Hills healthcare,3275.88,Emergency,2022-05-10,Metformin,Abnormal
+Pamela Miller,62,Other,B-,Hypertension,2023-01-07,Chelsea Roberson,Red Hills healthcare,3906.18,Elective,2024-09-24,Paracetamol,Normal
+Ryan King,44,Male,O-,Cancer,2023-06-01,Christy Hall,SRK Healthcare,29970.43,Routine,2025-03-10,Metformin,Normal
+Lawrence Frey,78,Male,AB-,Heart Disease,2022-12-12,Alexandra Bennett,Jacoby Stuarts ,4711.79,Routine,2025-10-21,Atorvastatin,Abnormal
+Michelle Beck,12,Female,A-,Asthma,2024-07-12,Andrew Greer,Clara Vincent,25432.14,Elective,2024-08-29,Paracetamol,Abnormal
+Steve Copeland,57,Female,O+,Obesity,2024-05-02,Chelsea Roberson,Sam Isaac Group,20885.01,Elective,2025-10-11,Paracetamol,Normal
+Kimberly Wilson,46,Female,A+,Diabetes,2022-06-12,Timothy Ramirez,Clara Vincent,32824.14,Urgent,2024-07-17,Omeprazole,Normal
+Michael Moses,65,Other,AB+,Arthritis,2023-12-24,Mary Smith,FynnCare Hospital,17439.99,Emergency,2024-12-16,Amoxicillin,Normal
+Patrick Turner,39,Other,A+,Arthritis,2022-02-17,Alexandra Bennett,Red Hills healthcare,42823.78,Routine,2025-11-14,Atorvastatin,Abnormal
+Anita Carroll,55,Male,O+,Obesity,2022-10-21,Eric Johnson,FynnCare Hospital,9925.92,Routine,2023-02-02,Lisinopril,Abnormal
+Preston Wade,55,Other,O+,Diabetes,2024-12-05,Alexandra Bennett,Scott Island Hospitals,19348.1,Urgent,2025-11-21,Atorvastatin,Critical
+Donna Myers,56,Other,B-,Obesity,2024-04-20,Alexandra Bennett,Clara Vincent,29640.74,Routine,2024-05-18,Atorvastatin,Normal
+Mrs. Angel Sheppard MD,53,Other,AB-,Arthritis,2022-05-30,Karen Black,Sam Isaac Group,16333.63,Elective,2025-07-02,Metformin,Abnormal
+Laura Green,16,Female,B+,Cancer,2023-07-10,Kim Peterson,Sara & Sue,45586.01,Elective,2025-11-09,Ibuprofen,Normal
+Victoria Anderson,41,Other,A-,Heart Disease,2022-05-12,Eric Johnson,Sam Isaac Group,46570.99,Emergency,2025-09-18,Ibuprofen,Abnormal
+Donna Lara,98,Female,AB+,Heart Disease,2023-03-19,Chelsea Roberson,SRK Healthcare,11594.57,Urgent,2024-12-30,Lisinopril,Critical
+Nicole Beltran,57,Other,B-,Asthma,2022-10-15,Christine Newman,Clara Vincent,46344.55,Emergency,2023-02-13,Atorvastatin,Normal
+Katherine Rivera,84,Other,AB-,Anxiety,2022-06-18,Calvin Martin,Jacoby Stuarts ,13190.27,Routine,2025-03-15,Aspirin,Normal
+Dennis Bailey,33,Female,A-,Anxiety,2022-03-12,Emily Davila,Sara & Sue,6362.47,Urgent,2023-04-17,Aspirin,Abnormal
+Kaitlin Johnson,6,Female,AB+,Anxiety,2023-02-14,Deanna Fleming,Clara Vincent0,16162.59,Elective,2024-07-28,Paracetamol,Critical
+Scott Hodges,70,Other,O-,Depression,2024-09-15,Christine Newman,Scott Island Hospitals,3074.1,Urgent,2025-10-18,Amoxicillin,Normal
+Jason Jackson,80,Female,B-,Arthritis,2022-01-13,Jonathon Black,Clara Vincent,10070.02,Routine,2024-07-25,Amoxicillin,Critical
+Seth Weaver,95,Female,A-,Asthma,2022-09-17,Kim Peterson,Clara Vincent,8982.81,Routine,2022-11-12,Losartan,Normal
+David Andrews,32,Other,AB-,Obesity,2024-10-24,Mary Smith,Clara Vincent0,2526.46,Urgent,2024-11-01,Losartan,Critical
+Derrick Evans,28,Male,A-,Asthma,2024-08-03,Alexandra Bennett,Clara Vincent,33887.93,Elective,2025-11-08,Ibuprofen,Critical
+Cody Jenkins,70,Male,B+,Migraine,2021-12-09,Rebecca Jones,Sara & Sue,45809.89,Routine,2022-03-28,Ibuprofen,Normal
+Willie Jenkins,96,Other,AB-,Diabetes,2023-09-12,Eric Johnson,Scott Island Hospitals,3065.51,Elective,2025-04-08,Ibuprofen,Normal
+Brittany Brooks,41,Other,O+,Heart Disease,2022-10-29,Calvin Martin,Sara & Sue,33732.8,Emergency,2024-03-09,Metformin,Normal
+Scott Bird,63,Other,A+,Diabetes,2024-01-24,Mary Smith,John Marcelo Clinic,40413.09,Emergency,2025-10-07,Amoxicillin,Critical
+Jessica Page,36,Female,A+,Heart Disease,2024-01-01,Rebecca Jones,FynnCare Hospital,22783.66,Elective,2024-06-22,Losartan,Abnormal
+John Ramsey,52,Male,O-,Arthritis,2024-04-10,Alan Cabrera,Clara Vincent0,49555.72,Urgent,2024-11-16,Ibuprofen,Abnormal
+Dean Best,12,Male,O-,Depression,2021-12-24,Calvin Martin,Clara Vincent0,7565.21,Emergency,2023-05-22,Losartan,Critical
+Kayla Love,62,Female,B+,Migraine,2023-12-19,Christy Hall,Clara Vincent0,42770.73,Routine,2024-10-12,Metformin,Critical
+Catherine Sanchez,67,Female,O-,Anxiety,2023-01-24,Allison Carlson,John Marcelo Clinic,1430.49,Urgent,2023-05-16,Omeprazole,Normal
+Gregory Brewer,57,Female,AB-,Depression,2024-04-16,Eric Johnson,Sara & Sue,29455.33,Emergency,2024-07-31,Lisinopril,Critical
+Donald Whitehead,58,Other,AB+,Cancer,2022-04-18,Emily Davila,Red Hills healthcare,22168.48,Routine,2024-01-16,Amoxicillin,Abnormal
+Melissa Jones,8,Male,A-,Depression,2024-03-18,Rebecca Jones,SRK Healthcare,25640.8,Routine,2025-09-04,Paracetamol,Abnormal
+Brenda Brown DVM,17,Other,A+,Diabetes,2024-07-25,Alan Cabrera,Red Hills healthcare,36148.24,Routine,2025-09-17,Amoxicillin,Critical
+Joseph Simmons,99,Other,A-,Depression,2022-07-09,Andrew Greer,Clara Vincent0,36808.49,Urgent,2025-03-15,Amoxicillin,Abnormal
+David Hall,14,Other,O-,Migraine,2024-11-06,Jonathon Black,John Marcelo Clinic,31613.44,Routine,2025-07-11,Metformin,Abnormal
+Joshua Crawford,73,Male,AB-,Diabetes,2022-12-11,Miss Gina Nixon MD,John Marcelo Clinic,44638.3,Emergency,2025-08-09,Paracetamol,Abnormal
+Madison Daniel,96,Male,A-,Diabetes,2024-05-03,Rebecca Jones,Red Hills healthcare,25957.11,Urgent,2025-11-27,Paracetamol,Normal
+Mercedes Estrada,33,Female,B+,Arthritis,2023-08-13,Allison Carlson,Clara Vincent,2359.24,Urgent,2025-10-03,Aspirin,Critical
+Mark Carter,51,Other,AB+,Hypertension,2022-11-29,Jonathon Black,Sam Isaac Group,36702.69,Emergency,2023-10-27,Losartan,Critical
+Regina Burns,8,Other,B+,Migraine,2023-08-06,Alexandra Bennett,Sam Isaac Group,28703.14,Emergency,2024-03-17,Ibuprofen,Critical
+Dalton Freeman,39,Male,A+,Depression,2022-10-23,Deanna Fleming,Scott Island Hospitals,39543.34,Urgent,2025-08-13,Lisinopril,Abnormal
+Kathryn Aguilar,99,Other,A+,Heart Disease,2024-11-03,Alexandra Bennett,Jacoby Stuarts ,44988.56,Elective,2025-09-20,Metformin,Normal
+Kevin Fox,58,Other,AB-,Hypertension,2022-07-11,Miss Gina Nixon MD,Scott Island Hospitals,33688.4,Elective,2024-09-07,Omeprazole,Normal
+Jonathon Wells,39,Male,A+,Depression,2024-03-16,Miss Gina Nixon MD,SRK Healthcare,10850.66,Elective,2024-09-27,Lisinopril,Normal
+Joseph Meyer,13,Male,O-,Hypertension,2023-02-04,Miss Gina Nixon MD,John Marcelo Clinic,34411.42,Elective,2024-10-28,Ibuprofen,Abnormal
+Brenda Wong,91,Male,B+,Anxiety,2023-01-24,Calvin Martin,SRK Healthcare,45742.35,Elective,2023-05-03,Lisinopril,Abnormal
+Crystal Diaz,41,Female,A-,Migraine,2024-08-14,Miss Gina Nixon MD,Clara Vincent0,17935.13,Emergency,2025-05-26,Amoxicillin,Normal
+Nathan Tanner,45,Female,AB-,Diabetes,2022-11-08,Miss Gina Nixon MD,Red Hills healthcare,13137.23,Elective,2023-03-08,Aspirin,Abnormal
+Susan Nash,71,Other,A-,Asthma,2024-11-28,Chelsea Roberson,Jacoby Stuarts ,43012.81,Emergency,2025-05-14,Omeprazole,Abnormal
+Cody Gonzalez,89,Male,O-,Migraine,2024-02-26,Tonya Stephens,Sara & Sue,25690.09,Emergency,2025-01-29,Metformin,Abnormal
+Kayla Thomas,2,Other,AB-,Migraine,2022-03-30,Christy Hall,Scott Island Hospitals,10699.93,Urgent,2023-12-12,Lisinopril,Abnormal
+Ian Sanchez,86,Male,O+,Asthma,2024-04-26,Alexandra Bennett,SRK Healthcare,12140.4,Routine,2025-02-16,Amoxicillin,Critical
+Douglas Ayers,86,Other,O-,Diabetes,2024-09-19,Alan Cabrera,Sam Isaac Group,37856.15,Emergency,2025-11-23,Ibuprofen,Critical
+Scott Baker,93,Female,A+,Asthma,2022-08-22,Christine Newman,Sam Isaac Group,35509.66,Emergency,2023-02-20,Aspirin,Critical
+Brent Jones,46,Other,AB+,Diabetes,2023-11-12,Alexandra Bennett,Scott Island Hospitals,43335.76,Routine,2024-11-26,Paracetamol,Critical
+Jonathan Bradford,37,Other,O-,Migraine,2021-12-14,Chelsea Roberson,Scott Island Hospitals,39532.21,Routine,2022-08-22,Omeprazole,Abnormal
+Brittney Peterson,46,Other,AB-,Heart Disease,2024-11-30,Mary Smith,FynnCare Hospital,26910.29,Elective,2025-06-22,Metformin,Normal
+Amy Blackwell,60,Male,O-,Depression,2022-10-28,Christine Newman,SRK Healthcare,13061.09,Routine,2023-06-25,Aspirin,Critical
+Anthony Acosta,83,Male,A+,Migraine,2024-02-21,Timothy Ramirez,Clara Vincent0,20773.78,Emergency,2025-06-10,Losartan,Normal
+Katherine Jones,36,Other,B-,Cancer,2023-09-12,Chelsea Roberson,John Marcelo Clinic,44964.4,Routine,2025-05-29,Atorvastatin,Normal
+Jennifer Johnson,60,Female,AB-,Asthma,2023-11-03,Kim Peterson,Sara & Sue,27354.8,Routine,2024-03-25,Metformin,Abnormal
+Brian West,14,Female,AB-,Migraine,2023-08-20,Miss Gina Nixon MD,John Marcelo Clinic,47855.87,Urgent,2025-07-21,Lisinopril,Normal
+Bryan Cannon,79,Male,A+,Diabetes,2024-03-01,Alexandra Bennett,Sara & Sue,22931.6,Routine,2025-09-29,Losartan,Normal
+Riley Sweeney,9,Other,B-,Depression,2022-04-29,Alan Cabrera,Sam Isaac Group,32834.98,Urgent,2025-05-10,Losartan,Critical
+Natalie Jenkins,52,Male,O+,Hypertension,2024-06-16,Miss Gina Nixon MD,Sam Isaac Group,34103.87,Routine,2024-12-04,Atorvastatin,Abnormal
+Matthew Ford,70,Other,A+,Arthritis,2022-08-12,Calvin Martin,Scott Island Hospitals,8823.04,Routine,2022-08-27,Ibuprofen,Critical
+Daisy Salazar,36,Other,A+,Hypertension,2022-01-24,Alexandra Bennett,John Marcelo Clinic,5615.14,Routine,2023-04-03,Omeprazole,Normal
+Jane Small,100,Other,A+,Anxiety,2024-10-21,Eric Johnson,Clara Vincent0,27492.02,Elective,2024-12-19,Aspirin,Abnormal
+Dr. Amy Johnson MD,29,Female,AB-,Diabetes,2023-04-01,Kim Peterson,Scott Island Hospitals,34304.84,Elective,2023-07-27,Lisinopril,Critical
+Michael Mason,32,Male,A+,Hypertension,2024-11-01,Brian Keith,Clara Vincent0,35247.57,Routine,2025-07-03,Ibuprofen,Critical
+Vincent Shea,85,Other,B-,Migraine,2024-11-25,Calvin Martin,Sara & Sue,18540.4,Emergency,2025-11-22,Amoxicillin,Critical
+Roger Peters,31,Male,O-,Obesity,2022-08-11,Allison Carlson,John Marcelo Clinic,5855.8,Emergency,2024-01-03,Aspirin,Abnormal
+Jodi Thomas,47,Female,A-,Hypertension,2024-12-03,Eric Johnson,FynnCare Hospital,44983.22,Urgent,2025-04-15,Aspirin,Abnormal
+Kari Gay,84,Other,B+,Depression,2022-09-15,Timothy Ramirez,Sara & Sue,22379.55,Emergency,2025-07-03,Aspirin,Critical
+Melvin Caldwell,71,Other,AB+,Asthma,2022-05-16,Jonathon Black,Clara Vincent0,46953.94,Emergency,2025-10-27,Ibuprofen,Critical
+Darlene Bush,63,Male,A-,Asthma,2023-05-27,Kim Peterson,Clara Vincent,46743.71,Urgent,2024-10-02,Metformin,Critical
+Kelly Woodward,77,Female,AB+,Cancer,2022-05-02,Allison Carlson,Sam Isaac Group,49346.28,Elective,2024-12-02,Ibuprofen,Critical
+David Jones,47,Female,B-,Diabetes,2023-09-24,Eric Johnson,Sam Isaac Group,1236.89,Emergency,2024-02-01,Paracetamol,Critical
+Troy Jackson,28,Male,B-,Heart Disease,2023-06-28,Tonya Stephens,Clara Vincent0,24308.68,Routine,2025-02-15,Paracetamol,Normal
+Jeffrey Delgado,88,Female,A-,Asthma,2022-11-29,Miss Gina Nixon MD,John Marcelo Clinic,46325.44,Emergency,2024-06-16,Losartan,Normal
+Michael Wallace,7,Female,B+,Diabetes,2022-04-01,Andrew Greer,Sara & Sue,12146.82,Emergency,2022-11-28,Losartan,Normal
+Douglas Nelson,72,Other,A-,Asthma,2024-05-07,Alexandra Bennett,John Marcelo Clinic,35019.16,Elective,2024-07-19,Metformin,Normal
+Henry Harmon,83,Female,A+,Diabetes,2023-12-10,Alexandra Bennett,Scott Island Hospitals,44230.9,Routine,2025-09-14,Atorvastatin,Critical
+Kristin Brown,33,Other,O-,Hypertension,2024-06-05,Jonathon Black,Sam Isaac Group,21592.32,Urgent,2025-08-21,Aspirin,Critical
+Richard Hamilton,32,Other,A-,Diabetes,2024-10-27,Miss Gina Nixon MD,Jacoby Stuarts ,23158.42,Elective,2024-11-26,Paracetamol,Critical
+Russell Moreno,20,Male,A+,Anxiety,2022-10-23,Christy Hall,Jacoby Stuarts ,9466.23,Routine,2022-11-01,Losartan,Normal
+Beth Pearson,19,Male,AB-,Migraine,2022-07-18,Allison Carlson,SRK Healthcare,43301.26,Routine,2025-02-06,Omeprazole,Abnormal
+Robert Wilson,26,Other,O-,Obesity,2021-12-07,Alexandra Bennett,Sam Isaac Group,16990.29,Elective,2023-10-07,Aspirin,Critical
+Scott Scott,58,Other,A-,Anxiety,2023-03-09,Timothy Ramirez,Clara Vincent0,18530.02,Elective,2024-06-13,Losartan,Abnormal
+Aaron Russell,57,Female,AB+,Obesity,2023-10-04,Alan Cabrera,Clara Vincent0,13512.9,Urgent,2024-06-29,Aspirin,Critical
+John Peterson,45,Female,AB-,Asthma,2022-03-08,Timothy Ramirez,Sam Isaac Group,38196.9,Emergency,2022-03-10,Paracetamol,Normal
+James Mora,43,Female,O+,Hypertension,2023-09-25,Allison Carlson,Red Hills healthcare,3813.71,Routine,2024-03-18,Amoxicillin,Critical
+Jonathan Powers,45,Other,A+,Obesity,2022-06-21,Andrew Greer,Clara Vincent,4875.44,Elective,2023-02-26,Atorvastatin,Abnormal
+Kevin Pierce,80,Male,O+,Diabetes,2022-01-07,Andrew Greer,Clara Vincent,7269.14,Urgent,2022-09-07,Paracetamol,Normal
+John Flores,74,Female,A+,Diabetes,2024-02-03,Rebecca Jones,Jacoby Stuarts ,25535.24,Elective,2025-09-29,Metformin,Critical
+Mary Forbes,55,Female,AB-,Depression,2024-11-27,Timothy Ramirez,Red Hills healthcare,38284.7,Routine,2025-06-01,Paracetamol,Abnormal
+Jason Gray,91,Male,O-,Cancer,2023-03-13,Christy Hall,Scott Island Hospitals,19191.29,Routine,2023-11-02,Omeprazole,Abnormal
+Eric Howe,24,Male,A+,Asthma,2022-07-11,Deanna Fleming,John Marcelo Clinic,19941.27,Routine,2025-08-27,Amoxicillin,Abnormal
+Omar Lopez,32,Male,B+,Cancer,2023-01-20,Allison Carlson,FynnCare Hospital,10188.37,Urgent,2023-04-11,Paracetamol,Critical
+William Dickerson,56,Other,B+,Asthma,2024-02-20,Timothy Ramirez,FynnCare Hospital,33888.42,Elective,2025-06-19,Amoxicillin,Normal
+Eric Gutierrez,27,Male,A+,Heart Disease,2022-07-09,Eric Johnson,FynnCare Hospital,41928.81,Elective,2025-09-22,Paracetamol,Critical
+Elizabeth Potter,56,Female,AB+,Migraine,2022-06-21,Miss Gina Nixon MD,Scott Island Hospitals,18052.57,Emergency,2023-11-02,Paracetamol,Critical
+Brian Cain,73,Male,B+,Anxiety,2023-08-27,Allison Carlson,Sam Isaac Group,19642.62,Elective,2025-05-18,Losartan,Abnormal
+Keith Jordan,61,Male,AB+,Asthma,2022-05-12,Andrew Greer,FynnCare Hospital,1399.86,Urgent,2023-06-28,Lisinopril,Critical
+Chad Bowman,72,Other,A+,Cancer,2022-03-15,Calvin Martin,FynnCare Hospital,36097.96,Elective,2025-11-25,Omeprazole,Normal
+Jean Long,8,Male,O-,Heart Disease,2022-04-28,Eric Johnson,Sam Isaac Group,43744.7,Emergency,2025-05-14,Amoxicillin,Critical
+David Schmidt,25,Female,O+,Migraine,2022-06-24,Christy Hall,Scott Island Hospitals,5778.08,Urgent,2022-11-08,Paracetamol,Normal
+Courtney Watson,49,Female,AB+,Depression,2023-07-08,Rebecca Jones,Jacoby Stuarts ,49198.62,Emergency,2025-02-13,Paracetamol,Critical
+Michael Ross,100,Female,AB+,Depression,2022-09-01,Jonathon Black,Jacoby Stuarts ,39662.73,Emergency,2023-06-13,Aspirin,Normal
+Laurie Hansen,41,Other,AB+,Obesity,2022-07-22,Brian Keith,Scott Island Hospitals,26201.95,Urgent,2023-06-22,Losartan,Normal
+Mark Stephens,49,Female,O+,Arthritis,2023-12-30,Emily Davila,Scott Island Hospitals,40427.69,Emergency,2024-09-08,Lisinopril,Critical
+Colton Larson,51,Female,A-,Arthritis,2024-10-18,Tonya Stephens,SRK Healthcare,29906.69,Routine,2025-11-05,Metformin,Abnormal
+Eddie Greer,31,Other,A+,Cancer,2022-03-18,Christy Hall,Clara Vincent,35511.53,Emergency,2025-11-23,Metformin,Abnormal
+Thomas Keller,45,Male,AB-,Anxiety,2024-07-02,Emily Davila,Clara Vincent,5897.77,Routine,2024-10-04,Atorvastatin,Critical
+Samantha Cervantes,76,Female,B-,Hypertension,2024-03-06,Kim Peterson,Sara & Sue,34360.45,Routine,2025-07-23,Metformin,Critical
+Mark Johnson,26,Female,AB+,Obesity,2022-05-27,Alan Cabrera,Sam Isaac Group,33911.34,Routine,2025-07-21,Amoxicillin,Abnormal
+Stefanie Andrews,45,Female,A+,Migraine,2024-01-31,Alexandra Bennett,Clara Vincent,20834.51,Urgent,2024-05-20,Atorvastatin,Abnormal
+Kelly Mcfarland,31,Other,B+,Asthma,2022-09-03,Christy Hall,Scott Island Hospitals,17074.46,Elective,2024-12-31,Omeprazole,Critical
+Michael Armstrong,52,Other,AB+,Hypertension,2022-08-01,Alexandra Bennett,Clara Vincent0,7585.46,Emergency,2023-03-01,Amoxicillin,Critical
+Amber Green,37,Male,O+,Obesity,2024-11-24,Miss Gina Nixon MD,John Marcelo Clinic,5928.55,Emergency,2025-03-16,Paracetamol,Abnormal
+Andrew Jimenez,39,Female,O+,Hypertension,2023-04-10,Tonya Stephens,Red Hills healthcare,21642.23,Urgent,2025-07-02,Atorvastatin,Abnormal
+Christy Mckee,84,Female,AB-,Anxiety,2024-01-25,Tonya Stephens,FynnCare Hospital,5297.02,Routine,2024-12-12,Lisinopril,Critical
+Sarah Davis,98,Male,O+,Cancer,2023-04-16,Andrew Greer,Clara Vincent,6041.06,Elective,2023-12-22,Lisinopril,Abnormal
+David Wang,72,Female,AB-,Heart Disease,2024-08-02,Allison Carlson,Red Hills healthcare,41879.75,Routine,2025-03-12,Metformin,Critical
+Michael Mcdonald,78,Male,O-,Arthritis,2023-08-23,Jonathon Black,Red Hills healthcare,21751.5,Emergency,2023-12-14,Metformin,Normal
+Jennifer Leonard,45,Other,O-,Heart Disease,2023-04-04,Kim Peterson,SRK Healthcare,17893.71,Routine,2023-04-14,Metformin,Normal
+Joe Cole,84,Male,O-,Arthritis,2023-01-06,Miss Gina Nixon MD,Scott Island Hospitals,29216.97,Routine,2023-07-08,Ibuprofen,Critical
+Gail Larson,32,Male,O-,Obesity,2022-05-13,Jonathon Black,Jacoby Stuarts ,26851.85,Emergency,2024-09-30,Paracetamol,Critical
+Charles Cooper,3,Male,A+,Obesity,2024-06-08,Tonya Stephens,Scott Island Hospitals,33217.87,Emergency,2025-05-10,Omeprazole,Normal
+Joseph Lopez,80,Other,B+,Hypertension,2022-07-02,Emily Davila,Clara Vincent,20515.48,Routine,2022-07-11,Metformin,Normal
+John Boyd,52,Male,B+,Migraine,2021-12-08,Calvin Martin,Red Hills healthcare,43570.43,Urgent,2023-06-29,Amoxicillin,Normal
+Christine Walker,71,Male,B-,Anxiety,2023-09-20,Rebecca Jones,Clara Vincent0,40967.84,Urgent,2025-05-27,Atorvastatin,Normal
+Lori Delacruz,17,Female,B-,Arthritis,2023-02-18,Emily Davila,Jacoby Stuarts ,41585.15,Routine,2025-07-28,Metformin,Normal
+Kristy Williams,65,Other,O+,Asthma,2022-06-23,Kim Peterson,Sam Isaac Group,49979.41,Emergency,2024-05-09,Aspirin,Critical
+Judith Thomas,18,Female,B+,Obesity,2022-03-18,Calvin Martin,Clara Vincent,4979.42,Urgent,2023-09-01,Amoxicillin,Critical
+Michael Perkins,90,Other,O+,Heart Disease,2022-09-02,Andrew Greer,Jacoby Stuarts ,14562.71,Emergency,2025-01-20,Amoxicillin,Normal
+Tiffany Wolf,74,Other,B+,Depression,2024-01-03,Karen Black,Clara Vincent0,48735.86,Elective,2025-07-04,Ibuprofen,Abnormal
+Jessica Wood,31,Male,O+,Hypertension,2024-03-25,Andrew Greer,Clara Vincent,33691.84,Emergency,2025-01-24,Amoxicillin,Critical
+Brenda Oliver,38,Female,A-,Migraine,2022-05-28,Christine Newman,Scott Island Hospitals,21279.42,Routine,2025-09-12,Ibuprofen,Critical
+Ashlee Lewis,72,Male,B+,Diabetes,2024-04-21,Alan Cabrera,Red Hills healthcare,5227.96,Elective,2024-05-02,Losartan,Normal
+Kevin Kelley,26,Female,AB+,Migraine,2024-06-25,Timothy Ramirez,Jacoby Stuarts ,3731.47,Routine,2024-07-17,Ibuprofen,Normal
+Bianca Daniel,91,Other,AB+,Depression,2023-12-08,Andrew Greer,Jacoby Stuarts ,25121.21,Elective,2024-05-02,Paracetamol,Abnormal
+Devin Sexton,92,Male,AB+,Diabetes,2024-09-04,Emily Davila,Clara Vincent0,8806.59,Urgent,2025-01-26,Lisinopril,Normal
+Lisa Allen,35,Female,B+,Asthma,2022-03-27,Miss Gina Nixon MD,FynnCare Hospital,3076.26,Emergency,2025-09-02,Aspirin,Normal
+Mark Dominguez,73,Male,B+,Cancer,2022-05-14,Eric Johnson,Clara Vincent,39863.11,Elective,2025-10-25,Omeprazole,Abnormal
+Michael Harris,78,Other,B+,Anxiety,2023-03-27,Timothy Ramirez,Clara Vincent0,9375.01,Elective,2023-09-28,Paracetamol,Critical
+Jeffrey Miller,63,Male,A+,Cancer,2024-03-11,Allison Carlson,Scott Island Hospitals,29810.32,Routine,2024-11-27,Lisinopril,Normal
+Ashley Odonnell,50,Female,AB+,Cancer,2024-05-23,Allison Carlson,Sara & Sue,14479.01,Elective,2025-07-28,Lisinopril,Abnormal
+Monique King,31,Other,A-,Migraine,2023-12-24,Allison Carlson,Jacoby Stuarts ,23568.34,Elective,2024-11-09,Aspirin,Critical
+Rachel Gibson,15,Other,B-,Obesity,2023-05-02,Deanna Fleming,Red Hills healthcare,41230.66,Emergency,2025-05-11,Amoxicillin,Normal
+Nancy Marshall,14,Female,B+,Anxiety,2023-02-07,Brian Keith,Clara Vincent0,10185.53,Urgent,2024-07-15,Amoxicillin,Abnormal
+Mallory Thompson MD,24,Female,B-,Anxiety,2022-11-21,Tonya Stephens,Sam Isaac Group,13062.68,Emergency,2024-12-10,Metformin,Normal
+Lisa Moody,90,Female,AB+,Anxiety,2022-09-14,Kim Peterson,FynnCare Hospital,4929.15,Elective,2023-01-03,Aspirin,Normal
+Danielle Patrick,6,Male,A-,Migraine,2024-07-30,Mary Smith,Scott Island Hospitals,40640.26,Routine,2025-05-04,Paracetamol,Abnormal
+Brandon Henry,59,Female,B+,Migraine,2022-05-19,Christine Newman,FynnCare Hospital,4861.18,Routine,2023-10-28,Losartan,Normal
+Chad Scott,17,Male,B-,Obesity,2022-06-08,Kim Peterson,Sara & Sue,22946.77,Elective,2022-08-22,Paracetamol,Abnormal
+Jennifer Barton,16,Female,O-,Hypertension,2022-10-27,Kim Peterson,Red Hills healthcare,22606.93,Elective,2022-11-18,Metformin,Critical
+Teresa Beck,17,Female,A+,Migraine,2022-08-06,Alan Cabrera,Sam Isaac Group,47861.11,Emergency,2025-11-26,Omeprazole,Abnormal
+James Davis,41,Other,O-,Asthma,2022-02-15,Karen Black,Clara Vincent,5030.41,Emergency,2024-11-05,Lisinopril,Critical
+Mr. Trevor Estrada,100,Male,O-,Obesity,2022-07-14,Allison Carlson,John Marcelo Clinic,37088.93,Elective,2025-05-18,Atorvastatin,Normal
+Malik Petersen,92,Male,O-,Migraine,2022-07-23,Allison Carlson,Jacoby Stuarts ,33395.04,Emergency,2022-11-24,Metformin,Abnormal
+Jared Knight,83,Male,A-,Hypertension,2024-11-19,Deanna Fleming,John Marcelo Clinic,7517.67,Routine,2025-09-06,Atorvastatin,Abnormal
+Julie Wilson,91,Male,A-,Diabetes,2023-01-04,Emily Davila,FynnCare Hospital,1192.16,Urgent,2024-01-15,Atorvastatin,Normal
+Kevin Fisher,9,Female,O+,Hypertension,2023-09-21,Christy Hall,FynnCare Hospital,18966.06,Routine,2024-09-03,Lisinopril,Critical
+Breanna Bell,96,Female,AB+,Heart Disease,2023-03-25,Andrew Greer,Sara & Sue,3185.86,Routine,2024-06-26,Ibuprofen,Abnormal
+Tom Soto,45,Male,O-,Cancer,2022-05-19,Christine Newman,Red Hills healthcare,17722.03,Urgent,2022-11-15,Lisinopril,Abnormal
+Julia Boyd,24,Other,B-,Asthma,2022-09-15,Karen Black,Sam Isaac Group,5800.86,Routine,2025-09-22,Atorvastatin,Critical
+Katherine Jones,99,Male,O+,Migraine,2022-02-16,Mary Smith,Jacoby Stuarts ,19589.92,Elective,2023-10-22,Omeprazole,Critical
+Kevin Montoya,30,Other,AB+,Anxiety,2022-02-07,Andrew Greer,Sara & Sue,42150.58,Urgent,2024-04-20,Amoxicillin,Abnormal
+Drew Diaz,46,Male,B+,Hypertension,2023-11-17,Alan Cabrera,Scott Island Hospitals,42239.6,Emergency,2025-11-13,Paracetamol,Normal
+Brittany Dixon,4,Female,A-,Migraine,2024-05-17,Miss Gina Nixon MD,Clara Vincent,24524.99,Routine,2025-11-24,Omeprazole,Normal
+Danielle Castaneda,97,Male,AB-,Asthma,2024-01-04,Jonathon Black,Sam Isaac Group,30280.46,Elective,2024-10-19,Ibuprofen,Normal
+Luis Miller,20,Female,O+,Arthritis,2023-06-13,Alan Cabrera,John Marcelo Clinic,44450.4,Emergency,2025-01-30,Omeprazole,Critical
+Scott Schroeder,69,Male,B-,Heart Disease,2022-06-04,Karen Black,Jacoby Stuarts ,26298.83,Emergency,2025-10-23,Metformin,Critical
+Terri Smith,68,Male,A-,Hypertension,2023-10-14,Calvin Martin,Red Hills healthcare,8283.02,Emergency,2024-06-17,Lisinopril,Normal
+Tammy Perkins,42,Male,B+,Hypertension,2022-09-01,Andrew Greer,Clara Vincent,46124.55,Urgent,2025-02-11,Aspirin,Normal
+Shane Brown,17,Female,B+,Diabetes,2024-08-28,Andrew Greer,Scott Island Hospitals,43289.59,Elective,2025-03-29,Losartan,Abnormal
+Becky Kim,93,Male,AB-,Depression,2022-12-03,Calvin Martin,FynnCare Hospital,14185.91,Urgent,2023-05-23,Losartan,Normal
+Zachary Montgomery,3,Other,O-,Obesity,2024-04-03,Calvin Martin,Sara & Sue,13924.57,Routine,2025-08-20,Lisinopril,Abnormal
+Laura Garcia,28,Male,B+,Heart Disease,2022-04-29,Christy Hall,Clara Vincent,16140.0,Elective,2022-07-10,Omeprazole,Critical
+Derrick Blackburn,66,Female,AB-,Arthritis,2024-04-19,Kim Peterson,Red Hills healthcare,45953.71,Elective,2024-04-22,Amoxicillin,Normal
+Lori Herrera,22,Female,AB-,Heart Disease,2024-06-25,Karen Black,Sam Isaac Group,13821.41,Urgent,2024-11-28,Metformin,Abnormal
+Christopher Lee,72,Female,A-,Arthritis,2023-09-29,Emily Davila,Red Hills healthcare,22824.99,Elective,2024-05-10,Losartan,Normal
+Anthony Rodgers,10,Female,B-,Hypertension,2024-10-08,Brian Keith,Clara Vincent0,42024.43,Urgent,2025-10-07,Aspirin,Abnormal
+Ryan Castillo,34,Other,B+,Depression,2023-10-16,Calvin Martin,Red Hills healthcare,41288.0,Emergency,2025-08-13,Aspirin,Critical
+Michael Avila,12,Male,AB+,Diabetes,2024-06-26,Christy Hall,Scott Island Hospitals,22714.47,Elective,2025-09-15,Ibuprofen,Critical
+Jordan Diaz,13,Other,AB+,Anxiety,2022-02-09,Deanna Fleming,Sam Isaac Group,17368.23,Urgent,2024-02-10,Metformin,Critical
+Jonathan Nguyen DDS,65,Other,AB-,Heart Disease,2024-08-08,Calvin Martin,SRK Healthcare,48927.51,Elective,2025-07-30,Omeprazole,Abnormal
+Shaun Garcia,3,Other,O-,Diabetes,2023-10-05,Christine Newman,FynnCare Hospital,18567.75,Urgent,2024-01-11,Ibuprofen,Abnormal
+Patrick Combs,92,Female,B+,Migraine,2024-05-16,Rebecca Jones,Scott Island Hospitals,26922.66,Emergency,2025-06-04,Omeprazole,Critical
+Cynthia Gay,14,Other,A+,Anxiety,2022-07-02,Christy Hall,SRK Healthcare,1652.25,Routine,2024-09-26,Lisinopril,Abnormal
+Charles Brooks,56,Female,B+,Heart Disease,2023-03-10,Calvin Martin,Clara Vincent,22343.84,Routine,2024-09-26,Ibuprofen,Normal
+Dawn Taylor,3,Other,AB-,Asthma,2022-05-08,Rebecca Jones,Sara & Sue,17948.44,Elective,2023-07-19,Metformin,Normal
+Brenda Abbott,64,Male,A-,Arthritis,2022-02-03,Allison Carlson,Sam Isaac Group,34764.34,Routine,2023-03-07,Lisinopril,Normal
+Daniel Chavez,26,Other,AB-,Heart Disease,2022-03-09,Karen Black,Sara & Sue,35602.42,Urgent,2024-09-11,Aspirin,Critical
+Mary Oliver,24,Male,AB-,Diabetes,2022-02-02,Alan Cabrera,Clara Vincent0,42727.02,Urgent,2024-05-15,Lisinopril,Normal
+Sara Garcia,44,Female,A+,Arthritis,2024-05-01,Christy Hall,Sam Isaac Group,21475.13,Emergency,2025-08-22,Losartan,Normal
+Michael Russell,15,Female,AB+,Obesity,2024-03-08,Karen Black,Jacoby Stuarts ,2668.82,Urgent,2024-12-05,Aspirin,Critical
+Arthur Fields,30,Female,B-,Diabetes,2023-12-05,Deanna Fleming,Red Hills healthcare,38668.47,Emergency,2024-10-05,Amoxicillin,Normal
+Alicia Morgan,87,Male,AB+,Cancer,2022-04-12,Brian Keith,Jacoby Stuarts ,7342.31,Emergency,2025-06-10,Omeprazole,Abnormal
+Wesley Wilson,29,Male,O+,Arthritis,2023-04-06,Andrew Greer,Clara Vincent0,16425.9,Elective,2025-10-23,Omeprazole,Abnormal
+Crystal Alvarado,31,Male,AB+,Hypertension,2024-12-04,Alexandra Bennett,Jacoby Stuarts ,33057.91,Urgent,2025-05-24,Amoxicillin,Critical
+Victoria Berg,99,Male,A-,Obesity,2024-10-13,Allison Carlson,Red Hills healthcare,17281.94,Routine,2025-05-11,Aspirin,Normal
+Elizabeth Jones,99,Male,B+,Anxiety,2022-11-01,Tonya Stephens,SRK Healthcare,40658.94,Elective,2024-01-13,Ibuprofen,Normal
+Misty Sanders,9,Male,O+,Cancer,2024-04-06,Alexandra Bennett,SRK Healthcare,47360.84,Elective,2024-08-15,Losartan,Abnormal
+Amanda Howard,56,Male,A-,Anxiety,2022-12-28,Kim Peterson,FynnCare Hospital,4919.0,Routine,2023-03-22,Amoxicillin,Critical
+Joanne Baldwin,41,Other,O+,Migraine,2024-03-18,Kim Peterson,FynnCare Hospital,36571.86,Urgent,2025-02-12,Losartan,Normal
+Mr. Michael Morgan,36,Male,A-,Asthma,2024-01-15,Tonya Stephens,Scott Island Hospitals,10245.89,Urgent,2024-11-16,Atorvastatin,Critical
+Brooke Gould,11,Male,AB+,Obesity,2024-09-23,Allison Carlson,John Marcelo Clinic,45859.26,Emergency,2024-10-29,Paracetamol,Critical
+Jordan Callahan,4,Other,AB-,Cancer,2024-04-09,Eric Johnson,Jacoby Stuarts ,17505.09,Urgent,2025-02-10,Paracetamol,Abnormal
+Derek Barber,55,Female,AB-,Heart Disease,2024-11-02,Jonathon Black,Jacoby Stuarts ,13929.89,Elective,2024-12-31,Lisinopril,Critical
+Jaime Sanchez,81,Other,AB-,Obesity,2024-10-13,Timothy Ramirez,Red Hills healthcare,27129.37,Elective,2025-09-17,Omeprazole,Abnormal
+Jacqueline Orr,16,Male,O+,Hypertension,2023-09-27,Christine Newman,Sam Isaac Group,49533.86,Urgent,2023-10-16,Metformin,Critical
+Jennifer Mccullough,28,Male,B+,Depression,2022-10-10,Chelsea Roberson,Jacoby Stuarts ,12993.66,Emergency,2025-12-03,Paracetamol,Normal
+Preston Dominguez,64,Female,A+,Obesity,2024-01-02,Allison Carlson,Sara & Sue,39096.25,Routine,2024-05-11,Losartan,Critical
+Logan Williams,17,Male,B-,Anxiety,2024-07-28,Alexandra Bennett,Clara Vincent0,7548.51,Emergency,2025-10-17,Aspirin,Normal
+Travis Cruz,50,Other,B+,Depression,2022-03-22,Mary Smith,Jacoby Stuarts ,29374.59,Elective,2024-11-19,Ibuprofen,Critical
+Steven Ponce,44,Female,O-,Migraine,2024-11-01,Alexandra Bennett,FynnCare Hospital,42953.67,Elective,2025-03-07,Lisinopril,Critical
+Matthew Brown,83,Female,AB+,Diabetes,2023-11-13,Tonya Stephens,Clara Vincent0,48564.85,Routine,2024-04-06,Paracetamol,Normal
+Mrs. Kimberly Warren MD,93,Male,O+,Diabetes,2023-03-21,Jonathon Black,SRK Healthcare,36401.66,Routine,2023-04-12,Ibuprofen,Normal
+Andrea Davis,26,Other,O-,Heart Disease,2023-02-19,Mary Smith,Jacoby Stuarts ,31713.4,Routine,2024-08-25,Lisinopril,Normal
+Kathleen Warren,66,Other,O-,Diabetes,2024-04-13,Christine Newman,John Marcelo Clinic,21477.33,Emergency,2024-04-22,Lisinopril,Abnormal
+Miranda Moore,89,Male,AB+,Depression,2022-08-11,Allison Carlson,Red Hills healthcare,41185.73,Urgent,2025-05-15,Aspirin,Normal
+Michael Oconnor,33,Female,O+,Arthritis,2024-04-05,Tonya Stephens,Scott Island Hospitals,39534.8,Elective,2024-07-02,Paracetamol,Critical
+David Perez,43,Male,AB+,Arthritis,2022-01-16,Rebecca Jones,Jacoby Stuarts ,9811.47,Emergency,2022-10-12,Losartan,Normal
+Daniel Young,44,Female,B+,Depression,2022-05-28,Karen Black,SRK Healthcare,19278.05,Emergency,2022-09-17,Paracetamol,Normal
+Christopher Sanchez,63,Female,O-,Migraine,2023-12-18,Deanna Fleming,Clara Vincent0,33020.81,Emergency,2024-01-20,Atorvastatin,Abnormal
+Theresa Patterson,88,Male,O-,Obesity,2023-01-24,Brian Keith,FynnCare Hospital,44807.29,Routine,2023-10-20,Paracetamol,Normal
+Angela Owens,66,Female,A-,Asthma,2022-01-26,Allison Carlson,Clara Vincent,9625.3,Routine,2023-08-31,Omeprazole,Abnormal
+Joe Smith,30,Other,O+,Hypertension,2024-11-10,Kim Peterson,Sara & Sue,5319.4,Routine,2025-06-24,Amoxicillin,Abnormal
+Michaela Johnson,79,Male,B+,Diabetes,2024-10-21,Alexandra Bennett,SRK Healthcare,12101.28,Urgent,2025-05-25,Aspirin,Critical
+Jack Herrera,92,Other,AB+,Anxiety,2024-07-03,Deanna Fleming,Clara Vincent0,36432.12,Emergency,2025-06-16,Ibuprofen,Normal
+Robert Rogers,35,Female,A+,Cancer,2022-08-05,Tonya Stephens,Scott Island Hospitals,48882.86,Urgent,2025-05-01,Metformin,Critical
+Lawrence Hayes,12,Female,B-,Obesity,2024-04-27,Alexandra Bennett,Scott Island Hospitals,49190.81,Elective,2025-09-26,Paracetamol,Normal
+Robert Rice,75,Male,O+,Obesity,2023-07-21,Timothy Ramirez,John Marcelo Clinic,44386.58,Urgent,2025-08-29,Ibuprofen,Abnormal
+Seth Delgado,22,Male,B-,Anxiety,2023-09-19,Andrew Greer,FynnCare Hospital,41396.45,Emergency,2025-09-02,Paracetamol,Abnormal
+Melissa Logan,48,Other,O-,Cancer,2023-04-28,Alan Cabrera,Clara Vincent,36342.21,Routine,2023-06-24,Lisinopril,Abnormal
+Destiny Bowen,9,Male,AB-,Heart Disease,2023-11-28,Karen Black,Clara Vincent,21011.3,Urgent,2024-04-13,Metformin,Normal
+Karen Collins,98,Other,O-,Asthma,2024-05-03,Timothy Ramirez,SRK Healthcare,15019.12,Emergency,2025-01-24,Ibuprofen,Normal
+George Reed,20,Male,A+,Heart Disease,2023-08-22,Chelsea Roberson,Jacoby Stuarts ,1598.49,Emergency,2024-10-11,Metformin,Abnormal
+April Crawford,93,Female,AB-,Cancer,2022-08-31,Allison Carlson,John Marcelo Clinic,33549.61,Emergency,2024-09-08,Amoxicillin,Critical
+Ryan Stout,98,Male,A+,Diabetes,2024-06-07,Andrew Greer,Scott Island Hospitals,2830.06,Urgent,2025-09-26,Lisinopril,Abnormal
+Thomas Parsons,13,Other,A-,Arthritis,2023-06-25,Alexandra Bennett,Clara Vincent0,30904.36,Routine,2024-07-07,Losartan,Normal
+Mary Johnson,57,Female,O-,Obesity,2023-08-24,Rebecca Jones,Jacoby Stuarts ,23133.39,Elective,2024-03-17,Paracetamol,Abnormal
+Mr. Matthew Dixon,68,Male,B-,Depression,2024-02-14,Alan Cabrera,Clara Vincent0,7609.42,Elective,2024-12-18,Paracetamol,Critical
+Kathy Wilson,96,Female,B-,Diabetes,2022-11-30,Allison Carlson,John Marcelo Clinic,40165.01,Emergency,2025-10-24,Atorvastatin,Abnormal
+David Benitez,56,Female,O+,Diabetes,2024-08-11,Deanna Fleming,John Marcelo Clinic,27185.77,Routine,2025-09-21,Amoxicillin,Critical
+Nichole Rodriguez,95,Other,AB-,Arthritis,2024-07-10,Timothy Ramirez,Sara & Sue,21688.92,Emergency,2025-11-02,Omeprazole,Critical
+Mary Tran,9,Other,A-,Heart Disease,2023-10-13,Timothy Ramirez,Clara Vincent,22676.07,Urgent,2024-09-14,Lisinopril,Critical
+Anthony Camacho,2,Male,B+,Depression,2023-01-03,Timothy Ramirez,Sam Isaac Group,9139.19,Urgent,2025-01-18,Aspirin,Abnormal
+Amanda Martin,75,Female,O+,Heart Disease,2024-03-03,Kim Peterson,Clara Vincent0,22173.71,Urgent,2024-11-11,Omeprazole,Critical
+Rodney Dixon,4,Other,AB+,Arthritis,2024-02-18,Jonathon Black,Clara Vincent,33364.94,Emergency,2024-07-27,Losartan,Normal
+Russell Gill,72,Other,B+,Asthma,2021-12-25,Jonathon Black,Sam Isaac Group,46789.45,Emergency,2023-03-17,Omeprazole,Critical
+David Harris,17,Female,A-,Asthma,2022-06-19,Brian Keith,John Marcelo Clinic,36748.72,Routine,2024-08-13,Atorvastatin,Critical
+Jacob Black,81,Female,O-,Cancer,2022-02-08,Brian Keith,Red Hills healthcare,33268.66,Elective,2024-10-07,Omeprazole,Normal
+Felicia Jones,45,Male,B+,Cancer,2024-09-17,Alexandra Bennett,Sam Isaac Group,8402.56,Emergency,2025-05-13,Atorvastatin,Abnormal
+Chelsea Holmes,92,Male,AB-,Heart Disease,2022-07-02,Timothy Ramirez,SRK Healthcare,43856.78,Emergency,2024-02-06,Atorvastatin,Critical
+Jessica Sanford,50,Male,O-,Cancer,2022-03-03,Timothy Ramirez,Sam Isaac Group,28188.38,Urgent,2022-06-21,Aspirin,Abnormal
+Tyler Sims,6,Other,B+,Obesity,2023-12-15,Eric Johnson,Clara Vincent,2887.35,Routine,2024-02-01,Omeprazole,Normal
+David Vaughan,37,Male,O-,Asthma,2024-07-07,Chelsea Roberson,Sam Isaac Group,26796.78,Elective,2024-10-17,Omeprazole,Critical
+Amber Martin,69,Female,B+,Anxiety,2022-06-03,Calvin Martin,Sara & Sue,1841.68,Elective,2023-05-02,Omeprazole,Normal
+Melissa Simpson,88,Female,A+,Cancer,2022-05-14,Deanna Fleming,SRK Healthcare,14027.21,Routine,2025-05-05,Lisinopril,Critical
+Carlos Rivera,33,Female,B+,Hypertension,2024-10-29,Rebecca Jones,Clara Vincent0,18401.09,Urgent,2025-01-31,Amoxicillin,Abnormal
+William Hunt,51,Male,A-,Heart Disease,2022-10-10,Christy Hall,FynnCare Hospital,40022.39,Emergency,2025-08-28,Metformin,Critical
+Elizabeth Quinn,40,Female,B-,Arthritis,2022-12-19,Mary Smith,Clara Vincent0,33747.72,Urgent,2024-06-04,Atorvastatin,Critical
+Sarah Miller,20,Female,A-,Anxiety,2022-08-27,Christine Newman,Red Hills healthcare,19962.29,Routine,2024-09-28,Metformin,Abnormal
+Benjamin Bates,7,Other,B+,Anxiety,2023-01-12,Rebecca Jones,FynnCare Hospital,48626.28,Urgent,2024-02-19,Omeprazole,Normal
+Heather Munoz,11,Male,AB-,Depression,2022-10-12,Karen Black,Jacoby Stuarts ,22536.03,Routine,2025-02-11,Lisinopril,Critical
+Kristen Gutierrez,83,Male,O-,Diabetes,2024-08-17,Karen Black,Red Hills healthcare,9833.79,Routine,2025-01-12,Paracetamol,Critical
+Janet Rodriguez,78,Other,A-,Heart Disease,2024-11-16,Christy Hall,John Marcelo Clinic,6036.37,Elective,2025-10-20,Aspirin,Critical
+Joseph Gibson,32,Female,AB-,Obesity,2022-04-25,Kim Peterson,John Marcelo Clinic,41764.97,Emergency,2025-03-30,Aspirin,Normal
+Shannon Miller,94,Other,O+,Migraine,2023-09-30,Allison Carlson,John Marcelo Clinic,18949.53,Urgent,2025-06-11,Aspirin,Abnormal
+Catherine Tran,17,Male,B-,Cancer,2024-02-03,Alan Cabrera,Clara Vincent0,2057.97,Elective,2025-08-30,Ibuprofen,Critical
+Jacqueline Zhang,16,Female,AB-,Diabetes,2024-02-21,Christy Hall,John Marcelo Clinic,30653.25,Routine,2024-09-27,Atorvastatin,Critical
+Joel Mcdonald,53,Female,A+,Obesity,2024-06-24,Deanna Fleming,Jacoby Stuarts ,31102.53,Routine,2025-10-08,Aspirin,Critical
+Tiffany Reyes DDS,71,Female,AB+,Migraine,2022-09-18,Chelsea Roberson,Scott Island Hospitals,14236.6,Emergency,2023-08-30,Aspirin,Critical
+Donald Nguyen,86,Male,A-,Cancer,2023-07-12,Brian Keith,Scott Island Hospitals,39745.88,Elective,2025-07-19,Aspirin,Critical
+Dr. Evan Moore,44,Male,O+,Anxiety,2023-03-07,Jonathon Black,Red Hills healthcare,33291.54,Routine,2024-07-08,Lisinopril,Critical
+Taylor Gray,87,Female,A-,Cancer,2022-06-10,Tonya Stephens,FynnCare Hospital,20793.52,Emergency,2024-04-09,Losartan,Critical
+Sophia Dickson,37,Female,O+,Obesity,2023-06-12,Emily Davila,Sara & Sue,32609.08,Urgent,2023-12-24,Lisinopril,Normal
+Pamela Evans,44,Other,O-,Migraine,2022-06-26,Allison Carlson,Sam Isaac Group,27880.6,Routine,2022-10-02,Aspirin,Normal
+Amy Wilson,98,Other,AB+,Diabetes,2024-07-24,Calvin Martin,Clara Vincent,34131.24,Routine,2025-07-13,Lisinopril,Critical
+Vanessa Bender,64,Female,B-,Cancer,2023-11-12,Jonathon Black,Red Hills healthcare,43325.97,Elective,2025-10-08,Atorvastatin,Normal
+Heather Wheeler,18,Female,A+,Depression,2024-05-03,Rebecca Jones,Sam Isaac Group,49529.35,Urgent,2024-06-20,Ibuprofen,Critical
+Jason Warner,50,Female,B-,Diabetes,2024-05-30,Alan Cabrera,Clara Vincent,4362.55,Elective,2024-10-02,Losartan,Normal
+Raymond Ho,100,Female,O-,Cancer,2022-10-19,Karen Black,SRK Healthcare,36862.89,Urgent,2024-06-15,Losartan,Critical
+Brandon Wagner Jr.,81,Female,O-,Obesity,2022-05-15,Allison Carlson,John Marcelo Clinic,34704.44,Routine,2025-03-30,Metformin,Abnormal
+James Martinez II,16,Female,AB+,Anxiety,2024-04-12,Calvin Martin,Scott Island Hospitals,4551.53,Emergency,2025-09-04,Metformin,Critical
+Michele Kelly,41,Female,O+,Anxiety,2022-12-07,Emily Davila,Clara Vincent0,40552.47,Emergency,2024-10-12,Atorvastatin,Normal
+Stacy Ferguson,37,Male,AB-,Asthma,2023-12-06,Rebecca Jones,Clara Vincent0,41517.76,Routine,2025-01-06,Omeprazole,Abnormal
+Donna Mcneil DDS,13,Other,A+,Obesity,2022-06-10,Kim Peterson,Clara Vincent,39692.02,Urgent,2025-03-06,Amoxicillin,Normal
+Alexander Park,40,Other,O-,Cancer,2022-03-13,Emily Davila,Jacoby Stuarts ,44228.45,Emergency,2023-10-20,Aspirin,Critical
+Sarah Delgado,49,Female,O-,Cancer,2023-02-01,Brian Keith,Sam Isaac Group,33392.57,Elective,2025-06-24,Atorvastatin,Normal
+Mitchell Fletcher,59,Female,A+,Obesity,2024-04-20,Kim Peterson,Clara Vincent0,21190.53,Elective,2024-06-09,Ibuprofen,Normal
+Jerry Zhang,19,Female,A+,Depression,2023-09-24,Emily Davila,SRK Healthcare,12872.67,Routine,2025-10-29,Losartan,Critical
+Rita White,27,Female,A+,Anxiety,2023-12-02,Christine Newman,Jacoby Stuarts ,8409.65,Routine,2024-07-22,Atorvastatin,Normal
+Angela Dougherty,38,Female,A+,Migraine,2024-11-12,Christy Hall,Scott Island Hospitals,31201.78,Emergency,2025-07-23,Ibuprofen,Abnormal
+Beth Miller,31,Female,O+,Anxiety,2022-05-25,Allison Carlson,Scott Island Hospitals,17455.99,Emergency,2023-11-16,Metformin,Critical
+James Bright,36,Female,A-,Obesity,2022-01-07,Rebecca Jones,SRK Healthcare,46626.79,Elective,2025-10-09,Losartan,Critical
+Sean Hurst,79,Male,AB+,Arthritis,2022-07-03,Rebecca Jones,Red Hills healthcare,21467.63,Urgent,2023-06-14,Aspirin,Critical
+Shane Savage,95,Female,AB+,Depression,2022-02-23,Christy Hall,Clara Vincent0,33338.74,Elective,2024-02-21,Ibuprofen,Critical
+James Winters,47,Female,A+,Asthma,2023-11-01,Rebecca Jones,Red Hills healthcare,16727.52,Elective,2025-10-24,Lisinopril,Normal
+Tyler Cooper,6,Other,O+,Heart Disease,2024-08-20,Chelsea Roberson,Clara Vincent0,35050.44,Elective,2024-11-20,Atorvastatin,Abnormal
+Melissa Johnson,70,Female,A+,Heart Disease,2024-11-02,Eric Johnson,Sara & Sue,10270.18,Elective,2024-12-03,Losartan,Critical
+Karen Haynes,24,Other,B+,Arthritis,2022-04-09,Christine Newman,Red Hills healthcare,12863.31,Elective,2024-07-22,Lisinopril,Abnormal
+Logan Yates,59,Male,AB+,Depression,2023-04-01,Miss Gina Nixon MD,Clara Vincent,16803.8,Routine,2023-09-07,Lisinopril,Critical
+Darren Villarreal,9,Male,B+,Asthma,2023-08-24,Allison Carlson,SRK Healthcare,41769.47,Elective,2023-10-16,Aspirin,Critical
+Leslie Frank,62,Male,A+,Heart Disease,2024-07-06,Christine Newman,Sam Isaac Group,32285.3,Urgent,2025-01-03,Metformin,Critical
+Victoria Howard,88,Female,B+,Arthritis,2023-01-21,Tonya Stephens,Sara & Sue,31486.4,Elective,2025-01-27,Omeprazole,Normal
+Brent Medina,39,Other,AB-,Depression,2024-09-03,Allison Carlson,Scott Island Hospitals,15743.14,Elective,2024-09-18,Losartan,Normal
+Susan Park,42,Other,AB-,Hypertension,2022-12-29,Karen Black,Red Hills healthcare,26568.12,Urgent,2024-11-20,Losartan,Normal
+Mary Foley,47,Female,O+,Hypertension,2022-10-30,Brian Keith,Clara Vincent,20052.65,Emergency,2022-11-24,Omeprazole,Critical
+Sophia Fuller,76,Female,AB+,Diabetes,2022-03-07,Deanna Fleming,FynnCare Hospital,43152.77,Urgent,2024-08-17,Omeprazole,Normal
+Hannah Anderson,57,Other,AB-,Diabetes,2023-04-28,Kim Peterson,Clara Vincent0,31669.34,Urgent,2024-01-22,Ibuprofen,Critical
+Maria Briggs,94,Other,B+,Cancer,2024-11-29,Jonathon Black,Clara Vincent0,25085.23,Elective,2025-04-26,Atorvastatin,Normal
+Michelle Jones,66,Male,B-,Diabetes,2023-03-31,Mary Smith,SRK Healthcare,6366.6,Urgent,2025-04-24,Paracetamol,Abnormal
+Stacy Rios,56,Female,AB+,Heart Disease,2024-05-31,Allison Carlson,Clara Vincent0,7436.68,Routine,2024-06-26,Losartan,Abnormal
+Richard Nelson,5,Female,A-,Heart Disease,2023-07-15,Miss Gina Nixon MD,Red Hills healthcare,4664.24,Urgent,2024-06-17,Lisinopril,Critical
+Janice Brewer,76,Other,B-,Heart Disease,2022-04-17,Mary Smith,John Marcelo Clinic,28919.82,Urgent,2023-01-25,Metformin,Normal
+Andrea Landry,55,Male,O-,Depression,2024-04-19,Emily Davila,Red Hills healthcare,8625.22,Urgent,2025-11-07,Losartan,Abnormal
+Alexis Heath,15,Male,AB+,Diabetes,2022-03-17,Alan Cabrera,Clara Vincent,14839.67,Emergency,2023-01-27,Atorvastatin,Critical
+David Anderson,75,Male,A+,Depression,2022-05-12,Jonathon Black,FynnCare Hospital,16556.07,Urgent,2023-01-08,Lisinopril,Abnormal
+Jacqueline Dennis,9,Male,O+,Depression,2022-05-08,Chelsea Roberson,Sara & Sue,39111.98,Urgent,2023-05-11,Omeprazole,Abnormal
+Jose Flores,97,Female,AB+,Cancer,2022-08-09,Alexandra Bennett,SRK Healthcare,14753.78,Urgent,2025-10-24,Omeprazole,Normal
+Hunter Summers,35,Female,A-,Heart Disease,2023-05-28,Rebecca Jones,SRK Healthcare,34407.58,Routine,2024-09-14,Amoxicillin,Abnormal
+Amy Williams,28,Other,A+,Cancer,2024-01-13,Kim Peterson,SRK Healthcare,14605.22,Urgent,2025-01-06,Metformin,Normal
+Mark Miller,3,Male,A-,Depression,2022-05-03,Christine Newman,Clara Vincent,43110.59,Elective,2025-03-28,Lisinopril,Normal
+Lisa Davis,37,Male,B+,Obesity,2022-09-11,Christine Newman,Sara & Sue,30846.23,Urgent,2024-03-11,Losartan,Normal
+Kayla Todd,16,Male,AB-,Obesity,2024-08-03,Jonathon Black,Sam Isaac Group,32264.49,Urgent,2025-05-14,Metformin,Abnormal
+Nicole Phillips MD,8,Other,A-,Anxiety,2023-07-03,Christine Newman,John Marcelo Clinic,24898.32,Urgent,2025-03-14,Losartan,Critical
+Kelly Dean,49,Female,A-,Depression,2023-07-30,Chelsea Roberson,SRK Healthcare,5142.44,Emergency,2023-09-11,Metformin,Critical
+Kimberly Garcia,98,Other,A-,Anxiety,2022-07-16,Allison Carlson,SRK Healthcare,21291.7,Elective,2024-07-26,Atorvastatin,Normal
+Angie Dalton,18,Female,B-,Migraine,2024-04-25,Kim Peterson,Clara Vincent0,15340.34,Elective,2024-12-06,Losartan,Normal
+Tyler Rios,84,Female,O-,Anxiety,2022-06-30,Andrew Greer,SRK Healthcare,36413.7,Elective,2023-11-02,Lisinopril,Normal
+Patricia Barnes,82,Male,A+,Depression,2024-04-05,Brian Keith,SRK Healthcare,19885.56,Routine,2025-09-03,Aspirin,Critical
+Matthew Johnson,71,Female,B-,Asthma,2023-09-16,Chelsea Roberson,Clara Vincent,42199.43,Routine,2024-02-10,Lisinopril,Normal
+Pamela Lewis,26,Male,O+,Migraine,2024-02-18,Christine Newman,Clara Vincent0,33970.54,Routine,2025-07-06,Lisinopril,Normal
+Kristin Delacruz,19,Other,AB+,Anxiety,2024-05-10,Kim Peterson,Jacoby Stuarts ,40919.92,Urgent,2025-03-06,Amoxicillin,Abnormal
+Maria King,48,Other,O+,Asthma,2022-06-18,Allison Carlson,SRK Healthcare,34785.26,Urgent,2023-08-01,Atorvastatin,Abnormal
+Amanda Gonzalez,12,Male,O+,Diabetes,2021-12-09,Christine Newman,Red Hills healthcare,12196.53,Routine,2025-10-21,Omeprazole,Critical
+Lorraine Cooley,12,Female,A+,Arthritis,2022-05-04,Tonya Stephens,Sara & Sue,7746.43,Urgent,2023-05-12,Metformin,Critical
+Michael Turner,40,Other,A+,Arthritis,2022-12-03,Calvin Martin,Jacoby Stuarts ,48365.11,Routine,2025-01-04,Paracetamol,Critical
+Mrs. Elizabeth Graves,48,Other,O+,Obesity,2024-09-22,Kim Peterson,Sam Isaac Group,39057.12,Emergency,2025-10-07,Atorvastatin,Critical
+Sharon Villarreal,17,Female,O+,Depression,2023-10-07,Brian Keith,Jacoby Stuarts ,36521.06,Urgent,2025-07-22,Atorvastatin,Critical
+Stephanie Alvarez,65,Other,AB+,Anxiety,2022-11-16,Andrew Greer,SRK Healthcare,14999.27,Routine,2025-04-24,Metformin,Abnormal
+Michael Walker,51,Female,O-,Arthritis,2023-02-06,Miss Gina Nixon MD,FynnCare Hospital,26203.36,Urgent,2024-11-20,Metformin,Normal
+Jeremy Zamora,70,Female,AB+,Depression,2024-02-16,Allison Carlson,FynnCare Hospital,49899.21,Routine,2024-10-01,Losartan,Abnormal
+Kimberly Gonzalez,84,Male,O+,Anxiety,2023-11-13,Kim Peterson,Sara & Sue,48346.72,Urgent,2025-09-14,Paracetamol,Critical
+Kimberly Miller,18,Other,A-,Migraine,2023-04-11,Rebecca Jones,Clara Vincent0,5034.84,Elective,2025-04-25,Ibuprofen,Abnormal
+Lisa Jones,59,Other,AB+,Migraine,2024-10-29,Calvin Martin,John Marcelo Clinic,47471.98,Elective,2025-04-11,Metformin,Critical
+Ralph Adams,85,Other,O-,Depression,2022-03-18,Jonathon Black,Clara Vincent,3374.68,Routine,2022-11-13,Lisinopril,Abnormal
+Jonathan Thompson,63,Male,AB+,Anxiety,2022-01-12,Karen Black,SRK Healthcare,38441.59,Routine,2023-04-28,Metformin,Critical
+Michael Huber,46,Male,B+,Depression,2023-01-16,Brian Keith,FynnCare Hospital,49775.67,Emergency,2023-12-16,Losartan,Critical
+John Montgomery,12,Male,B-,Heart Disease,2023-05-02,Rebecca Jones,John Marcelo Clinic,32595.18,Urgent,2024-02-19,Ibuprofen,Normal
+Carlos Lloyd,8,Male,B+,Arthritis,2022-03-18,Chelsea Roberson,SRK Healthcare,16562.53,Emergency,2023-09-07,Metformin,Critical
+Billy Williamson,21,Male,AB+,Arthritis,2023-05-09,Christine Newman,Sara & Sue,36789.33,Routine,2024-11-27,Amoxicillin,Abnormal
+Christopher Herrera,7,Other,A-,Arthritis,2022-01-01,Allison Carlson,SRK Healthcare,2332.9,Routine,2025-08-16,Paracetamol,Normal
+Andrea Stewart,95,Male,B-,Hypertension,2023-09-16,Mary Smith,Jacoby Stuarts ,8096.31,Emergency,2023-10-26,Losartan,Normal
+Donna Townsend,68,Other,B-,Heart Disease,2022-05-13,Eric Johnson,Red Hills healthcare,27621.54,Emergency,2022-12-08,Atorvastatin,Critical
+Kenneth Hernandez,90,Female,B-,Obesity,2023-06-27,Alan Cabrera,FynnCare Hospital,45190.94,Routine,2023-07-30,Ibuprofen,Normal
+Justin Novak DDS,86,Female,B-,Hypertension,2024-01-12,Tonya Stephens,Jacoby Stuarts ,21553.79,Routine,2024-03-25,Aspirin,Abnormal
+Derek Jackson,60,Female,AB+,Depression,2022-09-28,Allison Carlson,Sara & Sue,28663.18,Routine,2023-04-12,Ibuprofen,Critical
+Robert Martin,59,Female,B-,Depression,2024-05-12,Andrew Greer,Sam Isaac Group,18416.86,Elective,2025-05-10,Losartan,Critical
+Alicia Hunter,79,Female,O-,Heart Disease,2022-03-16,Christine Newman,SRK Healthcare,30720.5,Routine,2025-11-11,Losartan,Normal
+Virginia Morales,26,Male,O-,Arthritis,2022-08-16,Brian Keith,Sam Isaac Group,9338.07,Routine,2023-08-01,Lisinopril,Critical
+Bryan Morgan,17,Male,O-,Obesity,2022-08-26,Christy Hall,Clara Vincent0,4417.27,Elective,2022-10-04,Losartan,Normal
+Michael Phillips,20,Female,B-,Depression,2022-11-19,Chelsea Roberson,Red Hills healthcare,20214.24,Routine,2024-01-03,Aspirin,Normal
+Luis Diaz,90,Male,AB-,Arthritis,2022-06-30,Calvin Martin,John Marcelo Clinic,2872.55,Routine,2024-01-20,Ibuprofen,Critical
+Stephen Cooper,53,Other,A-,Migraine,2023-03-28,Emily Davila,FynnCare Hospital,41969.65,Urgent,2023-06-30,Amoxicillin,Abnormal
+Colin Kent,39,Male,B+,Arthritis,2022-01-29,Miss Gina Nixon MD,John Marcelo Clinic,39318.88,Routine,2025-05-05,Omeprazole,Abnormal
+Kyle Santiago,92,Other,B-,Anxiety,2022-07-14,Christine Newman,SRK Healthcare,39282.23,Urgent,2022-10-17,Lisinopril,Abnormal
+Andrea Johnson,57,Other,A+,Anxiety,2024-10-09,Allison Carlson,Clara Vincent0,3685.95,Elective,2025-04-18,Paracetamol,Normal
+Bonnie Duran,78,Female,AB-,Heart Disease,2022-10-28,Calvin Martin,Red Hills healthcare,26022.5,Elective,2025-09-23,Atorvastatin,Abnormal
+Kelly Green,49,Female,B+,Cancer,2024-09-30,Christine Newman,Sam Isaac Group,11105.06,Routine,2025-08-31,Lisinopril,Critical
+Michael Perez,20,Other,AB-,Migraine,2022-05-16,Rebecca Jones,Scott Island Hospitals,46038.01,Emergency,2023-03-24,Aspirin,Normal
+Lori Sanders,48,Other,O+,Depression,2024-07-03,Eric Johnson,Red Hills healthcare,49904.34,Emergency,2025-02-13,Aspirin,Critical
+Gary Copeland,92,Male,B+,Cancer,2024-05-09,Karen Black,Clara Vincent,45238.79,Routine,2025-04-26,Amoxicillin,Critical
+William Brown,13,Male,A+,Depression,2022-09-03,Allison Carlson,Red Hills healthcare,17951.74,Emergency,2024-05-13,Omeprazole,Abnormal
+Jason Stewart,15,Male,O+,Arthritis,2023-04-17,Calvin Martin,SRK Healthcare,38992.39,Routine,2023-04-18,Losartan,Normal
+Collin Acosta,100,Other,O-,Hypertension,2024-11-23,Andrew Greer,Red Hills healthcare,14148.07,Routine,2025-03-02,Atorvastatin,Critical
+Teresa Moran,94,Female,B-,Arthritis,2023-09-01,Deanna Fleming,Jacoby Stuarts ,12386.98,Routine,2024-12-07,Omeprazole,Critical
+Samantha Hart,57,Female,O-,Migraine,2023-05-14,Jonathon Black,Clara Vincent,23750.59,Elective,2024-07-19,Atorvastatin,Normal
+William Griffin,94,Female,AB-,Asthma,2024-07-28,Deanna Fleming,John Marcelo Clinic,4612.41,Elective,2024-10-02,Amoxicillin,Critical
+Jonathon Gregory,83,Female,A-,Anxiety,2022-04-27,Calvin Martin,Scott Island Hospitals,17746.19,Urgent,2025-07-28,Ibuprofen,Normal
+Samantha Brown,20,Female,A-,Asthma,2022-06-23,Karen Black,Jacoby Stuarts ,35899.63,Urgent,2025-12-04,Amoxicillin,Abnormal
+Linda Thomas,21,Male,B+,Obesity,2024-06-25,Kim Peterson,Jacoby Stuarts ,15020.56,Routine,2024-12-26,Losartan,Critical
+Lisa Clark,18,Other,B-,Heart Disease,2022-08-22,Christy Hall,Sam Isaac Group,26673.49,Urgent,2023-01-22,Atorvastatin,Abnormal
+Stephanie Bird,71,Female,AB+,Migraine,2022-07-11,Chelsea Roberson,Sara & Sue,35644.98,Elective,2023-02-14,Metformin,Normal
+Joseph Butler,90,Female,A-,Arthritis,2023-07-22,Christine Newman,John Marcelo Clinic,11435.56,Emergency,2024-08-04,Lisinopril,Abnormal
+Christopher Wright,45,Female,B+,Hypertension,2022-10-12,Miss Gina Nixon MD,Clara Vincent,7254.43,Routine,2024-11-21,Losartan,Critical
+David Whitaker,73,Other,O+,Diabetes,2022-06-30,Alan Cabrera,Clara Vincent,30553.67,Elective,2023-12-09,Ibuprofen,Normal
+Jonathan Richmond,5,Other,A+,Hypertension,2024-10-15,Karen Black,Sam Isaac Group,3041.27,Emergency,2025-09-24,Ibuprofen,Abnormal
+Richard Lopez,43,Female,A+,Arthritis,2024-07-03,Christy Hall,John Marcelo Clinic,30387.66,Elective,2025-08-21,Amoxicillin,Normal
+Sandra Bowman,48,Male,A+,Depression,2024-11-28,Kim Peterson,Clara Vincent,45074.01,Emergency,2025-02-02,Lisinopril,Critical
+Thomas Parker,20,Male,B-,Cancer,2022-04-30,Allison Carlson,Jacoby Stuarts ,6392.72,Urgent,2025-01-11,Lisinopril,Abnormal
+Matthew Brown,18,Male,O+,Anxiety,2023-08-07,Allison Carlson,FynnCare Hospital,40182.12,Elective,2023-12-09,Metformin,Normal
+Jeffrey Schwartz,11,Male,AB+,Diabetes,2021-12-19,Jonathon Black,John Marcelo Clinic,26367.34,Emergency,2023-07-31,Metformin,Normal
+Nicholas Jenkins,72,Female,A-,Heart Disease,2022-06-03,Alan Cabrera,SRK Healthcare,30897.66,Routine,2022-07-22,Ibuprofen,Normal
+Jennifer Bowman,67,Female,AB-,Hypertension,2023-01-13,Tonya Stephens,Clara Vincent0,7675.38,Emergency,2025-11-17,Ibuprofen,Critical
+Linda Stone,26,Female,O-,Diabetes,2024-10-17,Karen Black,Jacoby Stuarts ,46717.06,Routine,2025-03-01,Amoxicillin,Abnormal
+Elizabeth Hall,52,Other,A-,Hypertension,2024-07-18,Tonya Stephens,Scott Island Hospitals,40154.25,Emergency,2025-06-24,Aspirin,Critical
+John Martin,94,Male,O-,Arthritis,2022-07-21,Rebecca Jones,FynnCare Hospital,7246.52,Urgent,2023-03-15,Losartan,Critical
+Linda Burke,84,Other,B-,Cancer,2024-08-20,Brian Keith,FynnCare Hospital,29762.83,Urgent,2025-03-23,Losartan,Abnormal
+Patrick Jenkins,23,Other,AB-,Cancer,2024-02-02,Christine Newman,FynnCare Hospital,12520.69,Urgent,2025-07-05,Metformin,Abnormal
+Stacey Douglas,43,Male,AB-,Cancer,2023-06-04,Christine Newman,Red Hills healthcare,30690.54,Emergency,2024-10-07,Aspirin,Critical
+Denise Stout,97,Other,O+,Diabetes,2022-01-25,Rebecca Jones,SRK Healthcare,5625.14,Elective,2025-01-19,Losartan,Critical
+Cheryl Watson,22,Male,B-,Arthritis,2022-03-07,Alan Cabrera,Clara Vincent,3662.55,Urgent,2025-08-17,Omeprazole,Abnormal
+Mark Roberts,57,Male,A-,Cancer,2023-01-22,Calvin Martin,Sara & Sue,34889.49,Emergency,2024-09-24,Losartan,Abnormal
+Bailey Reid,58,Female,B-,Diabetes,2022-08-20,Andrew Greer,Scott Island Hospitals,28111.27,Elective,2024-01-11,Metformin,Normal
+Ashley Stevens,51,Other,AB-,Depression,2023-06-26,Jonathon Black,John Marcelo Clinic,44835.02,Emergency,2025-04-04,Amoxicillin,Abnormal
+Kim Wheeler,2,Female,B+,Arthritis,2022-04-06,Miss Gina Nixon MD,John Marcelo Clinic,30577.13,Elective,2024-02-18,Paracetamol,Critical
+John Lamb,31,Female,O-,Depression,2022-09-10,Allison Carlson,Sara & Sue,21653.12,Routine,2025-04-16,Ibuprofen,Normal
+Angela Olson,16,Other,O+,Arthritis,2022-04-29,Christy Hall,Red Hills healthcare,12055.11,Urgent,2024-04-20,Metformin,Critical
+Pamela Jones,67,Female,B-,Migraine,2022-08-23,Chelsea Roberson,Sam Isaac Group,10732.56,Routine,2024-10-01,Losartan,Normal
+Nancy Grimes,30,Male,O+,Arthritis,2022-03-03,Calvin Martin,Sara & Sue,30381.24,Elective,2023-07-20,Paracetamol,Normal
+James Foster,61,Female,AB+,Migraine,2024-03-02,Miss Gina Nixon MD,Clara Vincent,49628.19,Elective,2024-03-29,Omeprazole,Critical
+Sonya Duffy,50,Male,O-,Diabetes,2024-12-01,Deanna Fleming,SRK Healthcare,19424.67,Urgent,2025-09-06,Ibuprofen,Critical
+Jessica Walker,55,Female,B-,Obesity,2022-05-04,Calvin Martin,Red Hills healthcare,34388.19,Routine,2023-11-29,Lisinopril,Abnormal
+Rebecca Hansen,26,Other,AB-,Anxiety,2023-12-13,Andrew Greer,Clara Vincent0,15109.75,Emergency,2024-04-19,Aspirin,Abnormal
+Christopher Morgan,57,Male,B-,Arthritis,2023-07-30,Karen Black,John Marcelo Clinic,3224.27,Routine,2025-10-29,Lisinopril,Abnormal
+Jose Gardner,86,Other,B+,Cancer,2022-06-17,Chelsea Roberson,Clara Vincent,37101.88,Urgent,2023-01-08,Metformin,Critical
+Brenda Wheeler,36,Female,B-,Heart Disease,2023-05-12,Eric Johnson,Clara Vincent0,1500.89,Routine,2025-04-22,Atorvastatin,Critical
+Daniel Smith,7,Female,AB-,Asthma,2022-10-23,Allison Carlson,John Marcelo Clinic,32466.52,Routine,2023-12-19,Amoxicillin,Critical
+Zachary Harmon,65,Other,B-,Anxiety,2024-02-07,Karen Black,Scott Island Hospitals,37350.99,Routine,2025-09-10,Lisinopril,Normal
+Todd Thompson,51,Other,B+,Heart Disease,2022-06-08,Alexandra Bennett,Scott Island Hospitals,44872.93,Emergency,2022-06-08,Lisinopril,Normal
+Jason Gilbert,71,Male,AB-,Asthma,2024-06-28,Tonya Stephens,Sam Isaac Group,43178.45,Elective,2025-11-01,Metformin,Abnormal
+Seth Bush,53,Male,A-,Cancer,2023-07-22,Mary Smith,Red Hills healthcare,7629.15,Routine,2024-12-20,Amoxicillin,Abnormal
+Tina Morris,41,Other,O+,Arthritis,2023-11-28,Christine Newman,John Marcelo Clinic,29064.83,Emergency,2024-08-24,Ibuprofen,Abnormal
+Brittany Valdez,28,Male,AB+,Cancer,2022-09-11,Christine Newman,SRK Healthcare,26835.23,Routine,2025-09-09,Losartan,Abnormal
+Paige Padilla,91,Female,AB-,Anxiety,2024-05-25,Tonya Stephens,SRK Healthcare,40116.57,Elective,2024-09-10,Omeprazole,Abnormal
+Keith Torres,64,Male,B-,Heart Disease,2024-07-30,Eric Johnson,Jacoby Stuarts ,2867.08,Urgent,2025-02-08,Metformin,Abnormal
+David Willis,1,Other,AB-,Cancer,2024-10-20,Allison Carlson,SRK Healthcare,40974.52,Urgent,2025-09-13,Lisinopril,Normal
+Todd Paul,38,Other,AB-,Hypertension,2023-05-26,Christy Hall,SRK Healthcare,45572.7,Routine,2024-10-22,Atorvastatin,Abnormal
+William Ellis,11,Other,A+,Arthritis,2022-09-10,Alexandra Bennett,Clara Vincent0,24790.63,Routine,2023-05-02,Omeprazole,Normal
+Michael Carpenter,10,Male,AB+,Obesity,2024-06-09,Kim Peterson,Scott Island Hospitals,30742.51,Emergency,2025-02-15,Atorvastatin,Abnormal
+Michael Townsend,97,Other,B+,Diabetes,2024-11-16,Deanna Fleming,Sam Isaac Group,22098.49,Routine,2025-11-25,Aspirin,Critical
+Christina Barber,61,Female,O+,Obesity,2024-08-02,Emily Davila,Jacoby Stuarts ,21277.77,Elective,2025-03-03,Metformin,Normal
+Paul Hutchinson,46,Other,A-,Diabetes,2022-06-18,Christy Hall,Jacoby Stuarts ,6461.27,Elective,2025-03-24,Metformin,Normal
+Tara Gray,42,Female,B+,Cancer,2023-06-10,Jonathon Black,John Marcelo Clinic,25545.55,Urgent,2025-04-08,Paracetamol,Critical
+Dr. Amanda Hall,44,Female,O-,Diabetes,2022-12-12,Miss Gina Nixon MD,Red Hills healthcare,5396.79,Routine,2024-12-30,Aspirin,Abnormal
+Ms. Taylor Kemp,39,Other,O+,Arthritis,2024-10-23,Alexandra Bennett,Sam Isaac Group,31679.34,Elective,2025-03-03,Ibuprofen,Critical
+Anthony Lowe,12,Male,B+,Hypertension,2022-12-27,Calvin Martin,Sara & Sue,16870.23,Emergency,2024-02-15,Omeprazole,Normal
+Logan Reed,14,Male,AB-,Anxiety,2024-06-30,Jonathon Black,FynnCare Hospital,6300.67,Elective,2024-11-26,Omeprazole,Normal
+Jonathan Davis,12,Other,A+,Cancer,2024-09-30,Tonya Stephens,SRK Healthcare,9225.22,Urgent,2025-09-28,Atorvastatin,Abnormal
+Kurt Murillo,45,Female,O+,Cancer,2023-03-05,Calvin Martin,Red Hills healthcare,2866.63,Routine,2024-09-19,Paracetamol,Critical
+Brian Carter,34,Male,O-,Migraine,2023-09-06,Andrew Greer,Scott Island Hospitals,5062.34,Emergency,2025-09-25,Paracetamol,Abnormal
+Kimberly Kirk,24,Other,B+,Arthritis,2023-11-13,Deanna Fleming,Red Hills healthcare,42018.75,Routine,2023-12-25,Atorvastatin,Abnormal
+Todd Brown,23,Male,O-,Hypertension,2024-02-24,Rebecca Jones,FynnCare Hospital,25321.63,Routine,2024-11-25,Losartan,Abnormal
+Michele Freeman,71,Other,O+,Diabetes,2022-05-07,Christy Hall,Sara & Sue,18556.08,Routine,2022-09-18,Aspirin,Normal
+Crystal Vega,29,Male,O+,Heart Disease,2023-04-02,Rebecca Jones,SRK Healthcare,31203.67,Elective,2023-04-06,Losartan,Normal
+Angela Murray,28,Female,AB-,Cancer,2023-12-07,Kim Peterson,Clara Vincent0,23835.74,Elective,2024-09-12,Aspirin,Critical
+Tommy Martin,58,Female,AB-,Anxiety,2024-09-07,Tonya Stephens,FynnCare Hospital,43209.54,Urgent,2025-01-02,Atorvastatin,Critical
+Jennifer Santiago,11,Other,O+,Diabetes,2022-08-23,Christy Hall,Red Hills healthcare,36269.8,Elective,2025-08-19,Omeprazole,Abnormal
+Barbara Griffin,52,Female,B-,Obesity,2023-05-24,Alan Cabrera,Scott Island Hospitals,7354.67,Elective,2023-06-10,Paracetamol,Normal
+Tyler Schaefer,63,Male,AB-,Obesity,2022-12-07,Timothy Ramirez,FynnCare Hospital,43524.28,Emergency,2024-01-01,Losartan,Critical
+John Klein,24,Female,O-,Depression,2023-03-21,Timothy Ramirez,Red Hills healthcare,6088.43,Routine,2025-01-31,Paracetamol,Normal
+Tammie Parker,4,Male,A+,Cancer,2022-09-02,Andrew Greer,Scott Island Hospitals,47137.2,Routine,2025-08-13,Metformin,Critical
+Joseph Klein,81,Other,B+,Arthritis,2023-01-29,Brian Keith,Jacoby Stuarts ,5946.82,Routine,2025-11-23,Ibuprofen,Normal
+Jenna Perry,67,Male,AB-,Arthritis,2024-01-14,Alexandra Bennett,FynnCare Hospital,5164.86,Emergency,2025-03-20,Losartan,Critical
+Monica Gonzalez,99,Male,B-,Arthritis,2022-06-26,Allison Carlson,SRK Healthcare,25347.11,Urgent,2024-09-24,Amoxicillin,Normal
+Kenneth Powell,97,Other,AB-,Depression,2023-01-15,Mary Smith,FynnCare Hospital,4332.89,Urgent,2025-03-26,Aspirin,Normal
+David Campbell,56,Female,AB+,Diabetes,2023-09-21,Miss Gina Nixon MD,Sam Isaac Group,4789.06,Urgent,2025-01-16,Atorvastatin,Critical
+Amy Bates,78,Other,A-,Anxiety,2023-06-21,Rebecca Jones,FynnCare Hospital,10707.52,Routine,2024-04-26,Atorvastatin,Critical
+Sydney Chambers,97,Other,AB-,Heart Disease,2023-04-12,Alan Cabrera,Red Hills healthcare,10092.07,Urgent,2024-11-15,Omeprazole,Abnormal
+Charles Davenport,12,Male,B-,Hypertension,2022-05-24,Rebecca Jones,Clara Vincent,33624.3,Urgent,2025-03-17,Omeprazole,Normal
+Sheila Cox,9,Female,B-,Anxiety,2024-01-21,Karen Black,Clara Vincent,21592.51,Emergency,2024-11-20,Metformin,Abnormal
+Andrea Palmer,2,Female,AB-,Migraine,2023-04-08,Timothy Ramirez,Clara Vincent0,10486.57,Routine,2025-12-02,Ibuprofen,Abnormal
+Elizabeth Oconnor,84,Male,AB-,Hypertension,2024-11-23,Christy Hall,FynnCare Hospital,3498.13,Urgent,2025-08-25,Metformin,Abnormal
+Stacy Lopez,9,Male,AB-,Cancer,2023-08-05,Eric Johnson,Sara & Sue,21613.58,Emergency,2024-05-16,Lisinopril,Abnormal
+Andrew Prince,89,Other,O+,Hypertension,2024-11-02,Deanna Fleming,John Marcelo Clinic,40614.48,Routine,2025-01-23,Atorvastatin,Normal
+Rachel Brown,91,Male,A-,Migraine,2024-02-17,Christine Newman,Clara Vincent0,2655.4,Routine,2025-06-07,Aspirin,Critical
+Christina Hayes,85,Female,AB-,Migraine,2022-09-16,Christy Hall,FynnCare Hospital,45253.45,Elective,2025-02-15,Paracetamol,Normal
+Robert Daniels,25,Male,AB+,Arthritis,2023-09-27,Chelsea Roberson,FynnCare Hospital,41558.43,Elective,2025-04-23,Aspirin,Normal
+Suzanne Church,63,Other,O-,Obesity,2024-03-08,Christy Hall,Jacoby Stuarts ,23892.55,Routine,2024-09-05,Aspirin,Normal
+Michael Sanchez,36,Other,A+,Migraine,2022-07-17,Calvin Martin,FynnCare Hospital,16176.09,Emergency,2022-07-26,Losartan,Critical
+Bryan Lindsey,90,Other,O+,Heart Disease,2022-10-21,Chelsea Roberson,Sam Isaac Group,42728.52,Emergency,2025-06-18,Paracetamol,Critical
+Luis Jones,84,Other,A+,Depression,2023-02-16,Kim Peterson,John Marcelo Clinic,9093.07,Elective,2024-07-26,Ibuprofen,Critical
+Warren Schmidt,62,Female,A-,Migraine,2021-12-28,Tonya Stephens,Clara Vincent,4306.02,Urgent,2022-02-07,Atorvastatin,Abnormal
+Mrs. Betty Perkins,39,Male,O-,Diabetes,2022-02-02,Mary Smith,Jacoby Stuarts ,42384.9,Elective,2023-03-07,Lisinopril,Abnormal
+Trevor Brown,29,Other,B+,Obesity,2024-04-07,Alexandra Bennett,Red Hills healthcare,27013.19,Routine,2025-01-10,Metformin,Normal
+Richard Carter,76,Male,O-,Depression,2024-04-13,Tonya Stephens,Scott Island Hospitals,49140.29,Routine,2025-04-22,Paracetamol,Abnormal
+Kelli Walls,86,Female,AB-,Diabetes,2023-06-11,Allison Carlson,Red Hills healthcare,1284.93,Elective,2024-05-09,Atorvastatin,Normal
+Melissa Olsen,77,Male,B+,Arthritis,2023-11-07,Emily Davila,SRK Healthcare,8551.34,Emergency,2025-05-13,Paracetamol,Abnormal
+Sydney Underwood,66,Male,AB+,Asthma,2024-02-12,Allison Carlson,Sam Isaac Group,30539.35,Emergency,2025-03-27,Ibuprofen,Abnormal
+Mariah Wiggins,52,Other,B+,Arthritis,2024-01-27,Rebecca Jones,Red Hills healthcare,16660.09,Routine,2024-06-25,Aspirin,Critical
+Robert Smith,45,Female,AB+,Diabetes,2024-04-07,Karen Black,Sara & Sue,33913.68,Emergency,2024-12-25,Atorvastatin,Abnormal
+Manuel Cox,25,Female,AB+,Asthma,2022-12-28,Miss Gina Nixon MD,Clara Vincent0,20827.08,Elective,2023-06-08,Losartan,Critical
+Vincent Potter,80,Other,O+,Anxiety,2022-12-18,Jonathon Black,SRK Healthcare,49118.94,Routine,2024-02-07,Amoxicillin,Critical
+Joseph Hall,24,Other,B+,Hypertension,2024-10-31,Tonya Stephens,Jacoby Stuarts ,19120.07,Emergency,2025-02-06,Omeprazole,Normal
+Kendra Crawford,50,Other,B-,Depression,2023-08-14,Rebecca Jones,Clara Vincent0,11926.12,Emergency,2024-05-30,Atorvastatin,Abnormal
+Mrs. Joy Gamble,7,Other,B-,Anxiety,2024-10-11,Calvin Martin,Clara Vincent0,41450.62,Elective,2025-09-27,Paracetamol,Normal
+Charlotte Anderson,35,Female,A-,Asthma,2024-02-11,Mary Smith,Clara Vincent0,3180.04,Emergency,2024-09-01,Amoxicillin,Abnormal
+Robert Johnson,47,Other,A+,Hypertension,2024-06-03,Rebecca Jones,FynnCare Hospital,11175.04,Elective,2024-12-24,Paracetamol,Abnormal
+John Valdez,60,Female,O+,Migraine,2023-03-07,Mary Smith,Sam Isaac Group,38858.13,Emergency,2024-01-17,Lisinopril,Critical
+Sara Alexander,100,Female,O-,Anxiety,2023-03-21,Alan Cabrera,SRK Healthcare,19176.54,Emergency,2024-05-10,Lisinopril,Abnormal
+Heather Evans,47,Other,AB-,Arthritis,2022-08-02,Kim Peterson,Sam Isaac Group,24758.58,Emergency,2023-11-15,Lisinopril,Abnormal
+Regina Turner,92,Other,O+,Hypertension,2024-07-31,Tonya Stephens,Sara & Sue,6081.27,Routine,2025-03-30,Paracetamol,Abnormal
+Alex Foster,50,Other,AB-,Migraine,2023-02-14,Eric Johnson,FynnCare Hospital,19423.73,Emergency,2024-10-23,Amoxicillin,Critical
+Michael Waters,43,Female,B-,Diabetes,2022-10-01,Christine Newman,Scott Island Hospitals,24710.89,Routine,2023-03-16,Atorvastatin,Normal
+Michael Monroe,37,Female,A-,Diabetes,2024-04-14,Timothy Ramirez,Sam Isaac Group,18876.07,Routine,2024-06-15,Aspirin,Abnormal
+Laurie Martinez,61,Other,B-,Heart Disease,2024-05-18,Jonathon Black,Sara & Sue,15297.64,Urgent,2025-07-10,Lisinopril,Critical
+Brandon Crawford,49,Other,B+,Hypertension,2024-10-04,Calvin Martin,Red Hills healthcare,25164.58,Urgent,2025-05-08,Metformin,Normal
+Jacob Whitaker,86,Other,A-,Obesity,2022-12-30,Christine Newman,Red Hills healthcare,44132.23,Elective,2024-01-22,Paracetamol,Abnormal
+Bryan Meyer,93,Other,AB-,Diabetes,2024-01-20,Timothy Ramirez,Jacoby Stuarts ,18232.75,Routine,2025-04-30,Lisinopril,Abnormal
+Daniel White,25,Other,B-,Diabetes,2023-10-13,Alan Cabrera,Scott Island Hospitals,6652.03,Emergency,2025-11-19,Lisinopril,Abnormal
+Wesley Hernandez,70,Male,B-,Heart Disease,2024-03-10,Alexandra Bennett,John Marcelo Clinic,9133.15,Urgent,2025-09-24,Metformin,Normal
+Christopher Thomas,62,Other,AB+,Cancer,2024-01-23,Jonathon Black,Clara Vincent,11597.0,Urgent,2024-06-17,Omeprazole,Abnormal
+Patricia Gibson,12,Male,AB+,Diabetes,2023-10-31,Jonathon Black,FynnCare Hospital,25942.05,Emergency,2024-09-25,Losartan,Normal
+Melissa Walker,98,Male,AB+,Heart Disease,2022-08-14,Andrew Greer,FynnCare Hospital,32983.89,Urgent,2023-01-24,Paracetamol,Normal
+Tommy Walters,88,Male,B-,Asthma,2024-11-26,Brian Keith,SRK Healthcare,36517.26,Routine,2025-05-29,Atorvastatin,Critical
+Sherry Gardner,88,Female,B-,Obesity,2022-04-03,Rebecca Jones,Scott Island Hospitals,15432.23,Urgent,2023-10-18,Lisinopril,Critical
+Jonathan Cox,17,Other,A+,Obesity,2022-11-09,Alexandra Bennett,FynnCare Hospital,13883.9,Urgent,2023-11-17,Lisinopril,Critical
+Erica Jones,20,Other,O+,Hypertension,2023-10-06,Mary Smith,Clara Vincent0,36017.62,Elective,2025-04-21,Atorvastatin,Normal
+Sharon Brandt,44,Other,O+,Migraine,2022-02-23,Miss Gina Nixon MD,Jacoby Stuarts ,13087.62,Routine,2023-09-28,Ibuprofen,Abnormal
+Bonnie Davis,28,Other,B+,Anxiety,2024-01-14,Jonathon Black,SRK Healthcare,35879.51,Emergency,2024-11-09,Amoxicillin,Normal
+Donald Young,94,Male,O-,Anxiety,2024-06-03,Alan Cabrera,John Marcelo Clinic,22197.19,Emergency,2024-10-22,Omeprazole,Critical
+Dustin Alexander,58,Other,B+,Asthma,2023-11-30,Alexandra Bennett,Sam Isaac Group,14163.45,Emergency,2025-07-29,Lisinopril,Abnormal
+Tina Adams,15,Other,O-,Anxiety,2024-04-30,Rebecca Jones,Sam Isaac Group,15983.66,Elective,2025-05-04,Omeprazole,Abnormal
+Rhonda Young,7,Other,A-,Obesity,2024-07-18,Eric Johnson,Red Hills healthcare,20307.43,Elective,2024-11-30,Atorvastatin,Critical
+Dr. Lauren Green MD,73,Other,AB-,Arthritis,2022-06-29,Miss Gina Nixon MD,Sara & Sue,23229.17,Urgent,2025-04-12,Aspirin,Normal
+Jessica Martinez,49,Other,A-,Hypertension,2022-07-01,Chelsea Roberson,Clara Vincent0,33015.17,Routine,2023-10-30,Aspirin,Normal
+Diana Mcdaniel,62,Other,A+,Depression,2023-07-12,Mary Smith,Clara Vincent,23068.75,Routine,2025-05-30,Aspirin,Critical
+Denise Wang,35,Female,AB+,Asthma,2024-04-09,Christine Newman,Sam Isaac Group,49775.46,Urgent,2024-05-04,Omeprazole,Normal
+Elizabeth Schmidt,68,Male,AB-,Obesity,2022-08-10,Karen Black,SRK Healthcare,46553.22,Elective,2025-04-12,Aspirin,Critical
+Randy Thompson,90,Other,B+,Cancer,2023-03-19,Andrew Greer,Sam Isaac Group,31022.86,Urgent,2023-12-25,Atorvastatin,Critical
+Michelle Schaefer,59,Other,O+,Obesity,2024-05-23,Tonya Stephens,Sara & Sue,22473.78,Emergency,2024-09-29,Omeprazole,Critical
+Nicole Luna,74,Female,A-,Heart Disease,2024-01-19,Mary Smith,FynnCare Hospital,37188.03,Routine,2024-06-26,Lisinopril,Critical
+Catherine Reeves,52,Other,B-,Migraine,2023-08-05,Christy Hall,John Marcelo Clinic,26593.21,Elective,2025-10-29,Atorvastatin,Abnormal
+Jason Glenn,13,Other,A-,Anxiety,2023-08-23,Chelsea Roberson,Scott Island Hospitals,1871.74,Routine,2024-02-10,Aspirin,Normal
+Brenda Odonnell,13,Male,A+,Anxiety,2024-09-04,Chelsea Roberson,Red Hills healthcare,1122.37,Urgent,2025-06-12,Losartan,Critical
+Tracy Parker,91,Male,O-,Anxiety,2023-02-24,Miss Gina Nixon MD,John Marcelo Clinic,3286.49,Elective,2025-04-03,Losartan,Normal
+Christopher Holmes,8,Female,A-,Asthma,2022-01-10,Christine Newman,Jacoby Stuarts ,2622.9,Emergency,2024-10-18,Lisinopril,Critical
+Tami Cooper,98,Female,AB+,Anxiety,2024-07-30,Alexandra Bennett,Clara Vincent0,11885.71,Urgent,2024-11-21,Paracetamol,Normal
+Logan Steele,54,Other,AB+,Asthma,2022-07-28,Alan Cabrera,Clara Vincent0,17852.66,Routine,2025-01-24,Lisinopril,Normal
+Cody Mcgrath,6,Female,A-,Heart Disease,2023-06-27,Christine Newman,SRK Healthcare,26976.23,Emergency,2024-05-14,Atorvastatin,Normal
+Nathan Peters,4,Male,A-,Hypertension,2024-11-24,Miss Gina Nixon MD,John Marcelo Clinic,16315.25,Urgent,2025-11-01,Atorvastatin,Abnormal
+Traci Robinson,69,Other,O+,Anxiety,2022-04-30,Eric Johnson,Sara & Sue,34481.7,Emergency,2025-06-09,Omeprazole,Critical
+Elizabeth Cole,46,Other,AB+,Anxiety,2023-05-14,Andrew Greer,Clara Vincent,12906.37,Urgent,2024-05-17,Losartan,Normal
+Donna Orr,74,Other,A-,Asthma,2024-05-18,Chelsea Roberson,Jacoby Stuarts ,33703.94,Routine,2024-10-28,Lisinopril,Abnormal
+Gary Gonzalez,89,Male,O-,Obesity,2024-09-16,Andrew Greer,John Marcelo Clinic,39612.34,Routine,2025-01-31,Aspirin,Critical
+Erik Stewart,39,Female,B-,Depression,2024-07-11,Eric Johnson,Sara & Sue,27666.64,Elective,2024-10-11,Ibuprofen,Abnormal
+James Singh,67,Female,B+,Migraine,2022-07-23,Rebecca Jones,John Marcelo Clinic,16422.54,Emergency,2025-03-31,Losartan,Normal
+Jeffrey Garrison,25,Other,AB-,Anxiety,2023-06-24,Emily Davila,John Marcelo Clinic,9442.96,Urgent,2024-05-26,Amoxicillin,Normal
+Erica Knight,6,Female,A-,Heart Disease,2022-11-10,Karen Black,FynnCare Hospital,3930.41,Emergency,2024-09-18,Aspirin,Critical
+Chelsea Ewing,17,Male,AB+,Diabetes,2024-03-11,Allison Carlson,Red Hills healthcare,9468.79,Urgent,2025-09-27,Omeprazole,Critical
+Kathleen Cooper,11,Female,B+,Obesity,2022-03-29,Kim Peterson,Sam Isaac Group,23783.9,Emergency,2024-09-15,Amoxicillin,Abnormal
+Cindy Jordan,77,Female,AB+,Arthritis,2023-04-12,Eric Johnson,Clara Vincent,15337.7,Emergency,2024-02-18,Omeprazole,Normal
+Carol Shaw,26,Female,O+,Migraine,2023-08-18,Brian Keith,Sam Isaac Group,35741.95,Urgent,2024-12-19,Atorvastatin,Critical
+William Welch,3,Male,AB-,Diabetes,2023-09-12,Andrew Greer,Jacoby Stuarts ,20921.47,Emergency,2024-05-27,Lisinopril,Abnormal
+Mary Berry,93,Male,A-,Hypertension,2022-09-16,Karen Black,Clara Vincent0,31057.05,Emergency,2022-09-27,Lisinopril,Abnormal
+Jason Long,9,Other,O-,Hypertension,2024-01-19,Brian Keith,Sara & Sue,8877.26,Elective,2024-12-21,Losartan,Critical
+Antonio Morse,15,Male,AB+,Asthma,2023-04-15,Tonya Stephens,Clara Vincent,20317.57,Elective,2024-01-03,Amoxicillin,Abnormal
+Melissa Grant,58,Other,AB-,Cancer,2022-08-30,Eric Johnson,Red Hills healthcare,26479.74,Elective,2023-06-04,Metformin,Critical
+Carrie Hooper,97,Female,A+,Asthma,2021-12-16,Chelsea Roberson,Sam Isaac Group,48834.5,Urgent,2024-02-18,Amoxicillin,Critical
+Emily Andrews,16,Female,B+,Obesity,2023-08-16,Christy Hall,SRK Healthcare,3166.34,Routine,2025-10-14,Lisinopril,Abnormal
+Robert Perez,1,Male,B+,Cancer,2023-07-10,Emily Davila,Red Hills healthcare,20263.82,Elective,2023-10-09,Aspirin,Abnormal
+Jonathan Perez,77,Other,B+,Heart Disease,2023-07-21,Brian Keith,Jacoby Stuarts ,23274.05,Elective,2024-06-12,Ibuprofen,Abnormal
+Phillip Norris,62,Male,AB-,Anxiety,2023-07-19,Andrew Greer,Jacoby Stuarts ,47596.31,Elective,2024-09-12,Omeprazole,Normal
+Lindsey Clarke,43,Male,A-,Obesity,2023-10-11,Christy Hall,John Marcelo Clinic,48055.96,Emergency,2023-12-01,Aspirin,Normal
+Richard Lewis,23,Male,A-,Diabetes,2023-03-07,Kim Peterson,Clara Vincent,36663.52,Emergency,2025-10-30,Omeprazole,Critical
+Jody Daniels,48,Other,AB+,Anxiety,2022-08-21,Karen Black,Sam Isaac Group,48592.46,Elective,2023-04-17,Metformin,Critical
+Ana Kramer,48,Other,O+,Heart Disease,2023-12-10,Karen Black,Clara Vincent,15957.16,Emergency,2025-01-22,Metformin,Abnormal
+Jennifer Hamilton,91,Female,B+,Cancer,2022-02-09,Christy Hall,John Marcelo Clinic,43879.83,Urgent,2022-09-30,Paracetamol,Normal
+Natalie Howard,10,Other,O-,Depression,2022-04-13,Andrew Greer,John Marcelo Clinic,27208.88,Urgent,2022-04-17,Lisinopril,Abnormal
+Laurie Davis,15,Other,B-,Diabetes,2022-05-12,Allison Carlson,Scott Island Hospitals,6937.99,Elective,2022-11-20,Paracetamol,Critical
+Dr. Glen Brooks,81,Other,B+,Anxiety,2024-05-26,Rebecca Jones,FynnCare Hospital,36660.77,Elective,2024-10-20,Ibuprofen,Normal
+Lauren Green,3,Other,O-,Hypertension,2022-09-10,Christy Hall,Red Hills healthcare,1550.14,Elective,2022-11-01,Atorvastatin,Abnormal
+Jay Alexander,84,Other,A-,Diabetes,2022-02-05,Mary Smith,FynnCare Hospital,43790.52,Emergency,2025-06-08,Omeprazole,Normal
+Jessica Atkinson,14,Other,A+,Cancer,2024-03-18,Jonathon Black,Red Hills healthcare,2583.09,Elective,2024-11-13,Metformin,Normal
+Joseph Hurst,80,Female,AB+,Cancer,2022-03-29,Tonya Stephens,Sara & Sue,18659.03,Elective,2024-02-28,Amoxicillin,Abnormal
+Mrs. Sandra Mccormick PhD,74,Female,AB-,Cancer,2023-03-17,Andrew Greer,Sara & Sue,21378.45,Routine,2023-09-29,Aspirin,Critical
+Joseph Morales,29,Female,O-,Diabetes,2024-09-26,Tonya Stephens,Sam Isaac Group,13999.34,Routine,2025-02-17,Omeprazole,Critical
+Dr. Tara Berg,7,Other,AB-,Hypertension,2023-10-09,Christy Hall,John Marcelo Clinic,38255.51,Routine,2023-11-06,Lisinopril,Critical
+April Pena,74,Female,A-,Diabetes,2024-04-28,Alexandra Bennett,Clara Vincent0,39814.9,Urgent,2024-12-26,Metformin,Abnormal
+Gregory Colon,78,Female,B-,Anxiety,2023-02-17,Calvin Martin,Clara Vincent0,42611.19,Routine,2024-09-06,Lisinopril,Abnormal
+Steven Riddle,38,Other,O+,Hypertension,2024-06-16,Christy Hall,Scott Island Hospitals,14842.37,Routine,2025-02-04,Lisinopril,Critical
+Christina Hoffman,32,Male,AB-,Obesity,2023-05-14,Christine Newman,SRK Healthcare,16288.52,Routine,2024-11-29,Omeprazole,Abnormal
+Tracy Maldonado,50,Male,A-,Depression,2023-08-14,Jonathon Black,SRK Healthcare,43974.97,Elective,2025-01-16,Losartan,Critical
+Lisa Gordon,82,Female,B+,Cancer,2024-02-29,Karen Black,Sara & Sue,20785.79,Emergency,2025-01-01,Atorvastatin,Abnormal
+Drew Johnston,52,Female,O-,Diabetes,2023-07-06,Deanna Fleming,John Marcelo Clinic,4439.71,Urgent,2024-12-19,Amoxicillin,Abnormal
+Nicole Adams,71,Other,AB+,Heart Disease,2022-11-21,Christine Newman,Red Hills healthcare,32411.99,Emergency,2024-06-20,Ibuprofen,Normal
+Jeff Ford,42,Female,B+,Arthritis,2022-05-28,Alan Cabrera,Clara Vincent0,9045.48,Elective,2022-10-22,Metformin,Critical
+Edward Murray,3,Other,A+,Diabetes,2023-07-29,Christine Newman,John Marcelo Clinic,8722.06,Emergency,2024-02-27,Omeprazole,Critical
+Dr. Michael Reese MD,87,Male,B+,Migraine,2023-11-29,Alan Cabrera,Red Hills healthcare,7538.78,Emergency,2024-05-29,Metformin,Normal
+Joseph Schroeder,29,Male,O+,Diabetes,2023-04-15,Alan Cabrera,SRK Healthcare,21340.4,Urgent,2023-10-24,Atorvastatin,Critical
+Matthew Hester,30,Male,AB+,Heart Disease,2023-11-03,Kim Peterson,SRK Healthcare,48550.17,Urgent,2023-12-06,Aspirin,Critical
+Stephanie Douglas,82,Male,A-,Anxiety,2024-07-17,Christine Newman,Jacoby Stuarts ,38102.05,Routine,2025-08-29,Lisinopril,Abnormal
+Mrs. Kathy Sullivan,95,Other,B+,Heart Disease,2022-07-26,Emily Davila,SRK Healthcare,27601.49,Elective,2023-05-28,Amoxicillin,Critical
+William Parker,74,Male,O+,Diabetes,2023-07-09,Jonathon Black,Jacoby Stuarts ,18143.52,Urgent,2024-06-15,Paracetamol,Abnormal
+Sandra Ayala,81,Other,AB+,Migraine,2023-08-09,Chelsea Roberson,Sara & Sue,49377.23,Emergency,2025-07-18,Aspirin,Critical
+Linda Davis,85,Other,AB-,Migraine,2022-11-30,Christy Hall,Jacoby Stuarts ,39692.5,Elective,2022-12-18,Omeprazole,Critical
+Jill Vargas,92,Female,AB+,Diabetes,2022-02-08,Jonathon Black,SRK Healthcare,2783.39,Elective,2023-06-01,Losartan,Abnormal
+Nicole Davis,89,Other,A+,Diabetes,2024-05-24,Christine Newman,John Marcelo Clinic,22618.0,Routine,2025-09-15,Ibuprofen,Normal
+Phillip Martinez,36,Male,B+,Migraine,2024-01-29,Tonya Stephens,Clara Vincent,40722.83,Urgent,2024-04-24,Atorvastatin,Critical
+Rachel Welch,58,Other,O-,Hypertension,2024-04-26,Calvin Martin,John Marcelo Clinic,37869.85,Routine,2025-07-31,Omeprazole,Normal
+Ann Valentine,97,Other,A+,Depression,2024-10-21,Jonathon Black,Scott Island Hospitals,15795.26,Urgent,2025-07-01,Losartan,Critical
+Brandon Vaughn,9,Male,B+,Depression,2024-07-28,Miss Gina Nixon MD,Clara Vincent0,1996.19,Routine,2025-08-12,Paracetamol,Normal
+Crystal Ward,75,Male,AB-,Hypertension,2024-08-09,Chelsea Roberson,Jacoby Stuarts ,26992.39,Elective,2024-09-30,Lisinopril,Normal
+Joan Schmidt,20,Other,O+,Arthritis,2023-12-02,Rebecca Jones,FynnCare Hospital,18944.95,Urgent,2024-01-20,Atorvastatin,Critical
+Roy Bennett,1,Male,A+,Asthma,2024-10-26,Allison Carlson,Sam Isaac Group,35453.83,Urgent,2024-12-13,Ibuprofen,Critical
+Kelly Galloway,27,Other,B+,Cancer,2024-09-28,Rebecca Jones,Sam Isaac Group,47902.46,Elective,2024-12-31,Lisinopril,Critical
+Jamie Cruz,65,Other,B+,Hypertension,2023-10-09,Miss Gina Nixon MD,Clara Vincent0,34959.94,Urgent,2025-07-03,Atorvastatin,Critical
+Erica Zuniga,22,Male,AB-,Asthma,2022-10-01,Allison Carlson,Scott Island Hospitals,42984.97,Emergency,2022-10-04,Metformin,Abnormal
+Brittany Vargas,93,Male,A+,Hypertension,2022-07-16,Deanna Fleming,Sara & Sue,19076.27,Elective,2025-01-09,Amoxicillin,Abnormal
+Rhonda Mendoza,100,Female,O-,Migraine,2023-07-14,Timothy Ramirez,Scott Island Hospitals,3426.02,Routine,2024-09-21,Amoxicillin,Abnormal
+William Lane,6,Other,O+,Anxiety,2022-02-06,Deanna Fleming,Clara Vincent0,6775.52,Urgent,2023-11-28,Omeprazole,Critical
+Lauren Castaneda,14,Male,O+,Hypertension,2023-10-16,Christy Hall,Clara Vincent0,5568.85,Elective,2024-11-15,Amoxicillin,Abnormal
+Randy Harper,29,Other,O-,Obesity,2023-07-17,Christine Newman,Jacoby Stuarts ,4618.77,Emergency,2024-01-09,Omeprazole,Critical
+Jill Black,73,Male,O-,Diabetes,2023-05-19,Christine Newman,Red Hills healthcare,25457.43,Urgent,2024-01-03,Omeprazole,Critical
+Jacqueline Pope,22,Other,AB+,Arthritis,2022-02-23,Timothy Ramirez,FynnCare Hospital,46208.74,Routine,2023-01-25,Atorvastatin,Abnormal
+Steven Andrews,54,Male,A+,Diabetes,2022-09-19,Deanna Fleming,SRK Healthcare,9469.55,Urgent,2023-01-01,Losartan,Critical
+Joseph Webb,36,Male,B-,Hypertension,2024-02-14,Kim Peterson,Sam Isaac Group,49255.87,Elective,2024-07-06,Ibuprofen,Abnormal
+Lisa Ryan,76,Female,O-,Heart Disease,2023-01-07,Miss Gina Nixon MD,Clara Vincent0,24832.67,Routine,2023-02-03,Metformin,Critical
+Robert Walsh,55,Female,AB+,Cancer,2023-03-17,Brian Keith,Red Hills healthcare,15392.47,Urgent,2024-08-10,Lisinopril,Abnormal
+Sophia Mcdonald,88,Male,A+,Diabetes,2021-12-18,Timothy Ramirez,Scott Island Hospitals,38340.2,Emergency,2022-07-22,Losartan,Normal
+Jorge Bell,63,Other,B+,Migraine,2023-01-21,Miss Gina Nixon MD,Sam Isaac Group,15275.27,Urgent,2024-03-13,Losartan,Critical
+Krystal Hernandez,4,Other,A+,Heart Disease,2023-04-29,Andrew Greer,Sam Isaac Group,26489.41,Emergency,2023-06-13,Ibuprofen,Abnormal
+Michaela Mitchell,72,Other,A+,Asthma,2022-08-30,Eric Johnson,Sam Isaac Group,9417.1,Urgent,2025-05-09,Atorvastatin,Normal
+Bridget Jordan,33,Female,O+,Diabetes,2023-08-13,Andrew Greer,John Marcelo Clinic,16416.88,Urgent,2023-11-15,Omeprazole,Abnormal
+Thomas Farrell,8,Male,B+,Hypertension,2024-04-26,Alan Cabrera,Scott Island Hospitals,23053.81,Elective,2024-06-29,Losartan,Abnormal
+Robert Decker,77,Female,A+,Hypertension,2024-06-30,Karen Black,SRK Healthcare,31029.53,Urgent,2025-04-10,Paracetamol,Normal
+Mark Lewis,91,Other,AB-,Arthritis,2024-06-12,Brian Keith,John Marcelo Clinic,32190.53,Urgent,2024-07-11,Ibuprofen,Abnormal
+Christopher Ford,15,Other,AB-,Hypertension,2024-10-19,Emily Davila,FynnCare Hospital,31658.45,Elective,2024-11-05,Omeprazole,Abnormal
+Brenda Myers,50,Female,O-,Hypertension,2023-11-12,Christine Newman,Sara & Sue,3558.51,Emergency,2025-10-26,Atorvastatin,Normal
+Kayla Reed,38,Female,A-,Hypertension,2023-11-22,Alexandra Bennett,Red Hills healthcare,3229.36,Urgent,2024-08-21,Paracetamol,Critical
+David Mckinney,39,Female,AB-,Cancer,2022-07-20,Deanna Fleming,FynnCare Hospital,43030.88,Routine,2023-11-09,Ibuprofen,Normal
+Andrew Contreras,7,Other,A-,Anxiety,2023-05-30,Tonya Stephens,Clara Vincent0,48441.49,Urgent,2025-05-22,Losartan,Critical
+Monique Quinn,83,Other,AB+,Diabetes,2023-04-21,Chelsea Roberson,Sara & Sue,32445.95,Elective,2024-10-21,Ibuprofen,Normal
+Sandra Ross,31,Male,A+,Heart Disease,2022-01-07,Tonya Stephens,Scott Island Hospitals,30632.87,Elective,2025-04-15,Lisinopril,Normal
+Donald Moore,33,Female,AB+,Depression,2022-03-31,Alexandra Bennett,Sara & Sue,28647.9,Elective,2025-08-09,Ibuprofen,Abnormal
+Isaac Morgan,12,Female,A+,Hypertension,2024-05-11,Brian Keith,Clara Vincent0,14484.16,Urgent,2024-11-21,Losartan,Abnormal
+Cheryl York,93,Male,A+,Asthma,2023-07-12,Tonya Stephens,Red Hills healthcare,35267.07,Routine,2024-06-30,Losartan,Abnormal
+Julia Wallace,93,Other,A+,Hypertension,2022-07-20,Allison Carlson,FynnCare Hospital,11816.06,Routine,2023-12-17,Amoxicillin,Critical
+Leslie Arnold,34,Other,A+,Depression,2022-03-17,Mary Smith,SRK Healthcare,1444.89,Routine,2022-12-10,Metformin,Abnormal
+Timothy Kaufman,70,Other,O-,Cancer,2024-05-03,Eric Johnson,SRK Healthcare,47993.46,Urgent,2024-12-08,Losartan,Abnormal
+Beth Griffin,96,Male,O-,Migraine,2023-12-29,Alan Cabrera,Clara Vincent,34000.44,Elective,2024-11-19,Omeprazole,Critical
+Michael Anderson,90,Male,A-,Depression,2023-02-28,Chelsea Roberson,SRK Healthcare,5105.26,Elective,2024-06-24,Ibuprofen,Normal
+Richard Peterson,7,Male,B-,Arthritis,2024-03-01,Allison Carlson,John Marcelo Clinic,3113.99,Emergency,2025-06-03,Paracetamol,Abnormal
+Douglas Brown,99,Male,O-,Hypertension,2022-09-18,Rebecca Jones,FynnCare Hospital,47474.55,Routine,2022-12-04,Metformin,Abnormal
+John Frazier,11,Other,AB-,Arthritis,2024-10-31,Emily Davila,Scott Island Hospitals,49516.4,Emergency,2025-11-12,Ibuprofen,Critical
+Scott Johnson,76,Other,AB-,Migraine,2022-03-04,Andrew Greer,Scott Island Hospitals,7122.54,Urgent,2024-07-13,Ibuprofen,Abnormal
+Donald Warren,32,Female,O-,Anxiety,2024-05-22,Calvin Martin,Sara & Sue,2851.25,Urgent,2025-07-13,Metformin,Critical
+Vincent Hayes,65,Female,A+,Obesity,2023-06-21,Miss Gina Nixon MD,FynnCare Hospital,20230.55,Urgent,2024-12-15,Lisinopril,Critical
+Richard Larson,85,Male,AB+,Depression,2022-09-29,Rebecca Jones,SRK Healthcare,6837.81,Urgent,2022-12-18,Amoxicillin,Abnormal
+Dennis Wilkinson,30,Other,AB-,Heart Disease,2023-11-08,Rebecca Jones,Scott Island Hospitals,10678.26,Emergency,2024-10-02,Ibuprofen,Abnormal
+Donna Payne,22,Other,A-,Migraine,2023-10-30,Alan Cabrera,Clara Vincent0,19412.7,Emergency,2024-08-01,Losartan,Normal
+Lisa Lawrence,6,Male,AB-,Cancer,2023-05-03,Deanna Fleming,Jacoby Stuarts ,14012.31,Emergency,2024-02-17,Metformin,Abnormal
+Rebecca Weaver,49,Other,A+,Diabetes,2024-11-02,Kim Peterson,Scott Island Hospitals,42926.4,Urgent,2025-06-30,Atorvastatin,Abnormal
+Sean Gomez,41,Other,A-,Hypertension,2022-05-23,Calvin Martin,Clara Vincent,28250.97,Emergency,2024-10-04,Lisinopril,Abnormal
+Lisa Hayes,30,Other,AB-,Asthma,2022-03-18,Alexandra Bennett,SRK Healthcare,9979.52,Urgent,2023-12-09,Atorvastatin,Critical
+Nicole Erickson,7,Male,O-,Anxiety,2024-04-08,Tonya Stephens,FynnCare Hospital,48651.96,Urgent,2025-11-14,Omeprazole,Normal
+Mr. James Delgado,93,Other,B+,Asthma,2023-02-06,Rebecca Jones,Red Hills healthcare,15204.08,Elective,2025-08-27,Lisinopril,Normal
+Jordan Lawson,91,Male,B+,Anxiety,2024-01-03,Mary Smith,John Marcelo Clinic,45386.25,Routine,2025-01-28,Atorvastatin,Normal
+Ryan Murray,18,Female,AB-,Heart Disease,2022-05-28,Chelsea Roberson,John Marcelo Clinic,12996.65,Urgent,2022-08-20,Amoxicillin,Critical
+Melody Schwartz,39,Female,B+,Hypertension,2024-09-24,Tonya Stephens,FynnCare Hospital,14140.25,Emergency,2025-05-04,Lisinopril,Normal
+Barbara Bailey,12,Male,B-,Asthma,2023-03-11,Christy Hall,John Marcelo Clinic,34250.99,Emergency,2024-12-05,Lisinopril,Abnormal
+Michelle Kelly,96,Female,AB-,Hypertension,2024-07-11,Christine Newman,Sara & Sue,14445.27,Emergency,2025-08-05,Omeprazole,Abnormal
+Tyler Love,18,Female,A+,Migraine,2024-05-23,Brian Keith,Clara Vincent0,5857.48,Routine,2024-09-22,Metformin,Normal
+Taylor Watson,88,Male,O-,Anxiety,2023-09-22,Brian Keith,John Marcelo Clinic,12386.83,Urgent,2023-09-25,Lisinopril,Critical
+Aaron Maynard,24,Other,AB-,Depression,2024-06-27,Chelsea Roberson,FynnCare Hospital,49759.64,Urgent,2024-10-01,Amoxicillin,Normal
+Kelly Landry,65,Other,AB-,Diabetes,2023-06-11,Kim Peterson,Scott Island Hospitals,20103.92,Routine,2023-07-10,Omeprazole,Critical
+Natasha Marquez,82,Male,AB-,Cancer,2024-07-13,Kim Peterson,SRK Healthcare,49976.17,Emergency,2025-07-05,Ibuprofen,Normal
+Olivia Robles,28,Male,O-,Migraine,2022-04-23,Calvin Martin,Clara Vincent,30621.82,Emergency,2023-08-18,Atorvastatin,Abnormal
+Colleen Lopez,45,Other,B-,Asthma,2022-01-27,Eric Johnson,SRK Healthcare,39418.26,Elective,2022-05-06,Amoxicillin,Abnormal
+Kendra Wise,51,Female,B-,Depression,2023-02-15,Timothy Ramirez,SRK Healthcare,2188.0,Elective,2025-12-01,Omeprazole,Normal
+Danielle Williams,80,Female,O+,Heart Disease,2024-01-27,Rebecca Jones,Scott Island Hospitals,49563.68,Emergency,2025-09-06,Amoxicillin,Critical
+Christian Rodriguez PhD,49,Male,A+,Migraine,2023-11-30,Christine Newman,John Marcelo Clinic,5607.72,Elective,2024-08-14,Omeprazole,Critical
+Brittany Baker,77,Other,AB-,Diabetes,2024-11-21,Mary Smith,Clara Vincent,19063.27,Urgent,2025-07-10,Ibuprofen,Normal
+Rachel Lewis,48,Male,A+,Obesity,2022-09-29,Brian Keith,Sam Isaac Group,4529.4,Routine,2025-03-23,Paracetamol,Critical
+Jordan Lamb,71,Other,O-,Heart Disease,2022-11-05,Mary Smith,Red Hills healthcare,24284.81,Emergency,2025-02-14,Atorvastatin,Abnormal
+David Morris,24,Female,A+,Heart Disease,2022-11-30,Rebecca Jones,Sara & Sue,42658.84,Routine,2025-12-06,Atorvastatin,Abnormal
+Tyler Jones,92,Male,AB+,Cancer,2024-04-26,Jonathon Black,John Marcelo Clinic,6205.62,Urgent,2024-08-14,Ibuprofen,Abnormal
+Brett Kennedy,11,Female,O-,Anxiety,2023-05-08,Andrew Greer,SRK Healthcare,21914.41,Emergency,2024-02-27,Omeprazole,Abnormal
+Tiffany Ross,63,Male,A-,Diabetes,2023-02-16,Emily Davila,Sam Isaac Group,34584.22,Routine,2023-04-21,Aspirin,Abnormal
+Christopher Alvarado,67,Female,O-,Migraine,2022-04-27,Timothy Ramirez,Sara & Sue,7668.02,Emergency,2022-12-28,Aspirin,Critical
+Patrick Frye,20,Male,O+,Diabetes,2023-05-01,Andrew Greer,FynnCare Hospital,22827.59,Urgent,2024-12-01,Metformin,Abnormal
+Julia Wheeler,50,Female,A-,Obesity,2024-02-18,Alan Cabrera,SRK Healthcare,25067.58,Emergency,2025-11-13,Aspirin,Critical
+Tracey Perry,79,Female,B+,Migraine,2023-02-22,Andrew Greer,SRK Healthcare,27483.87,Emergency,2024-01-21,Atorvastatin,Abnormal
+Nicole Rocha,55,Female,O+,Anxiety,2024-05-07,Alexandra Bennett,SRK Healthcare,39068.44,Routine,2025-05-02,Paracetamol,Normal
+Eric Koch,24,Other,A+,Hypertension,2022-03-09,Brian Keith,Clara Vincent0,49782.43,Routine,2025-11-17,Lisinopril,Normal
+Courtney Hutchinson,74,Female,AB+,Heart Disease,2023-03-31,Alexandra Bennett,Sara & Sue,29590.58,Elective,2025-02-20,Metformin,Critical
+Colleen Parrish,96,Female,A+,Anxiety,2024-10-12,Calvin Martin,Scott Island Hospitals,41673.77,Elective,2025-02-25,Amoxicillin,Critical
+Gabriel Foster,77,Male,A-,Hypertension,2024-07-20,Tonya Stephens,John Marcelo Clinic,25651.62,Routine,2025-09-10,Amoxicillin,Normal
+Jose Obrien,27,Male,A-,Obesity,2022-03-20,Andrew Greer,Jacoby Stuarts ,37747.7,Routine,2023-08-01,Losartan,Abnormal
+Haley Osborn,7,Female,A+,Depression,2024-04-30,Calvin Martin,Sara & Sue,35771.34,Urgent,2025-01-18,Omeprazole,Critical
+Rachel Lewis,62,Other,A-,Anxiety,2024-09-18,Miss Gina Nixon MD,FynnCare Hospital,46153.17,Routine,2025-10-12,Metformin,Abnormal
+Jenna Lopez,49,Male,B+,Diabetes,2024-07-04,Tonya Stephens,FynnCare Hospital,27234.07,Routine,2025-02-10,Omeprazole,Normal
+Benjamin Martin,65,Female,O-,Heart Disease,2023-11-13,Kim Peterson,Scott Island Hospitals,7885.21,Emergency,2024-08-14,Metformin,Abnormal
+Jesse Owen,2,Male,O-,Arthritis,2022-06-06,Deanna Fleming,Sara & Sue,1923.51,Elective,2022-08-04,Atorvastatin,Abnormal
+William Baldwin,63,Other,AB+,Obesity,2021-12-10,Alan Cabrera,Red Hills healthcare,20108.88,Emergency,2022-05-23,Paracetamol,Normal
+Pamela Anderson,14,Male,AB-,Diabetes,2024-02-08,Tonya Stephens,Sam Isaac Group,36027.28,Urgent,2025-12-06,Ibuprofen,Critical
+Dr. Keith Harrison,53,Male,B-,Arthritis,2024-08-22,Andrew Greer,SRK Healthcare,48496.06,Elective,2024-10-21,Lisinopril,Critical
+Christina Rodriguez,89,Female,A-,Arthritis,2023-09-10,Andrew Greer,SRK Healthcare,37246.58,Emergency,2025-09-20,Metformin,Abnormal
+Jenna Strong,78,Other,AB+,Diabetes,2023-09-27,Brian Keith,FynnCare Hospital,29899.2,Routine,2024-03-15,Lisinopril,Abnormal
+Dylan Webster,83,Male,O-,Anxiety,2024-01-31,Alexandra Bennett,Scott Island Hospitals,8039.74,Emergency,2024-06-27,Losartan,Abnormal
+Kathleen Bass,84,Female,A+,Asthma,2024-11-25,Rebecca Jones,Scott Island Hospitals,49147.8,Elective,2025-08-13,Atorvastatin,Abnormal
+Mary Graham,33,Male,B-,Depression,2024-05-01,Alan Cabrera,FynnCare Hospital,22414.04,Emergency,2025-08-22,Metformin,Abnormal
+Shane Chavez,11,Male,B+,Arthritis,2022-10-27,Miss Gina Nixon MD,Clara Vincent0,15752.05,Urgent,2025-10-13,Metformin,Abnormal
+Michael Nguyen,26,Female,B+,Anxiety,2023-09-01,Karen Black,John Marcelo Clinic,44850.83,Emergency,2024-05-07,Metformin,Abnormal
+Jessica Maxwell,3,Male,AB+,Anxiety,2024-07-27,Eric Johnson,FynnCare Hospital,38253.3,Emergency,2024-11-05,Lisinopril,Normal
+Tracy Mcfarland,17,Male,B-,Diabetes,2022-06-30,Mary Smith,John Marcelo Clinic,47502.02,Routine,2025-01-07,Paracetamol,Abnormal
+Samantha Espinoza,89,Female,O-,Obesity,2024-11-03,Mary Smith,Scott Island Hospitals,32039.51,Urgent,2025-11-29,Amoxicillin,Normal
+Veronica Steele,31,Male,AB-,Arthritis,2022-03-29,Deanna Fleming,FynnCare Hospital,35752.69,Elective,2025-10-24,Omeprazole,Normal
+Stephanie Jordan,51,Other,A-,Hypertension,2024-05-12,Andrew Greer,Jacoby Stuarts ,24258.47,Urgent,2024-09-09,Paracetamol,Normal
+Karen Malone,36,Female,AB+,Depression,2023-02-18,Emily Davila,FynnCare Hospital,25375.1,Emergency,2023-04-21,Aspirin,Abnormal
+Kristin Hall,3,Other,B+,Obesity,2021-12-26,Jonathon Black,Jacoby Stuarts ,10278.09,Urgent,2023-12-26,Paracetamol,Critical
+Jerry Oconnor,70,Other,AB+,Anxiety,2024-01-19,Alan Cabrera,Red Hills healthcare,3874.66,Routine,2024-03-23,Losartan,Critical
+Anthony Garcia,96,Female,B+,Obesity,2024-01-17,Christine Newman,FynnCare Hospital,21151.73,Emergency,2025-03-20,Lisinopril,Critical
+Jasmine Coleman DVM,2,Other,AB+,Diabetes,2023-09-20,Alan Cabrera,Sam Isaac Group,44976.37,Emergency,2024-06-13,Amoxicillin,Critical
+Amy Pierce DVM,14,Male,B+,Depression,2023-08-20,Rebecca Jones,Jacoby Stuarts ,43552.02,Elective,2024-09-13,Aspirin,Normal
+Rebecca Huynh MD,40,Female,B+,Heart Disease,2024-09-29,Christine Newman,Jacoby Stuarts ,33634.68,Urgent,2025-06-21,Lisinopril,Abnormal
+Blake Vaughan,98,Male,B-,Heart Disease,2022-08-14,Chelsea Roberson,SRK Healthcare,36668.42,Emergency,2025-10-10,Paracetamol,Normal
+Donna Thomas,75,Female,O-,Arthritis,2023-07-08,Tonya Stephens,Clara Vincent0,29994.88,Urgent,2024-08-18,Paracetamol,Critical
+Amanda Cox,77,Male,AB+,Diabetes,2023-03-11,Emily Davila,SRK Healthcare,17061.17,Urgent,2023-11-28,Amoxicillin,Critical
+Logan Frye,42,Male,O-,Anxiety,2023-06-04,Eric Johnson,Sam Isaac Group,36498.32,Routine,2024-09-04,Losartan,Normal
+Paula Taylor,89,Male,B-,Migraine,2024-06-21,Allison Carlson,Clara Vincent0,39185.31,Emergency,2025-02-05,Lisinopril,Abnormal
+Rachael Gray DVM,53,Other,B+,Obesity,2022-04-24,Christy Hall,John Marcelo Clinic,49054.75,Urgent,2022-11-04,Lisinopril,Abnormal
+Joel Chavez,97,Male,A-,Obesity,2022-01-03,Alexandra Bennett,SRK Healthcare,7097.4,Urgent,2022-07-05,Amoxicillin,Abnormal
+Gerald Washington,11,Female,O+,Anxiety,2023-06-19,Karen Black,Jacoby Stuarts ,16735.78,Emergency,2024-07-11,Ibuprofen,Normal
+David Wilson,13,Other,B+,Hypertension,2023-04-28,Allison Carlson,Jacoby Stuarts ,31103.99,Routine,2023-08-13,Paracetamol,Critical
+Stephanie Hall,57,Male,A-,Cancer,2023-08-05,Timothy Ramirez,Scott Island Hospitals,13344.94,Elective,2025-07-11,Omeprazole,Abnormal
+Angela Arnold,40,Female,AB-,Migraine,2024-04-03,Emily Davila,Red Hills healthcare,19261.74,Elective,2025-04-02,Paracetamol,Critical
+Beth Beard,94,Other,B+,Asthma,2022-08-07,Timothy Ramirez,FynnCare Hospital,42524.42,Routine,2022-10-24,Amoxicillin,Normal
+Beth Wolf,64,Male,O-,Asthma,2024-06-26,Chelsea Roberson,Scott Island Hospitals,35418.92,Routine,2025-03-31,Atorvastatin,Normal
+Michael Roach PhD,38,Female,B+,Depression,2022-01-09,Eric Johnson,John Marcelo Clinic,14786.24,Urgent,2023-04-11,Omeprazole,Abnormal
+Andrew Russell,32,Male,AB+,Obesity,2024-02-02,Deanna Fleming,FynnCare Hospital,2008.7,Elective,2025-03-27,Losartan,Normal
+Sara Cook,20,Other,A+,Depression,2023-01-31,Deanna Fleming,John Marcelo Clinic,29000.16,Routine,2024-05-19,Metformin,Normal
+Kelly Myers,34,Male,A+,Obesity,2022-07-10,Alexandra Bennett,Jacoby Stuarts ,25456.3,Emergency,2022-09-07,Omeprazole,Abnormal
+Cody Hutchinson,45,Female,O+,Diabetes,2024-11-08,Deanna Fleming,Clara Vincent0,34193.73,Emergency,2025-10-07,Atorvastatin,Critical
+Angel Jones,8,Other,B+,Diabetes,2023-12-25,Christine Newman,Jacoby Stuarts ,9645.76,Urgent,2024-05-29,Ibuprofen,Abnormal
+Patrick Patel,1,Female,B-,Depression,2022-07-20,Alexandra Bennett,Clara Vincent0,20835.13,Urgent,2025-06-29,Paracetamol,Normal
+Kevin Andrews,69,Male,O+,Anxiety,2023-07-29,Alan Cabrera,Sam Isaac Group,34518.01,Elective,2024-03-28,Metformin,Abnormal
+Kathy Cantrell,33,Other,O+,Anxiety,2022-06-27,Rebecca Jones,Jacoby Stuarts ,14897.11,Elective,2023-08-04,Lisinopril,Abnormal
+Jonathan Clark,34,Other,O-,Diabetes,2022-07-03,Emily Davila,Clara Vincent0,20712.99,Routine,2023-08-20,Losartan,Critical
+Emily Watts,43,Female,B-,Arthritis,2023-05-12,Emily Davila,Jacoby Stuarts ,36943.63,Routine,2024-06-22,Metformin,Critical
+Kathleen Allen,45,Other,AB+,Heart Disease,2024-10-02,Jonathon Black,Sam Isaac Group,33575.0,Emergency,2025-10-26,Atorvastatin,Critical
+Kim Nelson,12,Female,O-,Depression,2023-12-29,Christy Hall,Red Hills healthcare,30095.28,Elective,2024-03-26,Omeprazole,Critical
+Antonio Williamson,50,Other,B+,Depression,2022-12-01,Miss Gina Nixon MD,Clara Vincent0,18588.64,Routine,2024-09-11,Atorvastatin,Critical
+Joe Mathis Jr.,83,Male,AB-,Heart Disease,2024-05-13,Allison Carlson,Clara Vincent,5014.27,Urgent,2024-07-02,Metformin,Abnormal
+Christina Johnson,58,Female,B-,Hypertension,2023-07-26,Alexandra Bennett,SRK Healthcare,13827.58,Routine,2024-09-14,Atorvastatin,Critical
+Kevin Mcbride,83,Other,A-,Hypertension,2024-11-29,Christine Newman,SRK Healthcare,4924.55,Elective,2025-05-16,Lisinopril,Abnormal
+Taylor Ayers,44,Male,AB-,Anxiety,2022-07-20,Emily Davila,Jacoby Stuarts ,27111.94,Routine,2023-08-18,Aspirin,Normal
+Shannon Gates,49,Female,A-,Cancer,2024-08-05,Brian Keith,Clara Vincent,32010.8,Routine,2025-10-25,Atorvastatin,Normal
+Sandra Perkins,80,Female,B-,Asthma,2024-07-24,Miss Gina Nixon MD,SRK Healthcare,1763.28,Routine,2024-09-14,Losartan,Normal
+Latasha Coffey,37,Other,B-,Arthritis,2023-06-10,Christine Newman,Sam Isaac Group,35507.16,Urgent,2024-05-17,Omeprazole,Normal
+Robert Watson,12,Other,A-,Obesity,2024-11-17,Kim Peterson,Scott Island Hospitals,40975.23,Emergency,2025-02-08,Metformin,Critical
+James Stevens,5,Female,B-,Hypertension,2023-01-29,Tonya Stephens,Jacoby Stuarts ,32109.37,Urgent,2023-09-19,Amoxicillin,Abnormal
+Leroy Wells,51,Other,AB-,Diabetes,2022-10-13,Timothy Ramirez,Red Hills healthcare,47871.36,Elective,2023-02-14,Aspirin,Critical
+Terry Bailey,37,Other,O+,Cancer,2024-04-14,Brian Keith,Jacoby Stuarts ,6055.37,Routine,2024-07-12,Paracetamol,Abnormal
+Stacy Lane DVM,76,Female,O-,Arthritis,2024-04-21,Alexandra Bennett,SRK Healthcare,31877.87,Routine,2025-06-25,Omeprazole,Critical
+Joshua Harris,44,Male,AB-,Depression,2023-09-13,Brian Keith,Scott Island Hospitals,28509.2,Urgent,2025-03-27,Amoxicillin,Critical
+Daniel Haynes,53,Female,B+,Asthma,2022-12-20,Karen Black,Sara & Sue,27902.05,Emergency,2024-12-07,Atorvastatin,Normal
+Nicholas Chambers,81,Male,B+,Depression,2022-09-02,Karen Black,Sara & Sue,39551.04,Emergency,2025-04-20,Amoxicillin,Normal
+Ryan Ochoa,23,Male,A+,Obesity,2023-03-05,Chelsea Roberson,Clara Vincent,1359.15,Urgent,2023-04-30,Metformin,Critical
+William Doyle,85,Female,B+,Obesity,2022-10-06,Chelsea Roberson,Sam Isaac Group,36306.75,Urgent,2023-06-22,Amoxicillin,Critical
+Paul Perez,24,Other,A-,Depression,2022-01-02,Christine Newman,John Marcelo Clinic,8725.15,Urgent,2023-06-20,Ibuprofen,Critical
+Amy Ferguson,28,Female,A-,Hypertension,2024-08-23,Christine Newman,Sara & Sue,33772.98,Emergency,2024-11-30,Losartan,Abnormal
+Mike Little,3,Female,A-,Hypertension,2022-07-14,Andrew Greer,Scott Island Hospitals,6479.48,Routine,2024-10-11,Losartan,Critical
+Amber West,28,Other,AB-,Asthma,2022-01-04,Brian Keith,Sam Isaac Group,17957.96,Emergency,2024-10-17,Aspirin,Normal
+Nicholas Williams,43,Female,O-,Migraine,2022-09-22,Alan Cabrera,John Marcelo Clinic,11456.83,Urgent,2022-10-13,Ibuprofen,Abnormal
+John Kemp,81,Other,AB-,Anxiety,2024-12-03,Eric Johnson,Sara & Sue,25405.31,Urgent,2025-11-23,Paracetamol,Critical
+Lindsay Thomas,34,Female,AB+,Anxiety,2023-07-07,Deanna Fleming,SRK Healthcare,13271.71,Elective,2025-05-17,Losartan,Critical
+Cassidy Mitchell,22,Male,O+,Cancer,2023-06-08,Emily Davila,Sara & Sue,47776.18,Urgent,2025-07-17,Losartan,Abnormal
+Dawn Wright,17,Female,O+,Diabetes,2024-05-18,Andrew Greer,Jacoby Stuarts ,30360.5,Urgent,2025-02-19,Amoxicillin,Abnormal
+Kevin Graham,11,Male,AB+,Heart Disease,2023-10-14,Chelsea Roberson,Sam Isaac Group,17966.61,Urgent,2024-01-13,Lisinopril,Critical
+Sally Murphy,36,Male,O+,Migraine,2024-04-02,Mary Smith,Scott Island Hospitals,17247.51,Elective,2024-08-04,Atorvastatin,Abnormal
+Melissa Carroll,93,Male,AB-,Arthritis,2023-03-25,Eric Johnson,John Marcelo Clinic,7899.56,Urgent,2025-01-11,Metformin,Abnormal
+Angela Garcia,26,Female,B-,Anxiety,2024-10-18,Miss Gina Nixon MD,Sara & Sue,37092.93,Routine,2025-09-30,Losartan,Critical
+Charles Potter,35,Other,B+,Obesity,2022-05-20,Eric Johnson,John Marcelo Clinic,14849.84,Urgent,2022-11-13,Paracetamol,Normal
+James Smith,57,Female,B+,Hypertension,2024-11-06,Emily Davila,John Marcelo Clinic,22400.88,Emergency,2025-10-06,Losartan,Critical
+Steven Villanueva,72,Female,O+,Anxiety,2022-09-14,Calvin Martin,Clara Vincent0,21053.46,Urgent,2024-08-20,Losartan,Abnormal
+Allison Martinez,83,Other,A-,Diabetes,2024-03-19,Kim Peterson,Sam Isaac Group,40028.86,Elective,2024-07-24,Lisinopril,Normal
+Felicia Olson,78,Other,A-,Arthritis,2022-03-11,Mary Smith,Sam Isaac Group,12229.8,Routine,2022-03-30,Amoxicillin,Normal
+Alexis Haynes,2,Female,AB+,Arthritis,2022-10-31,Alan Cabrera,Red Hills healthcare,22305.48,Emergency,2023-10-23,Metformin,Critical
+Stacy Ashley,69,Other,A-,Depression,2023-11-24,Rebecca Jones,Sara & Sue,25052.68,Elective,2024-02-11,Losartan,Abnormal
+Michelle Freeman,65,Male,AB-,Hypertension,2023-02-05,Brian Keith,Clara Vincent,48930.85,Emergency,2024-07-26,Omeprazole,Abnormal
+Susan Ingram,61,Other,A+,Obesity,2023-04-24,Tonya Stephens,Clara Vincent0,5667.71,Urgent,2025-01-23,Lisinopril,Abnormal
+Christina Richardson,72,Male,AB-,Asthma,2024-06-24,Brian Keith,Scott Island Hospitals,42984.84,Urgent,2025-08-10,Amoxicillin,Normal
+Adam Koch,40,Male,O-,Hypertension,2023-10-27,Eric Johnson,Scott Island Hospitals,13431.33,Urgent,2025-08-04,Amoxicillin,Critical
+Victoria Williams,97,Female,AB+,Migraine,2023-04-09,Deanna Fleming,SRK Healthcare,48100.9,Elective,2024-08-24,Omeprazole,Critical
+Rachel Schneider,37,Other,B+,Depression,2022-08-16,Kim Peterson,SRK Healthcare,6545.28,Routine,2025-06-05,Amoxicillin,Critical
+Jacob Lewis,69,Male,B-,Arthritis,2024-02-11,Calvin Martin,FynnCare Hospital,22406.32,Elective,2024-12-24,Lisinopril,Critical
+Cameron Williams,36,Female,B+,Depression,2024-08-02,Eric Johnson,SRK Healthcare,33336.51,Elective,2025-01-05,Atorvastatin,Normal
+Natasha Edwards,95,Female,O-,Cancer,2021-12-12,Emily Davila,Sam Isaac Group,31074.25,Emergency,2023-05-29,Aspirin,Critical
+Timothy Murphy,28,Female,B+,Obesity,2024-11-10,Tonya Stephens,John Marcelo Clinic,20809.89,Emergency,2024-11-10,Atorvastatin,Abnormal
+Michele Shepherd,51,Female,B-,Migraine,2024-07-28,Alexandra Bennett,Clara Vincent,29444.88,Elective,2025-05-16,Lisinopril,Normal
+Jeffrey Melendez,27,Male,B+,Anxiety,2023-11-18,Karen Black,FynnCare Hospital,11757.66,Emergency,2024-08-19,Ibuprofen,Normal
+Matthew Williams,94,Other,AB+,Asthma,2024-04-09,Karen Black,Clara Vincent,27348.13,Urgent,2025-07-20,Paracetamol,Critical
+Melvin Clayton,54,Male,AB-,Migraine,2024-09-18,Allison Carlson,Sam Isaac Group,31395.77,Urgent,2024-11-05,Amoxicillin,Critical
+Casey Dougherty,67,Male,AB-,Arthritis,2023-02-19,Emily Davila,FynnCare Hospital,10462.9,Urgent,2023-02-28,Atorvastatin,Normal
+Zachary Patterson,15,Other,AB+,Arthritis,2024-07-30,Timothy Ramirez,John Marcelo Clinic,21857.1,Emergency,2024-08-30,Atorvastatin,Critical
+Denise Fisher,45,Male,O-,Obesity,2022-07-03,Alan Cabrera,FynnCare Hospital,40266.84,Routine,2025-08-26,Paracetamol,Normal
+Brandon Bishop,100,Female,A-,Depression,2022-06-22,Tonya Stephens,Sara & Sue,7713.8,Routine,2022-12-31,Lisinopril,Critical
+Steven Wheeler,44,Other,A+,Obesity,2022-12-13,Eric Johnson,FynnCare Hospital,4929.38,Elective,2025-07-25,Ibuprofen,Critical
+John Richardson,43,Other,A+,Asthma,2023-01-09,Calvin Martin,SRK Healthcare,25784.42,Emergency,2025-04-25,Atorvastatin,Abnormal
+Denise Martinez,29,Male,AB-,Depression,2022-10-06,Alexandra Bennett,Jacoby Stuarts ,30967.03,Urgent,2023-12-15,Omeprazole,Abnormal
+Abigail Reese,54,Female,B+,Depression,2021-12-22,Emily Davila,Red Hills healthcare,2078.05,Elective,2025-09-02,Aspirin,Abnormal
+Sheryl Cain,66,Female,B-,Obesity,2023-12-08,Kim Peterson,Sam Isaac Group,4897.96,Urgent,2025-04-23,Paracetamol,Normal
+Leah Wilson,73,Other,O-,Obesity,2023-12-27,Miss Gina Nixon MD,Scott Island Hospitals,4873.32,Emergency,2025-04-04,Paracetamol,Normal
+Melissa Hancock,43,Other,A+,Migraine,2022-09-20,Andrew Greer,Red Hills healthcare,1744.41,Elective,2025-10-21,Losartan,Critical
+John Chambers,39,Other,A+,Cancer,2022-10-09,Chelsea Roberson,SRK Healthcare,22788.78,Elective,2022-10-26,Amoxicillin,Critical
+Maria Villarreal,1,Other,B+,Depression,2023-01-30,Brian Keith,Sam Isaac Group,40396.48,Routine,2025-03-14,Ibuprofen,Critical
+Nina Johnson,99,Other,AB+,Anxiety,2022-02-27,Christine Newman,FynnCare Hospital,40118.16,Routine,2025-08-14,Ibuprofen,Normal
+Shannon Moore,55,Other,AB-,Obesity,2024-11-27,Andrew Greer,Red Hills healthcare,49857.71,Emergency,2024-12-26,Aspirin,Abnormal
+Christopher Sherman,58,Other,B+,Migraine,2023-12-28,Christy Hall,Jacoby Stuarts ,29709.62,Emergency,2025-10-17,Paracetamol,Normal
+Catherine Rodriguez,21,Female,A-,Cancer,2023-05-04,Miss Gina Nixon MD,Red Hills healthcare,9403.18,Routine,2024-02-03,Amoxicillin,Abnormal
+Samantha Campos,41,Male,B-,Anxiety,2022-09-15,Tonya Stephens,Clara Vincent,14166.79,Emergency,2025-05-20,Omeprazole,Abnormal
+Dawn Cross,35,Other,O+,Obesity,2023-01-04,Kim Peterson,Sara & Sue,10354.9,Elective,2023-07-22,Omeprazole,Abnormal
+Troy Suarez,99,Male,O-,Arthritis,2023-09-24,Jonathon Black,Sara & Sue,15100.24,Emergency,2024-03-06,Paracetamol,Abnormal
+Jeffrey Wright DVM,27,Female,A+,Cancer,2023-03-13,Alan Cabrera,Sara & Sue,16076.59,Elective,2024-05-11,Amoxicillin,Normal
+Amber Cook,56,Female,A-,Arthritis,2024-12-05,Tonya Stephens,Sara & Sue,32991.84,Routine,2025-06-10,Atorvastatin,Abnormal
+Emily Quinn,38,Other,B-,Arthritis,2022-02-12,Christy Hall,Sara & Sue,11672.51,Routine,2023-03-22,Losartan,Normal
+Lori Richardson,29,Other,O+,Depression,2023-11-23,Mary Smith,SRK Healthcare,13237.52,Emergency,2025-06-22,Lisinopril,Critical
+Elizabeth Mitchell,68,Male,AB+,Migraine,2024-04-25,Calvin Martin,Sara & Sue,14376.53,Routine,2024-04-30,Amoxicillin,Abnormal
+Ricky Miller,75,Other,B+,Obesity,2022-12-28,Jonathon Black,Clara Vincent,28066.25,Emergency,2023-05-04,Amoxicillin,Critical
+Adrian Walters,84,Other,A+,Depression,2024-09-16,Andrew Greer,Jacoby Stuarts ,3284.16,Urgent,2025-07-19,Lisinopril,Critical
+Christopher Mcclure,3,Other,O-,Anxiety,2022-08-25,Allison Carlson,John Marcelo Clinic,11529.91,Emergency,2022-10-05,Ibuprofen,Critical
+Frances Bailey,9,Other,O+,Hypertension,2024-08-20,Kim Peterson,Jacoby Stuarts ,7965.97,Urgent,2025-05-06,Atorvastatin,Abnormal
+James Levine,83,Female,B+,Depression,2022-02-13,Deanna Fleming,Jacoby Stuarts ,24225.24,Elective,2022-06-18,Ibuprofen,Critical
+David Davis,56,Male,AB-,Cancer,2024-09-29,Kim Peterson,Jacoby Stuarts ,39523.69,Routine,2024-11-11,Amoxicillin,Critical
+Stephanie Mccormick,2,Female,AB-,Migraine,2021-12-09,Karen Black,Clara Vincent,3578.46,Urgent,2023-02-28,Lisinopril,Abnormal
+Adam Williams,19,Other,AB+,Asthma,2024-08-21,Christine Newman,John Marcelo Clinic,26239.8,Elective,2024-09-05,Metformin,Abnormal
+Michael Reeves,67,Other,A+,Heart Disease,2023-12-29,Mary Smith,Sara & Sue,44328.22,Elective,2024-04-15,Losartan,Abnormal
+Patricia Kelly,30,Female,A+,Heart Disease,2023-11-13,Allison Carlson,Sam Isaac Group,37791.3,Urgent,2024-05-23,Atorvastatin,Abnormal
+Eric Gibbs,20,Other,A+,Heart Disease,2023-07-15,Andrew Greer,Scott Island Hospitals,29514.82,Elective,2025-02-05,Metformin,Critical
+Bruce Jackson,51,Male,O-,Obesity,2022-07-23,Calvin Martin,Clara Vincent0,11048.84,Routine,2023-02-04,Paracetamol,Abnormal
+Cheyenne King,56,Other,B+,Cancer,2022-09-10,Tonya Stephens,Clara Vincent0,31575.99,Elective,2025-09-15,Amoxicillin,Critical
+Dennis Lynn,11,Other,B-,Migraine,2022-06-12,Rebecca Jones,Jacoby Stuarts ,40857.28,Elective,2023-07-06,Aspirin,Normal
+Debbie Reeves,68,Other,A-,Migraine,2022-05-10,Tonya Stephens,Red Hills healthcare,13852.74,Elective,2025-07-03,Omeprazole,Normal
+Melissa Jordan,14,Female,A+,Heart Disease,2024-04-08,Christy Hall,Sam Isaac Group,43437.08,Elective,2024-07-27,Aspirin,Abnormal
+Sydney Krause,7,Male,O+,Cancer,2022-10-23,Kim Peterson,Jacoby Stuarts ,13584.55,Elective,2023-04-21,Losartan,Critical
+Anthony Oconnor,21,Male,O+,Asthma,2023-08-31,Allison Carlson,Jacoby Stuarts ,27891.84,Routine,2024-09-11,Amoxicillin,Abnormal
+Elizabeth Kelly,70,Other,O+,Depression,2022-03-24,Allison Carlson,Clara Vincent0,4087.29,Routine,2025-11-25,Ibuprofen,Normal
+Eric Arnold,28,Female,AB+,Cancer,2022-09-04,Alexandra Bennett,Jacoby Stuarts ,39064.09,Elective,2025-08-11,Aspirin,Normal
+David Clarke,54,Male,AB+,Diabetes,2024-11-28,Karen Black,Red Hills healthcare,25482.42,Urgent,2025-01-17,Paracetamol,Normal
+Brenda Davis,21,Female,A-,Migraine,2024-08-15,Rebecca Jones,Jacoby Stuarts ,46049.05,Routine,2025-02-02,Atorvastatin,Critical
+Gregory Harris,12,Female,AB-,Heart Disease,2022-05-29,Jonathon Black,Scott Island Hospitals,26040.2,Emergency,2024-05-15,Lisinopril,Normal
+Debra Harvey,1,Female,AB-,Anxiety,2023-08-11,Christy Hall,Clara Vincent,29583.7,Urgent,2024-04-09,Atorvastatin,Abnormal
+Joyce Long,6,Female,O-,Obesity,2023-05-28,Alexandra Bennett,Sam Isaac Group,38092.68,Urgent,2025-06-18,Atorvastatin,Normal
+Danielle Stuart,27,Other,AB-,Asthma,2022-10-30,Christine Newman,Clara Vincent0,43046.84,Urgent,2025-10-25,Ibuprofen,Abnormal
+Joel Davidson,40,Male,AB+,Arthritis,2022-12-24,Deanna Fleming,Scott Island Hospitals,18249.09,Emergency,2025-02-27,Ibuprofen,Normal
+Allison Reed,82,Male,A-,Hypertension,2022-08-25,Miss Gina Nixon MD,John Marcelo Clinic,2997.83,Elective,2025-11-17,Losartan,Critical
+Scott Wilson,13,Other,A+,Migraine,2022-07-09,Andrew Greer,Clara Vincent,10307.09,Routine,2024-08-22,Aspirin,Normal
+Deanna Joseph,37,Male,B+,Heart Disease,2022-01-28,Alexandra Bennett,Scott Island Hospitals,41740.05,Elective,2025-07-02,Metformin,Abnormal
+Richard Powell,64,Male,O+,Cancer,2022-10-18,Timothy Ramirez,FynnCare Hospital,6037.02,Urgent,2023-07-15,Ibuprofen,Normal
+Bryan Gibson,41,Male,A+,Diabetes,2024-02-12,Calvin Martin,Scott Island Hospitals,42634.5,Routine,2025-09-20,Aspirin,Abnormal
+William Cross,54,Female,A-,Arthritis,2024-03-29,Allison Carlson,Clara Vincent0,43969.36,Emergency,2025-10-07,Paracetamol,Normal
+Daniel Harrison,14,Other,A+,Diabetes,2024-04-05,Brian Keith,Red Hills healthcare,20448.0,Emergency,2024-10-29,Losartan,Normal
+Taylor Austin,67,Female,O-,Depression,2022-01-17,Karen Black,John Marcelo Clinic,4659.71,Emergency,2024-06-23,Losartan,Abnormal
+Pamela Walker,84,Male,B-,Depression,2024-10-07,Eric Johnson,Sara & Sue,7775.21,Emergency,2025-08-23,Amoxicillin,Normal
+Jacob Espinoza,48,Male,A+,Arthritis,2024-08-16,Emily Davila,FynnCare Hospital,16052.9,Routine,2024-09-07,Losartan,Critical
+Kim Estrada,14,Other,O+,Hypertension,2024-04-17,Calvin Martin,Clara Vincent,9520.51,Elective,2024-06-25,Metformin,Abnormal
+Emily Nguyen,67,Other,B+,Diabetes,2024-01-11,Tonya Stephens,SRK Healthcare,11010.41,Elective,2024-11-28,Losartan,Normal
+Donna Diaz,9,Other,AB-,Anxiety,2023-01-30,Christine Newman,Clara Vincent,35564.63,Urgent,2025-06-02,Ibuprofen,Normal
+Jose Anderson,55,Male,A-,Obesity,2024-11-13,Calvin Martin,Clara Vincent0,13614.3,Elective,2024-11-29,Losartan,Critical
+Linda Flores,18,Other,AB+,Asthma,2023-09-09,Tonya Stephens,FynnCare Hospital,25762.82,Emergency,2025-04-09,Losartan,Critical
+Kimberly Beltran,97,Female,AB+,Obesity,2023-03-30,Miss Gina Nixon MD,John Marcelo Clinic,7576.24,Elective,2024-10-05,Losartan,Normal
+Lonnie Moore,66,Female,AB+,Anxiety,2024-11-08,Jonathon Black,Sam Isaac Group,21130.05,Elective,2024-11-19,Aspirin,Critical
+Herbert Perez,70,Male,O-,Depression,2024-11-13,Allison Carlson,Jacoby Stuarts ,2574.6,Urgent,2025-11-15,Lisinopril,Normal
+Randy Hughes,75,Male,AB+,Hypertension,2023-04-03,Timothy Ramirez,Clara Vincent0,37242.35,Elective,2024-10-11,Amoxicillin,Critical
+Andrew Casey,27,Female,A-,Heart Disease,2024-07-30,Allison Carlson,John Marcelo Clinic,33419.12,Emergency,2025-11-24,Amoxicillin,Abnormal
+Amanda Foster,64,Male,A+,Depression,2022-09-06,Kim Peterson,John Marcelo Clinic,8652.49,Emergency,2022-09-29,Paracetamol,Abnormal
+Kim Parker,69,Female,AB-,Obesity,2022-12-23,Chelsea Roberson,Scott Island Hospitals,48712.25,Emergency,2025-10-06,Ibuprofen,Normal
+Justin Page,86,Other,AB+,Obesity,2023-12-04,Kim Peterson,Jacoby Stuarts ,9915.76,Urgent,2025-08-13,Ibuprofen,Normal
+Robert Chase,43,Male,A+,Migraine,2024-10-10,Christy Hall,Clara Vincent0,8172.38,Routine,2025-06-10,Lisinopril,Abnormal
+Matthew Henderson,60,Female,A-,Diabetes,2024-07-18,Emily Davila,FynnCare Hospital,13047.0,Elective,2025-07-25,Aspirin,Abnormal
+Tina Merritt,86,Male,O-,Depression,2024-06-28,Deanna Fleming,SRK Healthcare,30186.13,Routine,2025-02-28,Metformin,Normal
+Savannah Mathews,41,Female,AB+,Asthma,2024-10-01,Tonya Stephens,Sam Isaac Group,42119.38,Emergency,2024-10-11,Lisinopril,Abnormal
+Benjamin Russo,38,Male,O+,Cancer,2022-08-17,Kim Peterson,Scott Island Hospitals,22259.74,Emergency,2025-01-08,Paracetamol,Critical
+Sean Williams,38,Female,A+,Cancer,2023-06-16,Deanna Fleming,Clara Vincent0,34185.33,Emergency,2024-05-06,Metformin,Critical
+Edward James,16,Male,A-,Arthritis,2023-11-29,Christine Newman,FynnCare Hospital,25590.71,Urgent,2025-02-08,Metformin,Abnormal
+Bradley Ortiz,77,Other,O+,Depression,2023-12-23,Emily Davila,Clara Vincent,27701.18,Routine,2025-02-15,Lisinopril,Critical
+Samantha Washington,10,Other,O+,Cancer,2022-02-05,Mary Smith,John Marcelo Clinic,14566.25,Urgent,2023-10-25,Ibuprofen,Critical
+Maria Miller,64,Female,AB-,Heart Disease,2024-10-12,Mary Smith,John Marcelo Clinic,33327.35,Urgent,2025-02-10,Aspirin,Abnormal
+Misty Smith,74,Male,O-,Heart Disease,2023-06-07,Rebecca Jones,Sara & Sue,19400.83,Routine,2023-10-31,Omeprazole,Abnormal
+Bradley Gonzalez,79,Male,AB-,Hypertension,2023-12-17,Rebecca Jones,Sara & Sue,16494.31,Elective,2024-07-23,Lisinopril,Normal
+Courtney Hernandez,36,Male,B+,Diabetes,2023-03-21,Miss Gina Nixon MD,Clara Vincent0,32456.2,Emergency,2024-10-05,Ibuprofen,Normal
+Tina Hines,90,Male,A+,Heart Disease,2024-06-09,Alexandra Bennett,Red Hills healthcare,1077.56,Elective,2024-07-09,Losartan,Abnormal
+Jennifer Ray,9,Other,B-,Hypertension,2023-10-24,Chelsea Roberson,Sam Isaac Group,34021.75,Urgent,2024-05-16,Losartan,Abnormal
+Timothy Torres,75,Other,B-,Heart Disease,2022-01-10,Jonathon Black,Red Hills healthcare,18492.75,Routine,2024-10-02,Ibuprofen,Critical
+Janet Shaw,18,Male,B+,Hypertension,2023-04-18,Eric Johnson,Sara & Sue,9646.55,Elective,2023-08-18,Ibuprofen,Critical
+Keith Gonzalez,1,Other,AB-,Diabetes,2024-08-27,Mary Smith,FynnCare Hospital,35757.67,Routine,2025-04-22,Amoxicillin,Normal
+Lisa Moore,27,Other,O-,Diabetes,2023-12-26,Calvin Martin,Sam Isaac Group,15694.67,Urgent,2024-11-08,Ibuprofen,Critical
+Jacob Acevedo,39,Female,B-,Hypertension,2024-11-16,Christine Newman,Jacoby Stuarts ,34884.56,Routine,2025-11-26,Aspirin,Critical
+Aaron Kline,9,Other,A+,Cancer,2023-04-06,Emily Davila,SRK Healthcare,1038.69,Emergency,2025-09-24,Ibuprofen,Abnormal
+Jason Ramirez,85,Female,B-,Heart Disease,2022-12-02,Miss Gina Nixon MD,John Marcelo Clinic,29255.87,Urgent,2025-02-15,Metformin,Critical
+Samantha Mora,45,Other,O-,Arthritis,2023-02-16,Christine Newman,Scott Island Hospitals,21753.61,Urgent,2024-05-04,Metformin,Critical
+Dennis Keith,20,Female,A+,Migraine,2022-04-04,Brian Keith,Sam Isaac Group,24833.42,Elective,2023-11-19,Metformin,Critical
+Frank Reyes,25,Other,A-,Arthritis,2022-02-08,Deanna Fleming,John Marcelo Clinic,22804.61,Routine,2022-07-30,Amoxicillin,Critical
+Jasmine Moore,13,Other,O+,Arthritis,2024-01-25,Chelsea Roberson,Sara & Sue,6550.17,Routine,2024-03-19,Paracetamol,Critical
+Benjamin Romero,26,Other,A-,Hypertension,2022-05-10,Christine Newman,Scott Island Hospitals,31805.97,Routine,2022-10-05,Paracetamol,Normal
+Lisa Rios,25,Other,AB-,Asthma,2024-03-26,Brian Keith,FynnCare Hospital,19169.23,Emergency,2024-05-23,Metformin,Critical
+Mary Finley,56,Male,AB+,Obesity,2024-02-24,Karen Black,Jacoby Stuarts ,45787.06,Elective,2025-02-23,Amoxicillin,Abnormal
+Kevin White,61,Male,B-,Anxiety,2024-03-25,Brian Keith,SRK Healthcare,39722.47,Emergency,2024-08-16,Amoxicillin,Critical
+Brandon Wheeler,18,Male,B+,Migraine,2022-04-19,Deanna Fleming,Clara Vincent,7356.06,Urgent,2023-01-18,Omeprazole,Critical
+Thomas Brown,34,Female,O-,Heart Disease,2024-01-27,Andrew Greer,Sara & Sue,25236.85,Urgent,2025-04-28,Losartan,Normal
+Karen Wheeler,43,Female,A+,Hypertension,2022-10-11,Brian Keith,Sara & Sue,24970.82,Elective,2025-05-02,Atorvastatin,Abnormal
+Laurie Nguyen,78,Other,AB-,Heart Disease,2024-01-28,Christy Hall,John Marcelo Clinic,47543.18,Elective,2024-12-15,Amoxicillin,Abnormal
+Samantha Cook,6,Male,B+,Anxiety,2024-11-17,Jonathon Black,Clara Vincent,46459.42,Urgent,2025-01-14,Losartan,Critical
+Tony Scott,13,Other,O+,Hypertension,2022-10-19,Jonathon Black,Clara Vincent0,42391.57,Urgent,2023-05-18,Atorvastatin,Abnormal
+Megan Diaz,12,Male,AB-,Asthma,2022-08-19,Deanna Fleming,Clara Vincent0,8538.99,Emergency,2025-03-19,Atorvastatin,Normal
+Duane Vazquez,1,Female,A-,Arthritis,2024-01-15,Alexandra Bennett,Clara Vincent,16799.43,Elective,2024-12-09,Omeprazole,Abnormal
+Amanda Carson,70,Male,A+,Cancer,2023-08-27,Kim Peterson,FynnCare Hospital,20726.4,Emergency,2025-09-22,Paracetamol,Abnormal
+Joseph Cline,21,Female,AB-,Arthritis,2024-01-26,Christy Hall,SRK Healthcare,33642.98,Routine,2025-06-05,Amoxicillin,Normal
+Anthony Morris,61,Female,O-,Obesity,2023-11-19,Rebecca Jones,Clara Vincent0,13388.27,Emergency,2024-09-25,Losartan,Abnormal
+Tom Walker,54,Other,O-,Asthma,2022-09-01,Tonya Stephens,FynnCare Hospital,23137.64,Urgent,2025-10-12,Losartan,Normal
+Rachel Wagner,96,Female,B+,Diabetes,2023-12-17,Kim Peterson,FynnCare Hospital,37676.2,Routine,2024-04-08,Metformin,Abnormal
+Julia White,50,Other,AB-,Arthritis,2022-02-09,Brian Keith,Red Hills healthcare,16222.22,Emergency,2024-10-27,Metformin,Normal
+Anthony Jones,60,Other,B+,Arthritis,2023-04-05,Christy Hall,Sam Isaac Group,43976.95,Emergency,2025-08-03,Atorvastatin,Normal
+Jacob Wilson,60,Other,B-,Hypertension,2024-01-11,Andrew Greer,SRK Healthcare,23996.85,Emergency,2024-11-12,Atorvastatin,Critical
+Robert King,63,Other,A-,Migraine,2023-11-22,Christine Newman,Clara Vincent0,27040.33,Emergency,2024-01-13,Metformin,Normal
+Ann Wilson,52,Male,A-,Heart Disease,2023-05-26,Timothy Ramirez,Scott Island Hospitals,23062.9,Emergency,2023-11-16,Lisinopril,Abnormal
+Amanda Martin,42,Male,O+,Hypertension,2023-02-22,Calvin Martin,Clara Vincent,11656.7,Elective,2023-10-05,Lisinopril,Critical
+Christopher Bennett,7,Male,AB+,Hypertension,2023-11-30,Calvin Martin,Jacoby Stuarts ,15078.69,Elective,2025-07-25,Atorvastatin,Normal
+Robert Wolfe,60,Female,A-,Diabetes,2024-01-20,Christine Newman,John Marcelo Clinic,40319.44,Emergency,2025-04-15,Paracetamol,Abnormal
+John Rice,9,Other,A+,Migraine,2023-04-28,Rebecca Jones,Sam Isaac Group,19206.72,Emergency,2025-01-16,Paracetamol,Normal
+David Robinson,18,Female,B+,Diabetes,2023-10-07,Kim Peterson,Sam Isaac Group,1720.96,Elective,2024-11-03,Aspirin,Normal
+Deborah Patel,82,Male,AB+,Diabetes,2023-04-02,Miss Gina Nixon MD,Red Hills healthcare,26013.3,Routine,2023-11-17,Lisinopril,Critical
+Nicole Smith,39,Male,A-,Asthma,2024-04-11,Alexandra Bennett,Sam Isaac Group,22150.16,Elective,2025-07-03,Omeprazole,Normal
+Derek Bailey,47,Male,B-,Heart Disease,2023-05-27,Timothy Ramirez,Jacoby Stuarts ,10538.69,Routine,2024-01-08,Atorvastatin,Normal
+Nicholas Rose,22,Other,AB+,Obesity,2022-01-07,Chelsea Roberson,Jacoby Stuarts ,30390.12,Emergency,2025-04-07,Lisinopril,Abnormal
+Tracy Simpson,54,Male,AB-,Heart Disease,2022-11-13,Miss Gina Nixon MD,Sara & Sue,36375.79,Elective,2024-04-15,Atorvastatin,Normal
+Erica Hanna,96,Female,O-,Arthritis,2022-10-13,Timothy Ramirez,Sara & Sue,19245.62,Emergency,2025-03-21,Losartan,Normal
+Tina White,74,Male,A+,Diabetes,2024-01-15,Brian Keith,John Marcelo Clinic,12542.45,Routine,2025-01-02,Lisinopril,Critical
+Jacob Hammond,71,Female,O+,Migraine,2024-05-06,Rebecca Jones,Sam Isaac Group,40216.14,Urgent,2025-03-31,Aspirin,Critical
+Christina Gonzalez,84,Female,O+,Arthritis,2023-07-30,Kim Peterson,FynnCare Hospital,46230.97,Emergency,2024-07-19,Omeprazole,Normal
+Toni Luna,82,Female,B+,Obesity,2023-05-24,Jonathon Black,Scott Island Hospitals,23846.89,Emergency,2025-04-05,Amoxicillin,Abnormal
+Karen Lambert,83,Female,A+,Cancer,2022-06-30,Jonathon Black,SRK Healthcare,34848.64,Routine,2025-10-18,Aspirin,Abnormal
+Jennifer King,25,Other,AB+,Hypertension,2023-02-21,Calvin Martin,Jacoby Stuarts ,44027.51,Elective,2023-08-22,Losartan,Normal
+Ms. Ashley Patel,7,Male,A-,Migraine,2022-05-23,Alexandra Bennett,Clara Vincent0,16683.89,Urgent,2022-08-07,Amoxicillin,Normal
+John Smith,70,Other,B-,Heart Disease,2023-01-05,Tonya Stephens,Sam Isaac Group,46960.24,Urgent,2023-05-17,Omeprazole,Critical
+Michael Ross,22,Female,A-,Hypertension,2022-03-17,Allison Carlson,Scott Island Hospitals,16042.05,Emergency,2024-02-04,Omeprazole,Critical
+Mr. John Bradley,1,Female,O+,Obesity,2023-01-31,Rebecca Jones,John Marcelo Clinic,20440.35,Routine,2025-06-19,Lisinopril,Critical
+Samuel Berry,94,Other,B+,Depression,2023-05-31,Tonya Stephens,Jacoby Stuarts ,27728.81,Emergency,2024-07-23,Atorvastatin,Critical
+Troy Ortiz,31,Male,AB-,Asthma,2023-11-22,Tonya Stephens,Sam Isaac Group,32001.53,Emergency,2024-12-15,Atorvastatin,Normal
+Penny Kim,49,Male,AB+,Obesity,2023-10-05,Kim Peterson,Jacoby Stuarts ,30984.89,Urgent,2025-05-07,Ibuprofen,Normal
+Jason Rush,59,Male,O-,Heart Disease,2024-11-07,Chelsea Roberson,SRK Healthcare,30690.8,Elective,2025-11-04,Losartan,Abnormal
+Megan Woods,26,Female,O-,Depression,2023-12-11,Tonya Stephens,Scott Island Hospitals,34239.06,Routine,2024-04-22,Aspirin,Critical
+Alexis Harvey,32,Female,O-,Asthma,2023-10-12,Jonathon Black,Clara Vincent,5335.35,Emergency,2024-10-16,Amoxicillin,Normal
+David Burton,61,Other,O-,Diabetes,2024-01-20,Jonathon Black,Clara Vincent0,20597.08,Urgent,2024-09-20,Omeprazole,Abnormal
+Joshua Blackburn,90,Other,B+,Arthritis,2022-07-02,Christy Hall,Sam Isaac Group,25959.47,Routine,2022-10-19,Aspirin,Normal
+Gina Padilla,14,Other,B-,Diabetes,2023-02-03,Mary Smith,FynnCare Hospital,24676.87,Urgent,2023-04-20,Atorvastatin,Critical
+David Flores,9,Female,B-,Obesity,2022-02-11,Miss Gina Nixon MD,Scott Island Hospitals,43700.53,Elective,2023-09-04,Ibuprofen,Normal
+Kathleen Jackson,33,Other,B-,Cancer,2023-07-14,Miss Gina Nixon MD,John Marcelo Clinic,37610.41,Emergency,2024-06-03,Paracetamol,Normal
+Richard Morgan,98,Other,O-,Depression,2022-08-25,Andrew Greer,Clara Vincent0,17779.97,Routine,2025-10-02,Omeprazole,Normal
+Allison Wheeler,94,Male,B-,Obesity,2024-11-06,Christy Hall,Jacoby Stuarts ,8088.91,Elective,2025-07-18,Paracetamol,Normal
+Andrew Allen,50,Female,O+,Obesity,2023-11-11,Miss Gina Nixon MD,SRK Healthcare,12642.96,Routine,2024-12-20,Atorvastatin,Normal
+Bruce Escobar DVM,74,Female,AB+,Heart Disease,2021-12-16,Eric Johnson,Clara Vincent0,11780.33,Elective,2024-10-12,Aspirin,Normal
+David Riley,16,Other,AB-,Cancer,2022-09-02,Brian Keith,Sam Isaac Group,10415.74,Elective,2024-06-16,Losartan,Abnormal
+Marcus Ortiz,79,Female,A-,Asthma,2021-12-25,Eric Johnson,John Marcelo Clinic,26128.07,Urgent,2023-01-29,Metformin,Critical
+Arthur Ortega,26,Male,O+,Asthma,2022-11-26,Karen Black,Clara Vincent0,40865.56,Elective,2025-07-16,Metformin,Critical
+Christian Hayes,71,Other,O+,Hypertension,2024-06-06,Chelsea Roberson,Red Hills healthcare,28142.83,Routine,2024-11-07,Lisinopril,Critical
+Ethan Larson,75,Male,AB-,Heart Disease,2023-08-01,Christy Hall,Sara & Sue,23469.7,Urgent,2025-05-26,Aspirin,Critical
+Robert Valdez,49,Male,AB-,Cancer,2023-03-16,Deanna Fleming,Red Hills healthcare,32467.57,Urgent,2025-11-06,Omeprazole,Critical
+Emily Vega,46,Female,A+,Migraine,2024-03-19,Emily Davila,Jacoby Stuarts ,4844.43,Emergency,2024-09-11,Amoxicillin,Critical
+Dalton Lopez,50,Other,AB-,Heart Disease,2023-04-21,Christy Hall,Red Hills healthcare,36767.1,Elective,2023-07-06,Paracetamol,Normal
+Darius Butler,15,Male,B+,Anxiety,2024-07-14,Alan Cabrera,Sara & Sue,46523.34,Elective,2024-11-13,Losartan,Critical
+Claudia Hall,67,Other,O-,Diabetes,2022-07-15,Andrew Greer,Clara Vincent0,12017.85,Routine,2024-03-13,Aspirin,Critical
+Kim Alvarez,87,Male,B+,Asthma,2022-12-08,Timothy Ramirez,SRK Healthcare,1552.37,Routine,2025-05-26,Ibuprofen,Critical
+Robert Fitzgerald,40,Male,O+,Arthritis,2024-02-05,Brian Keith,FynnCare Hospital,40700.15,Urgent,2024-12-16,Losartan,Critical
+Christopher Lopez,18,Female,A-,Diabetes,2022-07-05,Mary Smith,Clara Vincent,32983.39,Routine,2025-06-20,Aspirin,Critical
+Diane Marshall,90,Other,B+,Depression,2022-08-13,Timothy Ramirez,Red Hills healthcare,41240.67,Urgent,2023-12-28,Omeprazole,Abnormal
+Melinda Tapia,43,Female,AB-,Migraine,2024-03-14,Mary Smith,SRK Healthcare,2648.2,Routine,2024-09-10,Lisinopril,Critical
+Linda Hall,78,Female,A-,Arthritis,2023-05-08,Brian Keith,Sara & Sue,48651.62,Routine,2023-08-12,Metformin,Abnormal
+Heather Mcneil,25,Other,O+,Cancer,2023-03-11,Andrew Greer,FynnCare Hospital,32590.66,Urgent,2024-03-04,Omeprazole,Normal
+Autumn Brown,8,Female,O+,Migraine,2023-12-21,Jonathon Black,SRK Healthcare,11109.67,Elective,2024-01-12,Lisinopril,Critical
+Diane Thompson,48,Other,B-,Obesity,2022-01-17,Alan Cabrera,Clara Vincent0,45187.58,Urgent,2022-08-12,Lisinopril,Critical
+Gabrielle Williams,56,Male,A-,Asthma,2024-10-13,Jonathon Black,Clara Vincent,8825.6,Emergency,2024-10-24,Aspirin,Critical
+Brent Fuller,99,Male,A+,Hypertension,2022-05-14,Eric Johnson,Sam Isaac Group,11825.45,Emergency,2024-11-07,Atorvastatin,Abnormal
+Timothy Cooper,38,Other,A+,Arthritis,2023-06-18,Eric Johnson,Clara Vincent0,23196.42,Elective,2025-04-22,Ibuprofen,Critical
+Jamie Burns,75,Female,A+,Depression,2022-07-10,Andrew Greer,Red Hills healthcare,36820.45,Routine,2022-09-06,Lisinopril,Normal
+Donald Davis,77,Female,AB-,Depression,2022-07-25,Christy Hall,FynnCare Hospital,36411.71,Urgent,2023-02-01,Amoxicillin,Abnormal
+Anita Garcia,31,Other,B+,Depression,2022-01-20,Eric Johnson,Clara Vincent,30399.98,Emergency,2023-09-20,Lisinopril,Normal
+Stephen Patterson,93,Female,B-,Heart Disease,2024-10-24,Rebecca Jones,FynnCare Hospital,32305.04,Elective,2025-09-25,Aspirin,Normal
+Christopher Stafford,26,Other,O+,Arthritis,2023-04-16,Brian Keith,Sara & Sue,4074.63,Emergency,2025-03-19,Omeprazole,Abnormal
+James Patterson,74,Male,A+,Heart Disease,2023-09-12,Miss Gina Nixon MD,SRK Healthcare,25084.09,Emergency,2024-05-31,Aspirin,Abnormal
+Laurie Leon,82,Other,B+,Depression,2023-10-20,Alexandra Bennett,Sara & Sue,26189.0,Elective,2024-10-18,Aspirin,Critical
+Melissa Scott,86,Other,B+,Asthma,2024-07-27,Timothy Ramirez,John Marcelo Clinic,8548.41,Elective,2024-08-23,Metformin,Critical
+Jennifer Young,18,Other,O-,Hypertension,2022-09-21,Christine Newman,Clara Vincent0,12591.44,Emergency,2023-07-03,Atorvastatin,Normal
+Wayne Snyder,16,Other,B-,Hypertension,2023-11-18,Alexandra Bennett,FynnCare Hospital,19725.53,Routine,2024-03-30,Atorvastatin,Critical
+Briana White,72,Female,O-,Asthma,2024-06-22,Miss Gina Nixon MD,Clara Vincent,6440.32,Urgent,2025-11-07,Aspirin,Critical
+Rachel Gray,92,Female,O+,Arthritis,2022-10-20,Christy Hall,Jacoby Stuarts ,10023.6,Elective,2023-06-29,Omeprazole,Normal
+Laura Jordan,42,Female,O+,Depression,2023-09-22,Kim Peterson,Clara Vincent0,13083.97,Elective,2025-11-15,Paracetamol,Abnormal
+Douglas Owen,48,Female,B+,Hypertension,2022-03-29,Kim Peterson,Clara Vincent,6002.8,Elective,2022-09-21,Amoxicillin,Abnormal
+Tony Ramsey,99,Other,A+,Diabetes,2023-08-27,Emily Davila,Clara Vincent,32970.34,Emergency,2024-01-12,Amoxicillin,Abnormal
+Daniel Mata,30,Male,AB+,Asthma,2023-03-11,Tonya Stephens,Scott Island Hospitals,41468.98,Routine,2024-05-24,Ibuprofen,Normal
+Matthew Alvarado,29,Other,A-,Heart Disease,2022-01-08,Christine Newman,Jacoby Stuarts ,13411.23,Urgent,2022-06-15,Paracetamol,Abnormal
+Cassandra Patton,5,Male,A-,Asthma,2023-09-12,Andrew Greer,Sam Isaac Group,23801.88,Routine,2024-04-07,Losartan,Abnormal
+Melinda Horton,34,Other,O-,Diabetes,2023-01-10,Christy Hall,John Marcelo Clinic,16900.72,Emergency,2024-01-26,Ibuprofen,Critical
+Richard Owens,8,Male,A+,Anxiety,2024-10-02,Kim Peterson,Scott Island Hospitals,3294.04,Urgent,2025-08-28,Metformin,Normal
+Natalie Skinner,48,Female,A+,Heart Disease,2024-05-20,Calvin Martin,Sam Isaac Group,14416.83,Urgent,2024-12-12,Lisinopril,Abnormal
+Bonnie Bond,35,Other,B+,Obesity,2024-04-16,Timothy Ramirez,Clara Vincent0,45390.05,Emergency,2025-05-19,Amoxicillin,Abnormal
+Gregory White,43,Female,O-,Migraine,2022-10-28,Allison Carlson,SRK Healthcare,43009.92,Emergency,2022-11-02,Amoxicillin,Abnormal
+Christopher Mills,47,Male,AB+,Obesity,2024-11-29,Tonya Stephens,Sam Isaac Group,17335.6,Elective,2025-08-24,Amoxicillin,Normal
+Joshua Schwartz,58,Other,B+,Cancer,2023-04-03,Chelsea Roberson,FynnCare Hospital,48544.28,Urgent,2025-03-20,Aspirin,Abnormal
+Kaitlyn Newman,66,Other,A+,Heart Disease,2023-08-05,Emily Davila,John Marcelo Clinic,46482.94,Elective,2024-09-19,Metformin,Abnormal
+Elizabeth Hurst,33,Male,AB-,Obesity,2021-12-20,Miss Gina Nixon MD,SRK Healthcare,14183.24,Routine,2023-12-13,Paracetamol,Normal
+Nathan Walker,7,Female,AB+,Diabetes,2023-06-06,Jonathon Black,Jacoby Stuarts ,27519.94,Elective,2023-09-07,Atorvastatin,Critical
+Anna Taylor,3,Female,A+,Anxiety,2023-11-12,Alan Cabrera,Scott Island Hospitals,43448.16,Urgent,2024-11-28,Ibuprofen,Abnormal
+Angel Buck,80,Other,B+,Hypertension,2024-06-03,Eric Johnson,Jacoby Stuarts ,49341.21,Elective,2025-08-11,Ibuprofen,Critical
+Jose Fuentes,72,Male,O+,Migraine,2024-09-18,Miss Gina Nixon MD,Sara & Sue,12574.68,Urgent,2025-01-21,Metformin,Normal
+Debra Macdonald,80,Female,O+,Migraine,2023-03-03,Rebecca Jones,SRK Healthcare,31780.64,Urgent,2024-07-06,Losartan,Critical
+Monica Harris,94,Female,AB-,Migraine,2024-09-20,Miss Gina Nixon MD,Scott Island Hospitals,32119.33,Urgent,2025-03-30,Paracetamol,Critical
+Lucas Dorsey,33,Female,O-,Obesity,2024-08-16,Alexandra Bennett,SRK Healthcare,13693.01,Routine,2025-05-22,Metformin,Normal
+Kurt Jones,44,Female,A-,Arthritis,2022-01-03,Tonya Stephens,Red Hills healthcare,5649.46,Elective,2022-05-25,Atorvastatin,Normal
+Juan Rodriguez,79,Male,A+,Cancer,2023-01-08,Allison Carlson,Jacoby Stuarts ,12929.09,Emergency,2023-02-10,Metformin,Critical
+Nicholas Roberts,48,Female,A+,Diabetes,2022-03-01,Kim Peterson,Sam Isaac Group,43613.09,Routine,2025-03-05,Atorvastatin,Abnormal
+Elizabeth Wilson,81,Male,A+,Anxiety,2022-02-01,Mary Smith,Clara Vincent,35587.91,Elective,2024-04-27,Lisinopril,Abnormal
+Charlene Burgess,13,Male,AB+,Hypertension,2022-10-11,Karen Black,FynnCare Hospital,40941.24,Elective,2025-05-01,Atorvastatin,Abnormal
+Destiny Bradley,89,Female,B+,Diabetes,2022-03-14,Christine Newman,Sam Isaac Group,25292.37,Routine,2023-05-06,Metformin,Critical
+Brittany Gonzalez,8,Female,B+,Hypertension,2023-05-11,Rebecca Jones,John Marcelo Clinic,30225.05,Urgent,2025-03-28,Omeprazole,Critical
+Anthony Braun,98,Other,B+,Hypertension,2024-01-27,Rebecca Jones,SRK Healthcare,36706.05,Emergency,2025-01-14,Lisinopril,Abnormal
+Hunter Garcia,85,Male,B+,Diabetes,2023-11-05,Mary Smith,FynnCare Hospital,44132.0,Urgent,2025-05-23,Ibuprofen,Normal
+Stephen Carlson,8,Male,AB+,Anxiety,2024-09-06,Andrew Greer,Sara & Sue,35207.51,Urgent,2024-09-09,Metformin,Normal
+Tammy Bell,15,Male,A+,Migraine,2022-12-15,Miss Gina Nixon MD,Scott Island Hospitals,28472.2,Emergency,2023-02-28,Paracetamol,Normal
+Roberto Garcia,96,Female,O+,Arthritis,2024-10-05,Christy Hall,SRK Healthcare,17905.45,Routine,2024-11-10,Atorvastatin,Abnormal
+Darrell Thomas,42,Male,O-,Depression,2024-06-17,Miss Gina Nixon MD,Sara & Sue,43674.19,Urgent,2025-03-05,Lisinopril,Normal
+Aaron Ford,43,Male,AB-,Obesity,2024-04-17,Miss Gina Nixon MD,Clara Vincent,34311.6,Routine,2025-11-30,Lisinopril,Critical
+Melissa Schwartz,25,Other,AB-,Asthma,2024-06-03,Eric Johnson,Sam Isaac Group,41757.06,Emergency,2024-12-25,Aspirin,Critical
+Jodi Horne,42,Male,B+,Obesity,2023-09-30,Alan Cabrera,FynnCare Hospital,6682.0,Elective,2025-02-15,Ibuprofen,Abnormal
+Christine Duke,91,Male,O+,Heart Disease,2022-10-26,Eric Johnson,Scott Island Hospitals,32622.67,Routine,2023-03-17,Atorvastatin,Normal
+Julie Hawkins,3,Female,AB-,Obesity,2023-05-16,Timothy Ramirez,Jacoby Stuarts ,3823.95,Routine,2025-06-07,Aspirin,Critical
+Benjamin James,86,Male,B-,Migraine,2022-04-03,Kim Peterson,Sam Isaac Group,48159.01,Routine,2023-10-14,Losartan,Critical
+Tammy Peterson,65,Other,O-,Migraine,2023-06-22,Deanna Fleming,Jacoby Stuarts ,38452.62,Elective,2024-12-24,Omeprazole,Critical
+Caroline Frey,45,Female,B+,Asthma,2022-12-20,Alan Cabrera,Scott Island Hospitals,29070.7,Elective,2025-08-11,Aspirin,Critical
+Christina Owens,49,Other,B-,Migraine,2024-04-07,Calvin Martin,Sara & Sue,8662.58,Urgent,2024-09-20,Ibuprofen,Critical
+Jason Rosales,61,Female,AB-,Heart Disease,2021-12-24,Allison Carlson,Sara & Sue,32972.18,Emergency,2022-09-14,Aspirin,Critical
+Julie Jacobs,54,Other,O+,Asthma,2023-09-15,Tonya Stephens,Scott Island Hospitals,46494.5,Emergency,2024-02-15,Omeprazole,Normal
+Michael Meyers,42,Female,O-,Diabetes,2023-01-24,Timothy Ramirez,John Marcelo Clinic,39164.82,Urgent,2024-02-16,Lisinopril,Critical
+Bailey Tate,93,Female,O-,Arthritis,2023-03-19,Timothy Ramirez,FynnCare Hospital,16017.5,Elective,2025-01-27,Metformin,Abnormal
+Rachel Johnston,100,Other,A+,Heart Disease,2022-06-23,Deanna Fleming,SRK Healthcare,6814.17,Urgent,2025-03-29,Atorvastatin,Normal
+Jacqueline Santiago,35,Other,AB-,Obesity,2022-04-13,Eric Johnson,Red Hills healthcare,10933.37,Routine,2025-02-07,Atorvastatin,Abnormal
+Robert Carter,26,Male,B+,Hypertension,2023-08-22,Kim Peterson,Clara Vincent0,49794.56,Routine,2024-06-22,Amoxicillin,Abnormal
+Denise Williams,3,Other,B+,Asthma,2023-11-11,Tonya Stephens,Red Hills healthcare,47600.88,Emergency,2024-01-11,Metformin,Normal
+Victoria Pierce,85,Male,O-,Hypertension,2021-12-24,Allison Carlson,Sam Isaac Group,12655.98,Routine,2022-06-28,Lisinopril,Abnormal
+James Hale,90,Male,A+,Cancer,2023-09-08,Mary Smith,SRK Healthcare,14209.37,Emergency,2025-03-06,Ibuprofen,Normal
+Michael Long,46,Other,B-,Hypertension,2023-06-07,Alexandra Bennett,SRK Healthcare,45457.62,Routine,2024-04-02,Lisinopril,Normal
+Tyler Watson,41,Other,AB+,Depression,2023-03-12,Mary Smith,Red Hills healthcare,34536.46,Urgent,2024-07-22,Aspirin,Normal
+Eric Choi,17,Other,AB+,Arthritis,2023-03-16,Allison Carlson,Jacoby Stuarts ,12116.0,Routine,2025-11-08,Paracetamol,Critical
+Haley Jennings,74,Other,A-,Diabetes,2022-02-23,Eric Johnson,Clara Vincent,45574.55,Urgent,2024-01-03,Aspirin,Abnormal
+Mr. Jonathan Dominguez,93,Other,A+,Depression,2024-12-05,Allison Carlson,Clara Vincent0,5072.2,Routine,2025-10-15,Lisinopril,Critical
+Julie Smith,74,Female,O-,Arthritis,2022-09-15,Tonya Stephens,FynnCare Hospital,19996.98,Emergency,2023-01-20,Atorvastatin,Normal
+Jessica Wright,3,Other,AB+,Depression,2024-11-15,Kim Peterson,Clara Vincent0,23174.84,Elective,2025-07-02,Metformin,Normal
+Danny Banks,89,Other,AB+,Migraine,2022-09-27,Emily Davila,FynnCare Hospital,34987.22,Emergency,2023-06-24,Lisinopril,Critical
+Anthony Pacheco,88,Male,AB+,Cancer,2023-06-03,Karen Black,Red Hills healthcare,29717.86,Elective,2025-05-16,Losartan,Critical
+Samantha Walker,65,Other,A+,Diabetes,2022-12-21,Alexandra Bennett,John Marcelo Clinic,19118.42,Urgent,2024-09-14,Metformin,Abnormal
+Michael Glass,58,Female,AB-,Cancer,2024-08-14,Andrew Greer,FynnCare Hospital,40101.32,Emergency,2024-11-25,Atorvastatin,Critical
+Isabella Stewart,96,Male,B-,Migraine,2023-09-06,Christy Hall,Sara & Sue,16644.46,Elective,2025-09-10,Aspirin,Normal
+Darren Sullivan,67,Male,A+,Diabetes,2021-12-08,Alan Cabrera,Red Hills healthcare,49624.18,Emergency,2024-05-05,Ibuprofen,Abnormal
+David Smith,29,Female,O+,Diabetes,2023-12-26,Allison Carlson,SRK Healthcare,25673.7,Elective,2025-05-11,Omeprazole,Abnormal
+Jade Zamora,50,Male,O+,Hypertension,2023-04-18,Chelsea Roberson,John Marcelo Clinic,40274.81,Urgent,2024-09-13,Losartan,Abnormal
+Nancy Pineda,59,Male,A-,Migraine,2022-04-24,Kim Peterson,Clara Vincent0,3238.36,Emergency,2022-09-05,Losartan,Normal
+Craig Myers,89,Other,AB-,Migraine,2023-07-15,Emily Davila,SRK Healthcare,27990.69,Elective,2025-09-27,Paracetamol,Normal
+Robert Delacruz,31,Male,A+,Anxiety,2023-06-13,Deanna Fleming,Clara Vincent0,11467.79,Urgent,2024-04-16,Ibuprofen,Normal
+Benjamin Rivera,45,Other,O-,Arthritis,2023-11-13,Kim Peterson,SRK Healthcare,4192.36,Routine,2023-12-11,Atorvastatin,Normal
+Margaret Hamilton,99,Other,O-,Anxiety,2023-12-18,Alan Cabrera,Jacoby Stuarts ,24688.74,Elective,2025-07-23,Ibuprofen,Normal
+Jodi Valencia,49,Male,B-,Cancer,2024-07-11,Christy Hall,Clara Vincent,35308.24,Elective,2025-11-04,Paracetamol,Normal
+William Smith,93,Male,A-,Heart Disease,2022-11-26,Emily Davila,Jacoby Stuarts ,24192.91,Emergency,2024-03-03,Lisinopril,Normal
+Amanda Brown,46,Other,B-,Depression,2023-08-20,Eric Johnson,Scott Island Hospitals,13518.92,Elective,2025-02-06,Aspirin,Abnormal
+Brian Nelson,48,Other,O-,Asthma,2022-11-03,Alexandra Bennett,Jacoby Stuarts ,25378.55,Urgent,2023-10-21,Paracetamol,Abnormal
+Tanya Peters,58,Male,O+,Asthma,2024-01-15,Deanna Fleming,Sam Isaac Group,18113.84,Elective,2024-08-20,Metformin,Critical
+James Austin,26,Female,AB-,Anxiety,2024-08-21,Brian Keith,FynnCare Hospital,6326.63,Emergency,2024-11-15,Ibuprofen,Critical
+Jason Robinson,4,Male,B-,Depression,2024-01-05,Deanna Fleming,FynnCare Hospital,35852.41,Elective,2024-08-09,Ibuprofen,Critical
+Debra Padilla,76,Female,B+,Migraine,2022-02-05,Timothy Ramirez,Clara Vincent,34631.5,Routine,2025-01-19,Metformin,Critical
+Michael Jones,3,Female,AB-,Diabetes,2023-02-04,Andrew Greer,Jacoby Stuarts ,6337.1,Routine,2025-04-17,Omeprazole,Abnormal
+Nathaniel Weber,23,Other,O-,Hypertension,2024-01-19,Andrew Greer,Clara Vincent0,48921.71,Elective,2024-05-26,Omeprazole,Critical
+Kristina Burns,83,Female,B+,Depression,2024-01-25,Chelsea Roberson,Sara & Sue,14163.85,Routine,2024-12-31,Metformin,Critical
+Elizabeth Bennett,44,Male,A+,Diabetes,2023-05-15,Miss Gina Nixon MD,Jacoby Stuarts ,29769.12,Urgent,2025-11-05,Aspirin,Normal
+Austin Watkins,88,Female,AB-,Arthritis,2022-07-13,Mary Smith,Clara Vincent,11043.31,Elective,2025-11-23,Omeprazole,Critical
+Miguel Hernandez,7,Other,O+,Diabetes,2023-04-26,Andrew Greer,FynnCare Hospital,30531.01,Urgent,2024-12-15,Lisinopril,Normal
+Carrie Bush,22,Female,O+,Depression,2022-10-19,Chelsea Roberson,Red Hills healthcare,6923.65,Urgent,2024-10-24,Lisinopril,Normal
+Christopher Nichols,43,Other,A-,Obesity,2024-03-10,Brian Keith,Scott Island Hospitals,13112.59,Elective,2024-07-10,Atorvastatin,Normal
+Charles Mccormick,44,Male,O-,Asthma,2023-05-09,Deanna Fleming,John Marcelo Clinic,19743.24,Urgent,2025-06-01,Losartan,Abnormal
+Julie Mckenzie,26,Female,A+,Heart Disease,2023-10-14,Christy Hall,FynnCare Hospital,6531.71,Urgent,2024-06-12,Ibuprofen,Normal
+Alicia Chang,89,Female,A+,Asthma,2023-03-11,Andrew Greer,Red Hills healthcare,23521.25,Routine,2023-03-17,Atorvastatin,Normal
+Elizabeth Robinson,39,Other,AB+,Heart Disease,2024-05-30,Alexandra Bennett,Clara Vincent,4690.13,Urgent,2024-09-06,Losartan,Normal
+Traci Lloyd,65,Female,A+,Anxiety,2023-07-07,Christy Hall,Jacoby Stuarts ,35077.61,Elective,2023-12-29,Ibuprofen,Abnormal
+Caleb Stone,30,Male,O+,Diabetes,2022-12-27,Miss Gina Nixon MD,John Marcelo Clinic,8643.44,Routine,2024-12-28,Amoxicillin,Normal
+David Adams,11,Female,A-,Arthritis,2024-10-13,Kim Peterson,John Marcelo Clinic,27807.78,Elective,2025-03-23,Lisinopril,Abnormal
+Tony Beasley,61,Female,A-,Anxiety,2022-07-22,Alan Cabrera,Scott Island Hospitals,41368.92,Elective,2024-11-15,Atorvastatin,Normal
+Brian Leblanc,39,Female,B-,Cancer,2024-06-26,Calvin Martin,Jacoby Stuarts ,25768.71,Routine,2025-07-09,Paracetamol,Critical
+Susan West DDS,91,Other,A+,Anxiety,2023-11-02,Karen Black,SRK Healthcare,16232.12,Routine,2024-04-25,Aspirin,Normal
+Ashley Robles,31,Other,B+,Heart Disease,2022-10-14,Alexandra Bennett,John Marcelo Clinic,24846.84,Routine,2025-04-28,Metformin,Critical
+Stephanie Carrillo,18,Female,O-,Asthma,2024-11-24,Andrew Greer,Sara & Sue,4561.24,Emergency,2025-04-22,Losartan,Normal
+Diana Salazar,95,Other,A+,Obesity,2023-11-15,Brian Keith,John Marcelo Clinic,48900.01,Elective,2024-11-29,Amoxicillin,Abnormal
+Jose Tran,62,Female,A+,Heart Disease,2023-04-13,Tonya Stephens,Jacoby Stuarts ,1468.85,Emergency,2024-11-09,Ibuprofen,Critical
+Donald Hopkins,55,Male,AB-,Asthma,2022-06-08,Alexandra Bennett,Sara & Sue,36950.33,Urgent,2023-02-17,Ibuprofen,Normal
+Kelly Tran,48,Male,O+,Anxiety,2022-01-14,Alan Cabrera,SRK Healthcare,11949.97,Routine,2023-03-09,Atorvastatin,Abnormal
+Christine Moore,86,Other,AB+,Obesity,2024-02-11,Alexandra Bennett,FynnCare Hospital,40333.76,Urgent,2024-12-14,Atorvastatin,Abnormal
+Felicia Osborn,70,Other,AB+,Obesity,2022-10-17,Karen Black,Jacoby Stuarts ,34591.98,Urgent,2025-03-12,Amoxicillin,Abnormal
+Tammy Charles,77,Other,O-,Migraine,2022-01-21,Emily Davila,SRK Healthcare,17725.17,Urgent,2024-06-19,Ibuprofen,Abnormal
+Alicia Fowler,49,Female,A-,Obesity,2024-03-21,Miss Gina Nixon MD,Scott Island Hospitals,22490.72,Urgent,2025-10-02,Losartan,Normal
+Jennifer Adams,70,Female,AB-,Arthritis,2023-08-14,Miss Gina Nixon MD,Clara Vincent,41993.38,Routine,2024-09-02,Omeprazole,Abnormal
+Brittany Garrison,8,Male,A-,Migraine,2022-08-25,Brian Keith,Clara Vincent0,22578.51,Emergency,2023-09-11,Lisinopril,Critical
+Cheryl Mason,11,Male,A-,Hypertension,2022-10-23,Rebecca Jones,Clara Vincent,28000.45,Routine,2025-04-25,Paracetamol,Normal
+Clinton White,23,Other,B-,Anxiety,2024-08-28,Kim Peterson,Red Hills healthcare,26389.94,Urgent,2025-11-06,Losartan,Abnormal
+Rebekah Flores,50,Female,B-,Cancer,2021-12-13,Brian Keith,Jacoby Stuarts ,31838.9,Urgent,2025-11-30,Ibuprofen,Critical
+Anthony Miller,100,Male,O-,Obesity,2024-07-30,Eric Johnson,Clara Vincent,2313.53,Routine,2025-10-20,Ibuprofen,Abnormal
+David Carr,29,Male,B-,Anxiety,2022-06-21,Chelsea Roberson,Sara & Sue,36406.67,Elective,2024-06-06,Omeprazole,Abnormal
+Sharon Johnson DVM,85,Female,A-,Hypertension,2022-01-15,Alexandra Bennett,Jacoby Stuarts ,42780.22,Urgent,2025-02-08,Ibuprofen,Normal
+Karen Webb,22,Female,O+,Cancer,2022-08-20,Alexandra Bennett,Scott Island Hospitals,48114.1,Elective,2022-10-21,Paracetamol,Abnormal
+Katherine Brady,74,Female,O+,Depression,2023-10-21,Emily Davila,Scott Island Hospitals,35966.89,Elective,2024-04-22,Losartan,Critical
+Bernard Haynes,73,Female,A-,Diabetes,2024-11-22,Christine Newman,Clara Vincent,12719.54,Urgent,2025-03-03,Atorvastatin,Critical
+Stephanie Rose,66,Female,O-,Anxiety,2022-10-24,Christy Hall,FynnCare Hospital,18357.42,Elective,2023-06-29,Amoxicillin,Abnormal
+Gabriela Haley,1,Other,AB-,Migraine,2024-01-17,Eric Johnson,Scott Island Hospitals,27198.1,Emergency,2024-10-24,Metformin,Abnormal
+Julia Koch,62,Other,B-,Cancer,2023-06-15,Christine Newman,Scott Island Hospitals,18196.68,Elective,2024-11-20,Lisinopril,Abnormal
+Kristen Ward,53,Other,B-,Obesity,2022-07-09,Alan Cabrera,Scott Island Hospitals,35708.42,Emergency,2022-11-18,Lisinopril,Normal
+Stephanie Welch,77,Other,O+,Migraine,2023-03-15,Alexandra Bennett,Sam Isaac Group,27307.36,Emergency,2023-11-05,Lisinopril,Critical
+Rebecca Shaffer,6,Other,O+,Cancer,2023-03-24,Calvin Martin,Scott Island Hospitals,18076.27,Elective,2024-02-20,Metformin,Critical
+Julia Gomez,93,Female,A+,Migraine,2024-08-01,Alan Cabrera,John Marcelo Clinic,2878.87,Urgent,2025-04-02,Amoxicillin,Normal
+Rebecca Garcia,93,Other,A-,Asthma,2023-06-24,Alexandra Bennett,Sara & Sue,31926.17,Emergency,2024-02-13,Metformin,Abnormal
+James Willis,100,Male,A+,Migraine,2022-09-15,Christine Newman,Red Hills healthcare,25680.81,Elective,2023-04-11,Atorvastatin,Critical
+Matthew Miller,94,Male,A+,Heart Disease,2024-05-24,Andrew Greer,Jacoby Stuarts ,37722.74,Emergency,2025-08-31,Atorvastatin,Critical
+Mary Sanchez,99,Male,O+,Heart Disease,2023-06-26,Andrew Greer,Clara Vincent,40365.31,Emergency,2024-10-20,Paracetamol,Critical
+Tyler Turner,17,Male,O+,Migraine,2024-05-12,Timothy Ramirez,Sara & Sue,13472.24,Emergency,2025-09-26,Aspirin,Abnormal
+David Campbell,69,Other,A-,Obesity,2022-04-29,Allison Carlson,John Marcelo Clinic,20453.41,Urgent,2025-01-31,Amoxicillin,Normal
+David Young,99,Other,B+,Migraine,2022-03-30,Alexandra Bennett,Sara & Sue,49883.61,Elective,2023-11-04,Omeprazole,Abnormal
+Deanna Jones,93,Female,AB+,Hypertension,2024-02-08,Mary Smith,Sara & Sue,13735.52,Emergency,2024-11-02,Omeprazole,Critical
+Todd Robinson,44,Other,B-,Cancer,2024-11-21,Alexandra Bennett,Red Hills healthcare,39841.31,Urgent,2025-07-06,Amoxicillin,Abnormal
+Kendra Barber MD,34,Male,B-,Diabetes,2023-05-03,Jonathon Black,SRK Healthcare,6321.29,Emergency,2024-05-13,Losartan,Normal
+Elizabeth Russo,66,Female,B-,Heart Disease,2023-08-16,Jonathon Black,John Marcelo Clinic,42215.79,Elective,2024-12-02,Losartan,Normal
+Jacob Brock,54,Female,AB-,Obesity,2022-12-10,Miss Gina Nixon MD,Clara Vincent,28533.2,Elective,2023-07-27,Paracetamol,Critical
+Bradley Hines,37,Male,B-,Obesity,2023-11-22,Timothy Ramirez,Clara Vincent0,10308.89,Routine,2024-11-09,Amoxicillin,Abnormal
+Mary Benitez,53,Other,A+,Asthma,2024-06-10,Kim Peterson,John Marcelo Clinic,4795.55,Emergency,2025-06-27,Aspirin,Critical
+Robert Johnson,57,Male,B-,Heart Disease,2024-06-29,Alan Cabrera,FynnCare Hospital,13153.88,Urgent,2024-11-24,Atorvastatin,Critical
+Andrew Patterson,56,Other,O-,Heart Disease,2024-03-08,Timothy Ramirez,Red Hills healthcare,30647.74,Emergency,2025-03-02,Omeprazole,Normal
+Brett Smith,70,Male,A-,Asthma,2023-05-23,Emily Davila,John Marcelo Clinic,20975.61,Urgent,2024-05-17,Aspirin,Critical
+Rebekah Watson,89,Female,O-,Migraine,2024-04-20,Alexandra Bennett,Sam Isaac Group,18416.72,Elective,2024-10-06,Lisinopril,Abnormal
+Melissa Castillo,31,Female,O-,Hypertension,2023-11-07,Brian Keith,Red Hills healthcare,40654.95,Emergency,2024-09-07,Losartan,Normal
+Jennifer Coleman,55,Other,O-,Arthritis,2022-12-17,Jonathon Black,Jacoby Stuarts ,44718.43,Routine,2024-07-02,Losartan,Critical
+Derek Caldwell,5,Other,AB+,Migraine,2024-11-02,Allison Carlson,Jacoby Stuarts ,27453.16,Routine,2025-05-01,Lisinopril,Critical
+Edward Brown,20,Female,B-,Cancer,2022-01-08,Rebecca Jones,Sam Isaac Group,1376.56,Urgent,2023-08-12,Omeprazole,Abnormal
+Donald Cortez,86,Other,AB+,Depression,2024-03-03,Rebecca Jones,SRK Healthcare,2406.18,Elective,2024-08-08,Metformin,Normal
+Donald Hart,16,Other,B-,Obesity,2022-07-04,Timothy Ramirez,Red Hills healthcare,22981.72,Routine,2023-12-11,Amoxicillin,Critical
+Kelly Mcknight,47,Other,A+,Cancer,2024-07-04,Deanna Fleming,Scott Island Hospitals,21286.6,Urgent,2025-09-24,Amoxicillin,Critical
+Kayla Mathews,90,Other,A-,Cancer,2022-09-29,Chelsea Roberson,Clara Vincent,37115.18,Emergency,2025-03-21,Metformin,Abnormal
+Jesse Turner,66,Female,A+,Cancer,2023-03-22,Alan Cabrera,SRK Healthcare,38102.0,Routine,2024-11-17,Omeprazole,Critical
+Joseph Taylor,71,Female,B+,Cancer,2024-04-27,Chelsea Roberson,SRK Healthcare,48526.36,Routine,2025-07-03,Lisinopril,Abnormal
+James Brown,60,Male,O-,Cancer,2024-03-17,Chelsea Roberson,Sam Isaac Group,18218.76,Urgent,2025-08-17,Lisinopril,Critical
+Rhonda Brown,48,Female,B-,Asthma,2023-03-06,Rebecca Jones,Clara Vincent0,47425.27,Routine,2024-12-03,Losartan,Abnormal
+Brandon Dillon,59,Male,AB+,Heart Disease,2023-11-21,Tonya Stephens,Sara & Sue,23020.0,Urgent,2025-01-18,Amoxicillin,Abnormal
+Ashley Williams,44,Female,O-,Obesity,2022-06-30,Karen Black,Jacoby Stuarts ,23164.43,Emergency,2024-06-16,Metformin,Normal
+David Newman,14,Female,A-,Obesity,2024-11-30,Alan Cabrera,FynnCare Hospital,14497.25,Urgent,2025-04-01,Paracetamol,Abnormal
+Zachary Mcdonald,97,Female,AB-,Anxiety,2023-05-22,Tonya Stephens,Scott Island Hospitals,33723.92,Routine,2025-11-06,Metformin,Normal
+Jeanne Jennings,100,Other,A+,Depression,2024-10-02,Alan Cabrera,Red Hills healthcare,34389.28,Urgent,2025-06-02,Ibuprofen,Normal
+Cindy Brady,59,Female,AB+,Depression,2022-01-23,Karen Black,Clara Vincent0,40426.31,Elective,2023-06-05,Omeprazole,Abnormal
+Sarah Odonnell,42,Other,O-,Anxiety,2022-07-02,Christine Newman,SRK Healthcare,19254.26,Urgent,2022-10-02,Lisinopril,Abnormal
+Charles Smith,32,Female,A-,Arthritis,2021-12-26,Miss Gina Nixon MD,Sam Isaac Group,8290.15,Urgent,2022-05-27,Amoxicillin,Normal
+Edward Hunter,85,Female,AB+,Cancer,2023-01-09,Kim Peterson,Jacoby Stuarts ,35009.54,Routine,2025-08-27,Atorvastatin,Critical
+Glenda Merritt,79,Male,A-,Cancer,2022-11-14,Chelsea Roberson,John Marcelo Clinic,10469.94,Urgent,2024-08-29,Paracetamol,Normal
+Natalie Jones,24,Male,A-,Arthritis,2022-04-08,Timothy Ramirez,Scott Island Hospitals,40842.39,Emergency,2024-02-04,Losartan,Abnormal
+Sally Adkins,20,Female,A+,Migraine,2022-09-15,Mary Smith,Scott Island Hospitals,4719.05,Emergency,2024-10-02,Atorvastatin,Critical
+Timothy Turner,68,Female,A+,Heart Disease,2022-08-20,Calvin Martin,Sam Isaac Group,18518.42,Urgent,2023-03-22,Ibuprofen,Abnormal
+Jason Nguyen,57,Other,AB+,Anxiety,2023-04-20,Jonathon Black,Sam Isaac Group,6589.34,Routine,2024-04-06,Amoxicillin,Abnormal
+Mary Jenkins,80,Male,AB-,Asthma,2024-10-19,Emily Davila,Jacoby Stuarts ,26466.94,Elective,2025-07-11,Ibuprofen,Critical
+Heather Banks,91,Other,B+,Obesity,2023-11-13,Kim Peterson,Sam Isaac Group,43176.09,Urgent,2023-12-02,Lisinopril,Normal
+Michael Fowler,57,Female,AB+,Diabetes,2022-07-12,Tonya Stephens,Sam Isaac Group,11437.39,Emergency,2024-11-26,Paracetamol,Normal
