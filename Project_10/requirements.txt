@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+base64
+io
+poppler (software install and add to PATH)
