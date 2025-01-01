@@ -1,0 +1,5 @@
+streamlit
+openai
+langdetect
+google-cloud-translate
+sentencepiece
