@@ -1,3 +1,0 @@
-transformers
-pywebio
-pypdf2
